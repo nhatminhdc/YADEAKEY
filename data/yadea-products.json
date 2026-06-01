@@ -1,0 +1,5418 @@
+{
+  "syncedAt": "2026-06-01T20:33:57.006Z",
+  "source": "https://www.yadea.com.vn",
+  "hero": {
+    "imageUrl": "https://www.yadea.com.vn/wp-content/uploads/2025/09/2560x1120.jpg",
+    "mobileUrl": "https://www.yadea.com.vn/wp-content/uploads/2025/12/banner-mobile.png",
+    "title": "YADEA OSTA",
+    "subtitle": "Enjoy Your Life",
+    "link": "/san-pham/yadea-osta-2026"
+  },
+  "newProducts": [
+    {
+      "name": "YADEA OSTA",
+      "slug": "yadea-osta-2026",
+      "imageUrl": "https://www.yadea.com.vn/wp-content/uploads/2026/02/osta-banner-1.jpg",
+      "href": "/san-pham/yadea-osta-2026"
+    },
+    {
+      "name": "YADEA OVA",
+      "slug": "yadea-ova",
+      "imageUrl": "https://www.yadea.com.vn/wp-content/uploads/2026/03/Ova-Anh-danh-muc-san-pham.png",
+      "href": "/san-pham/yadea-ova"
+    }
+  ],
+  "news": [
+    {
+      "date": "27/04/2026",
+      "category": "Tin tức",
+      "title": "h3 class='vii-blog-item__title heading_6 no-margin-bottom'>Cảnh bảo giả mạo thương hiệu Yadea để lừa đảo và trực lợi",
+      "href": "https://www.yadea.com.vn/tin-tuc/"
+    },
+    {
+      "date": "25/03/2026",
+      "category": "Tin tức",
+      "title": "h3 class='vii-blog-item__title heading_6 no-margin-bottom'>Rinh Xe “Nhẹ Ví” – Thanh Toán Linh Hoạt Cùng YADEA x TPBank E",
+      "href": "https://www.yadea.com.vn/tin-tuc/"
+    },
+    {
+      "date": "03/03/2026",
+      "category": "Sự kiện",
+      "title": "h3 class='vii-blog-item__title heading_6 no-margin-bottom'>Yadea khánh thành nhà máy sản xuất thông minh 100 triệu USD t",
+      "href": "https://www.yadea.com.vn/tin-tuc/"
+    },
+    {
+      "date": "27/02/2026",
+      "category": "Tin tức",
+      "title": "h3 class='vii-blog-item__title heading_6 no-margin-bottom'>YADEA Osta Chính Thức Trình Làng Tháng 3/2026",
+      "href": "https://www.yadea.com.vn/tin-tuc/"
+    },
+    {
+      "date": "11/12/2025",
+      "category": "Sự kiện",
+      "title": "h3 class='vii-blog-item__title heading_6 no-margin-bottom'>Yadea tổ chức Hội nghị Thương mại Toàn cầu 2026, công bố chiế",
+      "href": "https://www.yadea.com.vn/tin-tuc/"
+    },
+    {
+      "date": "24/05/2025",
+      "category": "Tin tức",
+      "title": "h3 class='vii-blog-item__title heading_6 no-margin-bottom'>YADEA sẽ ra mắt Đại sứ thương hiệu SOOBIN cùng bộ ba sản phẩm",
+      "href": "https://www.yadea.com.vn/tin-tuc/"
+    }
+  ],
+  "instagram": [],
+  "products": [
+    {
+      "slug": "yadea-voltguard-u50",
+      "name": "YADEA VOLTGUARD U50",
+      "tagline": null,
+      "price": 38990000,
+      "compareAtPrice": null,
+      "sourceUrl": "https://www.yadea.com.vn/thong-tin-san-pham/yadea-voltguard-u50/",
+      "badge": "HOT",
+      "heroImage": "https://www.yadea.com.vn/wp-content/uploads/2025/11/v002-U50-Anh-chinh-ngang-1280x880px.png",
+      "gallery": [
+        "https://www.yadea.com.vn/wp-content/uploads/2025/11/v002-U50-Anh-chinh-ngang-1280x880px.png",
+        "https://www.yadea.com.vn/wp-content/uploads/2025/11/V002-U50-trang-co-bong.png",
+        "https://www.yadea.com.vn/wp-content/uploads/2025/11/V002-U50-do-co-bong-1.png",
+        "https://www.yadea.com.vn/wp-content/uploads/2025/11/V002-U50-den-co-bong-1.png"
+      ],
+      "highlights": [],
+      "specSections": [],
+      "category": "xe-may-dien",
+      "syncedAt": "2026-06-01T19:43:19.007Z",
+      "pageLayout": "configurator",
+      "purchaseUrl": "https://www.yadea.com.vn/san-pham/yadea-voltguard-u50/",
+      "configuratorSidebar": [
+        {
+          "yadeaSlug": "yadea-vigor-nang-cap",
+          "label": "Vigor"
+        },
+        {
+          "yadeaSlug": "yadea-xbull",
+          "label": "XBULL"
+        },
+        {
+          "yadeaSlug": "yadea-odora-h",
+          "label": "Odora H"
+        },
+        {
+          "yadeaSlug": "yadea-flit",
+          "label": "FLIT"
+        },
+        {
+          "yadeaSlug": "yadea-vito",
+          "label": "VITO"
+        },
+        {
+          "yadeaSlug": "yadea-odora-s2",
+          "catalogSlug": "yadea-odora-s2",
+          "label": "Odora S2"
+        },
+        {
+          "yadeaSlug": "ifun",
+          "label": "iFUN"
+        },
+        {
+          "yadeaSlug": "x-sky",
+          "label": "X-Sky"
+        },
+        {
+          "yadeaSlug": "yadea-icute",
+          "label": "iCute"
+        },
+        {
+          "yadeaSlug": "yadea-vekoo-h",
+          "label": "VEKOO H"
+        },
+        {
+          "yadeaSlug": "yadea-i8",
+          "label": "i8"
+        },
+        {
+          "yadeaSlug": "yadea-i8-h",
+          "label": "i8 H"
+        },
+        {
+          "yadeaSlug": "yadea-ocean",
+          "label": "Ocean"
+        },
+        {
+          "yadeaSlug": "yadea-orla-gau-dau",
+          "catalogSlug": "yadea-orla-2024",
+          "label": "Orla Gấu Dâu"
+        },
+        {
+          "yadeaSlug": "ossy",
+          "label": "Ossy"
+        },
+        {
+          "yadeaSlug": "yadea-oris-h",
+          "label": "ORIS H"
+        },
+        {
+          "yadeaSlug": "yadea-voltguard-u80",
+          "catalogSlug": "yadea-voltguard-u80-2pin",
+          "label": "Voltguard U80"
+        },
+        {
+          "yadeaSlug": "yadea-ova",
+          "label": "OVA"
+        },
+        {
+          "yadeaSlug": "yadea-velax-h-plus",
+          "label": "Velax H+"
+        },
+        {
+          "yadeaSlug": "yadea-icute-h",
+          "label": "iCute H"
+        },
+        {
+          "yadeaSlug": "yadea-osta",
+          "label": "Osta"
+        },
+        {
+          "yadeaSlug": "vekoo",
+          "label": "VeKoo"
+        },
+        {
+          "yadeaSlug": "yadea-xbull-h",
+          "label": "XBULL H"
+        },
+        {
+          "yadeaSlug": "yadea-velax-u",
+          "label": "Velax U"
+        },
+        {
+          "yadeaSlug": "yadea-voltguad-p-l",
+          "label": "Voltguard P-L"
+        },
+        {
+          "yadeaSlug": "yadea-i8-vintage",
+          "label": "i8 Vintage"
+        },
+        {
+          "yadeaSlug": "yadea-voltguard-u50",
+          "label": "Voltguard U50"
+        },
+        {
+          "yadeaSlug": "yadea-velax",
+          "catalogSlug": "yadea-velax",
+          "label": "Velax"
+        }
+      ],
+      "outOfStock": false,
+      "colorVariants": [
+        {
+          "name": "Xám ngọc trai",
+          "hex": "#adadad",
+          "imageUrl": "https://www.yadea.com.vn/wp-content/uploads/2025/11/v002-U50-Anh-chinh-ngang-1280x880px.png"
+        },
+        {
+          "name": "Trắng mặt trăng",
+          "hex": "#ffffff",
+          "imageUrl": "https://www.yadea.com.vn/wp-content/uploads/2025/11/V002-U50-trang-co-bong.png"
+        },
+        {
+          "name": "Đỏ đô",
+          "hex": "#dd3333",
+          "imageUrl": "https://www.yadea.com.vn/wp-content/uploads/2025/11/V002-U50-do-co-bong-1.png"
+        },
+        {
+          "name": "Đen nhám",
+          "hex": "#000000",
+          "imageUrl": "https://www.yadea.com.vn/wp-content/uploads/2025/11/V002-U50-den-co-bong-1.png"
+        }
+      ],
+      "keySpecs": [
+        {
+          "label": "Tốc độ tối đa",
+          "value": "63 Km/h"
+        },
+        {
+          "label": "Quãng đường",
+          "value": "200 Km"
+        },
+        {
+          "label": "Bảo hành",
+          "value": "30.000km",
+          "description": "Hoặc 3 năm"
+        }
+      ],
+      "colors": [
+        {
+          "name": "Xám ngọc trai",
+          "hex": "#adadad",
+          "imageUrl": "https://www.yadea.com.vn/wp-content/uploads/2025/11/v002-U50-Anh-chinh-ngang-1280x880px.png"
+        },
+        {
+          "name": "Trắng mặt trăng",
+          "hex": "#ffffff",
+          "imageUrl": "https://www.yadea.com.vn/wp-content/uploads/2025/11/V002-U50-trang-co-bong.png"
+        },
+        {
+          "name": "Đỏ đô",
+          "hex": "#dd3333",
+          "imageUrl": "https://www.yadea.com.vn/wp-content/uploads/2025/11/V002-U50-do-co-bong-1.png"
+        },
+        {
+          "name": "Đen nhám",
+          "hex": "#000000",
+          "imageUrl": "https://www.yadea.com.vn/wp-content/uploads/2025/11/V002-U50-den-co-bong-1.png"
+        }
+      ]
+    },
+    {
+      "slug": "yadea-velax-h-plus",
+      "name": "YADEA VELAX H PLUS",
+      "tagline": null,
+      "price": 38990000,
+      "compareAtPrice": null,
+      "sourceUrl": "https://www.yadea.com.vn/thong-tin-san-pham/yadea-velax-h-plus/",
+      "badge": "HOT",
+      "heroImage": "https://www.yadea.com.vn/wp-content/uploads/2026/03/Anh-ngang-cac-mau-1-3.png",
+      "gallery": [
+        "https://www.yadea.com.vn/wp-content/uploads/2026/03/Anh-ngang-cac-mau-1-3.png",
+        "https://www.yadea.com.vn/wp-content/uploads/2026/03/Anh-ngang-cac-mau-2-2.png",
+        "https://www.yadea.com.vn/wp-content/uploads/2026/03/Anh-ngang-cac-mau-3-2.png",
+        "https://www.yadea.com.vn/wp-content/uploads/2026/03/Anh-ngang-cac-mau-4-2.png"
+      ],
+      "highlights": [],
+      "specSections": [],
+      "category": "xe-may-dien",
+      "syncedAt": "2026-06-01T19:43:21.026Z",
+      "pageLayout": "configurator",
+      "purchaseUrl": "https://www.yadea.com.vn/san-pham/yadea-velax-h-plus/",
+      "configuratorSidebar": [
+        {
+          "yadeaSlug": "yadea-vigor-nang-cap",
+          "label": "Vigor"
+        },
+        {
+          "yadeaSlug": "yadea-xbull",
+          "label": "XBULL"
+        },
+        {
+          "yadeaSlug": "yadea-odora-h",
+          "label": "Odora H"
+        },
+        {
+          "yadeaSlug": "yadea-flit",
+          "label": "FLIT"
+        },
+        {
+          "yadeaSlug": "yadea-vito",
+          "label": "VITO"
+        },
+        {
+          "yadeaSlug": "yadea-odora-s2",
+          "catalogSlug": "yadea-odora-s2",
+          "label": "Odora S2"
+        },
+        {
+          "yadeaSlug": "ifun",
+          "label": "iFUN"
+        },
+        {
+          "yadeaSlug": "x-sky",
+          "label": "X-Sky"
+        },
+        {
+          "yadeaSlug": "yadea-icute",
+          "label": "iCute"
+        },
+        {
+          "yadeaSlug": "yadea-vekoo-h",
+          "label": "VEKOO H"
+        },
+        {
+          "yadeaSlug": "yadea-i8",
+          "label": "i8"
+        },
+        {
+          "yadeaSlug": "yadea-i8-h",
+          "label": "i8 H"
+        },
+        {
+          "yadeaSlug": "yadea-ocean",
+          "label": "Ocean"
+        },
+        {
+          "yadeaSlug": "yadea-orla-gau-dau",
+          "catalogSlug": "yadea-orla-2024",
+          "label": "Orla Gấu Dâu"
+        },
+        {
+          "yadeaSlug": "ossy",
+          "label": "Ossy"
+        },
+        {
+          "yadeaSlug": "yadea-oris-h",
+          "label": "ORIS H"
+        },
+        {
+          "yadeaSlug": "yadea-voltguard-u80",
+          "catalogSlug": "yadea-voltguard-u80-2pin",
+          "label": "Voltguard U80"
+        },
+        {
+          "yadeaSlug": "yadea-ova",
+          "label": "OVA"
+        },
+        {
+          "yadeaSlug": "yadea-velax-h-plus",
+          "label": "Velax H+"
+        },
+        {
+          "yadeaSlug": "yadea-icute-h",
+          "label": "iCute H"
+        },
+        {
+          "yadeaSlug": "yadea-osta",
+          "label": "Osta"
+        },
+        {
+          "yadeaSlug": "vekoo",
+          "label": "VeKoo"
+        },
+        {
+          "yadeaSlug": "yadea-xbull-h",
+          "label": "XBULL H"
+        },
+        {
+          "yadeaSlug": "yadea-velax-u",
+          "label": "Velax U"
+        },
+        {
+          "yadeaSlug": "yadea-voltguad-p-l",
+          "label": "Voltguard P-L"
+        },
+        {
+          "yadeaSlug": "yadea-i8-vintage",
+          "label": "i8 Vintage"
+        },
+        {
+          "yadeaSlug": "yadea-voltguard-u50",
+          "label": "Voltguard U50"
+        },
+        {
+          "yadeaSlug": "yadea-velax",
+          "catalogSlug": "yadea-velax",
+          "label": "Velax"
+        }
+      ],
+      "outOfStock": false,
+      "keySpecs": [
+        {
+          "label": "Tốc độ tối đa",
+          "value": "68 km/h*"
+        },
+        {
+          "label": "Quãng đường",
+          "value": "163 km*"
+        },
+        {
+          "label": "Bảo hành",
+          "value": "30.000km",
+          "description": "Hoặc 3 năm"
+        }
+      ],
+      "colorVariants": [
+        {
+          "name": "Màu xám",
+          "hex": "#d8d8d8",
+          "imageUrl": "https://www.yadea.com.vn/wp-content/uploads/2026/03/Anh-ngang-cac-mau-1-3.png"
+        },
+        {
+          "name": "Màu đen",
+          "hex": "#000000",
+          "imageUrl": "https://www.yadea.com.vn/wp-content/uploads/2026/03/Anh-ngang-cac-mau-2-2.png"
+        },
+        {
+          "name": "Màu trắng",
+          "hex": "#ffffff",
+          "imageUrl": "https://www.yadea.com.vn/wp-content/uploads/2026/03/Anh-ngang-cac-mau-3-2.png"
+        },
+        {
+          "name": "Màu đỏ",
+          "hex": "#dd3333",
+          "imageUrl": "https://www.yadea.com.vn/wp-content/uploads/2026/03/Anh-ngang-cac-mau-4-2.png"
+        }
+      ],
+      "colors": [
+        {
+          "name": "Màu xám",
+          "hex": "#d8d8d8",
+          "imageUrl": "https://www.yadea.com.vn/wp-content/uploads/2026/03/Anh-ngang-cac-mau-1-3.png"
+        },
+        {
+          "name": "Màu đen",
+          "hex": "#000000",
+          "imageUrl": "https://www.yadea.com.vn/wp-content/uploads/2026/03/Anh-ngang-cac-mau-2-2.png"
+        },
+        {
+          "name": "Màu trắng",
+          "hex": "#ffffff",
+          "imageUrl": "https://www.yadea.com.vn/wp-content/uploads/2026/03/Anh-ngang-cac-mau-3-2.png"
+        },
+        {
+          "name": "Màu đỏ",
+          "hex": "#dd3333",
+          "imageUrl": "https://www.yadea.com.vn/wp-content/uploads/2026/03/Anh-ngang-cac-mau-4-2.png"
+        }
+      ]
+    },
+    {
+      "slug": "yadea-voltguard-u80-2pin",
+      "name": "YADEA VOLTGUARD U80",
+      "tagline": null,
+      "price": 38990000,
+      "compareAtPrice": null,
+      "sourceUrl": "https://www.yadea.com.vn/thong-tin-san-pham/yadea-voltguard-u80-2pin/",
+      "badge": "HOT",
+      "heroImage": "https://www.yadea.com.vn/wp-content/uploads/2026/03/Anh-ngang-cac-mau-1-4.png",
+      "gallery": [
+        "https://www.yadea.com.vn/wp-content/uploads/2026/03/Anh-ngang-cac-mau-1-4.png",
+        "https://www.yadea.com.vn/wp-content/uploads/2026/03/Anh-ngang-cac-mau-1-copy.png",
+        "https://www.yadea.com.vn/wp-content/uploads/2026/03/Anh-ngang-cac-mau-1-copy-3-2.png",
+        "https://www.yadea.com.vn/wp-content/uploads/2026/03/Anh-ngang-cac-mau-1-copy-2-1.png"
+      ],
+      "highlights": [],
+      "specSections": [
+        {
+          "title": "Động cơ & Bình điện",
+          "rows": [
+            {
+              "label": "15L",
+              "value": "(3L nếu lắp pin phụ )"
+            },
+            {
+              "label": "201km*",
+              "value": "280km* (khi lắp thêm pin phụ)"
+            }
+          ]
+        }
+      ],
+      "category": "xe-may-dien",
+      "syncedAt": "2026-06-01T19:43:21.837Z",
+      "pageLayout": "configurator",
+      "purchaseUrl": "https://www.yadea.com.vn/san-pham/yadea-voltguard-u80/",
+      "configuratorSidebar": [
+        {
+          "yadeaSlug": "yadea-vigor-nang-cap",
+          "label": "Vigor"
+        },
+        {
+          "yadeaSlug": "yadea-xbull",
+          "label": "XBULL"
+        },
+        {
+          "yadeaSlug": "yadea-odora-h",
+          "label": "Odora H"
+        },
+        {
+          "yadeaSlug": "yadea-flit",
+          "label": "FLIT"
+        },
+        {
+          "yadeaSlug": "yadea-vito",
+          "label": "VITO"
+        },
+        {
+          "yadeaSlug": "yadea-odora-s2",
+          "catalogSlug": "yadea-odora-s2",
+          "label": "Odora S2"
+        },
+        {
+          "yadeaSlug": "ifun",
+          "label": "iFUN"
+        },
+        {
+          "yadeaSlug": "x-sky",
+          "label": "X-Sky"
+        },
+        {
+          "yadeaSlug": "yadea-icute",
+          "label": "iCute"
+        },
+        {
+          "yadeaSlug": "yadea-vekoo-h",
+          "label": "VEKOO H"
+        },
+        {
+          "yadeaSlug": "yadea-i8",
+          "label": "i8"
+        },
+        {
+          "yadeaSlug": "yadea-i8-h",
+          "label": "i8 H"
+        },
+        {
+          "yadeaSlug": "yadea-ocean",
+          "label": "Ocean"
+        },
+        {
+          "yadeaSlug": "yadea-orla-gau-dau",
+          "catalogSlug": "yadea-orla-2024",
+          "label": "Orla Gấu Dâu"
+        },
+        {
+          "yadeaSlug": "ossy",
+          "label": "Ossy"
+        },
+        {
+          "yadeaSlug": "yadea-oris-h",
+          "label": "ORIS H"
+        },
+        {
+          "yadeaSlug": "yadea-voltguard-u80",
+          "catalogSlug": "yadea-voltguard-u80-2pin",
+          "label": "Voltguard U80"
+        },
+        {
+          "yadeaSlug": "yadea-ova",
+          "label": "OVA"
+        },
+        {
+          "yadeaSlug": "yadea-velax-h-plus",
+          "label": "Velax H+"
+        },
+        {
+          "yadeaSlug": "yadea-icute-h",
+          "label": "iCute H"
+        },
+        {
+          "yadeaSlug": "yadea-osta",
+          "label": "Osta"
+        },
+        {
+          "yadeaSlug": "vekoo",
+          "label": "VeKoo"
+        },
+        {
+          "yadeaSlug": "yadea-xbull-h",
+          "label": "XBULL H"
+        },
+        {
+          "yadeaSlug": "yadea-velax-u",
+          "label": "Velax U"
+        },
+        {
+          "yadeaSlug": "yadea-voltguad-p-l",
+          "label": "Voltguard P-L"
+        },
+        {
+          "yadeaSlug": "yadea-i8-vintage",
+          "label": "i8 Vintage"
+        },
+        {
+          "yadeaSlug": "yadea-voltguard-u50",
+          "label": "Voltguard U50"
+        },
+        {
+          "yadeaSlug": "yadea-velax",
+          "catalogSlug": "yadea-velax",
+          "label": "Velax"
+        }
+      ],
+      "outOfStock": false,
+      "keySpecs": [
+        {
+          "label": "Tốc độ tối đa",
+          "value": "64 Km/h"
+        },
+        {
+          "label": "Quãng đường",
+          "value": "280 Km",
+          "description": "Khi lắp kèm Pin phụ"
+        },
+        {
+          "label": "Bảo hành",
+          "value": "30.000km",
+          "description": "Hoặc 3 năm"
+        }
+      ],
+      "colorVariants": [
+        {
+          "name": "Xám ngọc trai",
+          "hex": "#adadad",
+          "imageUrl": "https://www.yadea.com.vn/wp-content/uploads/2026/03/Anh-ngang-cac-mau-1-4.png"
+        },
+        {
+          "name": "Đen nhám",
+          "hex": "#000000",
+          "imageUrl": "https://www.yadea.com.vn/wp-content/uploads/2026/03/Anh-ngang-cac-mau-1-copy.png"
+        },
+        {
+          "name": "Trắng mặt trăng",
+          "hex": "#ffffff",
+          "imageUrl": "https://www.yadea.com.vn/wp-content/uploads/2026/03/Anh-ngang-cac-mau-1-copy-3-2.png"
+        },
+        {
+          "name": "Đỏ đô",
+          "hex": "#dd3333",
+          "imageUrl": "https://www.yadea.com.vn/wp-content/uploads/2026/03/Anh-ngang-cac-mau-1-copy-2-1.png"
+        }
+      ],
+      "colors": [
+        {
+          "name": "Xám ngọc trai",
+          "hex": "#adadad",
+          "imageUrl": "https://www.yadea.com.vn/wp-content/uploads/2026/03/Anh-ngang-cac-mau-1-4.png"
+        },
+        {
+          "name": "Đen nhám",
+          "hex": "#000000",
+          "imageUrl": "https://www.yadea.com.vn/wp-content/uploads/2026/03/Anh-ngang-cac-mau-1-copy.png"
+        },
+        {
+          "name": "Trắng mặt trăng",
+          "hex": "#ffffff",
+          "imageUrl": "https://www.yadea.com.vn/wp-content/uploads/2026/03/Anh-ngang-cac-mau-1-copy-3-2.png"
+        },
+        {
+          "name": "Đỏ đô",
+          "hex": "#dd3333",
+          "imageUrl": "https://www.yadea.com.vn/wp-content/uploads/2026/03/Anh-ngang-cac-mau-1-copy-2-1.png"
+        }
+      ]
+    },
+    {
+      "slug": "yadea-osta-2026",
+      "name": "YADEA OSTA",
+      "tagline": null,
+      "price": 28990000,
+      "compareAtPrice": null,
+      "sourceUrl": "https://www.yadea.com.vn/thong-tin-san-pham/yadea-osta-2026/",
+      "badge": "HOT",
+      "heroImage": "https://www.yadea.com.vn/wp-content/uploads/2026/02/Anh-ngang-cac-mau-4.png",
+      "gallery": [
+        "https://www.yadea.com.vn/wp-content/uploads/2026/02/Anh-ngang-cac-mau-4.png",
+        "https://www.yadea.com.vn/wp-content/uploads/2026/02/Anh-ngang-cac-mau-2.png",
+        "https://www.yadea.com.vn/wp-content/uploads/2026/02/Anh-ngang-cac-mau-1.png",
+        "https://www.yadea.com.vn/wp-content/uploads/2026/02/Anh-ngang-cac-mau-3.png",
+        "https://www.yadea.com.vn/wp-content/uploads/2026/02/Anh-ngang-cac-mau-5.png"
+      ],
+      "highlights": [],
+      "specSections": [],
+      "category": "xe-may-dien",
+      "syncedAt": "2026-06-01T19:43:20.222Z",
+      "pageLayout": "configurator",
+      "purchaseUrl": "https://www.yadea.com.vn/san-pham/yadea-osta/",
+      "configuratorSidebar": [
+        {
+          "yadeaSlug": "yadea-vigor-nang-cap",
+          "label": "Vigor"
+        },
+        {
+          "yadeaSlug": "yadea-xbull",
+          "label": "XBULL"
+        },
+        {
+          "yadeaSlug": "yadea-odora-h",
+          "label": "Odora H"
+        },
+        {
+          "yadeaSlug": "yadea-flit",
+          "label": "FLIT"
+        },
+        {
+          "yadeaSlug": "yadea-vito",
+          "label": "VITO"
+        },
+        {
+          "yadeaSlug": "yadea-odora-s2",
+          "catalogSlug": "yadea-odora-s2",
+          "label": "Odora S2"
+        },
+        {
+          "yadeaSlug": "ifun",
+          "label": "iFUN"
+        },
+        {
+          "yadeaSlug": "x-sky",
+          "label": "X-Sky"
+        },
+        {
+          "yadeaSlug": "yadea-icute",
+          "label": "iCute"
+        },
+        {
+          "yadeaSlug": "yadea-vekoo-h",
+          "label": "VEKOO H"
+        },
+        {
+          "yadeaSlug": "yadea-i8",
+          "label": "i8"
+        },
+        {
+          "yadeaSlug": "yadea-i8-h",
+          "label": "i8 H"
+        },
+        {
+          "yadeaSlug": "yadea-ocean",
+          "label": "Ocean"
+        },
+        {
+          "yadeaSlug": "yadea-orla-gau-dau",
+          "catalogSlug": "yadea-orla-2024",
+          "label": "Orla Gấu Dâu"
+        },
+        {
+          "yadeaSlug": "ossy",
+          "label": "Ossy"
+        },
+        {
+          "yadeaSlug": "yadea-oris-h",
+          "label": "ORIS H"
+        },
+        {
+          "yadeaSlug": "yadea-voltguard-u80",
+          "catalogSlug": "yadea-voltguard-u80-2pin",
+          "label": "Voltguard U80"
+        },
+        {
+          "yadeaSlug": "yadea-ova",
+          "label": "OVA"
+        },
+        {
+          "yadeaSlug": "yadea-velax-h-plus",
+          "label": "Velax H+"
+        },
+        {
+          "yadeaSlug": "yadea-icute-h",
+          "label": "iCute H"
+        },
+        {
+          "yadeaSlug": "yadea-osta",
+          "label": "Osta"
+        },
+        {
+          "yadeaSlug": "vekoo",
+          "label": "VeKoo"
+        },
+        {
+          "yadeaSlug": "yadea-xbull-h",
+          "label": "XBULL H"
+        },
+        {
+          "yadeaSlug": "yadea-velax-u",
+          "label": "Velax U"
+        },
+        {
+          "yadeaSlug": "yadea-voltguad-p-l",
+          "label": "Voltguard P-L"
+        },
+        {
+          "yadeaSlug": "yadea-i8-vintage",
+          "label": "i8 Vintage"
+        },
+        {
+          "yadeaSlug": "yadea-voltguard-u50",
+          "label": "Voltguard U50"
+        },
+        {
+          "yadeaSlug": "yadea-velax",
+          "catalogSlug": "yadea-velax",
+          "label": "Velax"
+        }
+      ],
+      "outOfStock": false,
+      "keySpecs": [
+        {
+          "label": "Tốc độ tối đa",
+          "value": "63 Km/h"
+        },
+        {
+          "label": "Quãng đường",
+          "value": "180 Km",
+          "description": "Trong 1 lần sạc"
+        },
+        {
+          "label": "Nền tảng",
+          "value": "AIGO Max"
+        }
+      ],
+      "colorVariants": [
+        {
+          "name": "Đen nhám mới",
+          "hex": "#242424",
+          "imageUrl": "https://www.yadea.com.vn/wp-content/uploads/2026/02/Anh-ngang-cac-mau-4.png"
+        },
+        {
+          "name": "Trắng vàng nhạt",
+          "hex": "#efefed",
+          "imageUrl": "https://www.yadea.com.vn/wp-content/uploads/2026/02/Anh-ngang-cac-mau-2.png"
+        },
+        {
+          "name": "Xám trắng",
+          "hex": "#d5dade",
+          "imageUrl": "https://www.yadea.com.vn/wp-content/uploads/2026/02/Anh-ngang-cac-mau-1.png"
+        },
+        {
+          "name": "Xám ngọc trai",
+          "hex": "#a3a6ab",
+          "imageUrl": "https://www.yadea.com.vn/wp-content/uploads/2026/02/Anh-ngang-cac-mau-3.png"
+        },
+        {
+          "name": "Xám bóng",
+          "hex": "#919499",
+          "imageUrl": "https://www.yadea.com.vn/wp-content/uploads/2026/02/Anh-ngang-cac-mau-5.png"
+        }
+      ],
+      "modelVersions": [
+        {
+          "id": "osta-h",
+          "name": "Osta H+"
+        },
+        {
+          "id": "osta-p",
+          "name": "Osta P"
+        }
+      ],
+      "colors": [
+        {
+          "name": "Đen nhám mới",
+          "hex": "#242424",
+          "imageUrl": "https://www.yadea.com.vn/wp-content/uploads/2026/02/Anh-ngang-cac-mau-4.png"
+        },
+        {
+          "name": "Trắng vàng nhạt",
+          "hex": "#efefed",
+          "imageUrl": "https://www.yadea.com.vn/wp-content/uploads/2026/02/Anh-ngang-cac-mau-2.png"
+        },
+        {
+          "name": "Xám trắng",
+          "hex": "#d5dade",
+          "imageUrl": "https://www.yadea.com.vn/wp-content/uploads/2026/02/Anh-ngang-cac-mau-1.png"
+        },
+        {
+          "name": "Xám ngọc trai",
+          "hex": "#a3a6ab",
+          "imageUrl": "https://www.yadea.com.vn/wp-content/uploads/2026/02/Anh-ngang-cac-mau-3.png"
+        },
+        {
+          "name": "Xám bóng",
+          "hex": "#919499",
+          "imageUrl": "https://www.yadea.com.vn/wp-content/uploads/2026/02/Anh-ngang-cac-mau-5.png"
+        }
+      ]
+    },
+    {
+      "slug": "yadea-voltguard-p-l",
+      "name": "YADEA VOLTGUARD P-L",
+      "tagline": null,
+      "price": 29490000,
+      "compareAtPrice": null,
+      "sourceUrl": "https://www.yadea.com.vn/thong-tin-san-pham/yadea-voltguard-p-l/",
+      "badge": "HOT",
+      "heroImage": "https://www.yadea.com.vn/wp-content/uploads/2025/11/Anh-chinh-to-V002-PL-trang.png",
+      "gallery": [
+        "https://www.yadea.com.vn/wp-content/uploads/2025/11/Anh-chinh-to-V002-PL-trang.png",
+        "https://www.yadea.com.vn/wp-content/uploads/2025/11/Anh-chinh-to-V002-PL-do.png",
+        "https://www.yadea.com.vn/wp-content/uploads/2025/11/Anh-chinh-to-V002-PL-den.png",
+        "https://www.yadea.com.vn/wp-content/uploads/2025/11/Anh-chinh-to-V002-PL.png"
+      ],
+      "highlights": [],
+      "specSections": [],
+      "category": "xe-may-dien",
+      "syncedAt": "2026-06-01T19:43:22.646Z",
+      "pageLayout": "configurator",
+      "purchaseUrl": "https://www.yadea.com.vn/san-pham/yadea-voltguad-p-l/",
+      "configuratorSidebar": [
+        {
+          "yadeaSlug": "yadea-vigor-nang-cap",
+          "label": "Vigor"
+        },
+        {
+          "yadeaSlug": "yadea-xbull",
+          "label": "XBULL"
+        },
+        {
+          "yadeaSlug": "yadea-odora-h",
+          "label": "Odora H"
+        },
+        {
+          "yadeaSlug": "yadea-flit",
+          "label": "FLIT"
+        },
+        {
+          "yadeaSlug": "yadea-vito",
+          "label": "VITO"
+        },
+        {
+          "yadeaSlug": "yadea-odora-s2",
+          "catalogSlug": "yadea-odora-s2",
+          "label": "Odora S2"
+        },
+        {
+          "yadeaSlug": "ifun",
+          "label": "iFUN"
+        },
+        {
+          "yadeaSlug": "x-sky",
+          "label": "X-Sky"
+        },
+        {
+          "yadeaSlug": "yadea-icute",
+          "label": "iCute"
+        },
+        {
+          "yadeaSlug": "yadea-vekoo-h",
+          "label": "VEKOO H"
+        },
+        {
+          "yadeaSlug": "yadea-i8",
+          "label": "i8"
+        },
+        {
+          "yadeaSlug": "yadea-i8-h",
+          "label": "i8 H"
+        },
+        {
+          "yadeaSlug": "yadea-ocean",
+          "label": "Ocean"
+        },
+        {
+          "yadeaSlug": "yadea-orla-gau-dau",
+          "catalogSlug": "yadea-orla-2024",
+          "label": "Orla Gấu Dâu"
+        },
+        {
+          "yadeaSlug": "ossy",
+          "label": "Ossy"
+        },
+        {
+          "yadeaSlug": "yadea-oris-h",
+          "label": "ORIS H"
+        },
+        {
+          "yadeaSlug": "yadea-voltguard-u80",
+          "catalogSlug": "yadea-voltguard-u80-2pin",
+          "label": "Voltguard U80"
+        },
+        {
+          "yadeaSlug": "yadea-ova",
+          "label": "OVA"
+        },
+        {
+          "yadeaSlug": "yadea-velax-h-plus",
+          "label": "Velax H+"
+        },
+        {
+          "yadeaSlug": "yadea-icute-h",
+          "label": "iCute H"
+        },
+        {
+          "yadeaSlug": "yadea-osta",
+          "label": "Osta"
+        },
+        {
+          "yadeaSlug": "vekoo",
+          "label": "VeKoo"
+        },
+        {
+          "yadeaSlug": "yadea-xbull-h",
+          "label": "XBULL H"
+        },
+        {
+          "yadeaSlug": "yadea-velax-u",
+          "label": "Velax U"
+        },
+        {
+          "yadeaSlug": "yadea-voltguad-p-l",
+          "label": "Voltguard P-L"
+        },
+        {
+          "yadeaSlug": "yadea-i8-vintage",
+          "label": "i8 Vintage"
+        },
+        {
+          "yadeaSlug": "yadea-voltguard-u50",
+          "label": "Voltguard U50"
+        },
+        {
+          "yadeaSlug": "yadea-velax",
+          "catalogSlug": "yadea-velax",
+          "label": "Velax"
+        }
+      ],
+      "outOfStock": false,
+      "keySpecs": [
+        {
+          "label": "Tốc độ tối đa",
+          "value": "60 Km/h"
+        },
+        {
+          "label": "Quãng đường",
+          "value": "120 Km"
+        },
+        {
+          "label": "Bảo hành",
+          "value": "30.000km",
+          "description": "Hoặc 3 năm"
+        }
+      ],
+      "colorVariants": [
+        {
+          "name": "Trắng mặt trăng",
+          "hex": "#ffffff",
+          "imageUrl": "https://www.yadea.com.vn/wp-content/uploads/2025/11/Anh-chinh-to-V002-PL-trang.png"
+        },
+        {
+          "name": "Đỏ đô",
+          "hex": "#dd3333",
+          "imageUrl": "https://www.yadea.com.vn/wp-content/uploads/2025/11/Anh-chinh-to-V002-PL-do.png"
+        },
+        {
+          "name": "Đen nhám mới",
+          "hex": "#000000",
+          "imageUrl": "https://www.yadea.com.vn/wp-content/uploads/2025/11/Anh-chinh-to-V002-PL-den.png"
+        },
+        {
+          "name": "Xám ngọc trai",
+          "hex": "#a5a5a5",
+          "imageUrl": "https://www.yadea.com.vn/wp-content/uploads/2025/11/Anh-chinh-to-V002-PL.png"
+        }
+      ],
+      "colors": [
+        {
+          "name": "Trắng mặt trăng",
+          "hex": "#ffffff",
+          "imageUrl": "https://www.yadea.com.vn/wp-content/uploads/2025/11/Anh-chinh-to-V002-PL-trang.png"
+        },
+        {
+          "name": "Đỏ đô",
+          "hex": "#dd3333",
+          "imageUrl": "https://www.yadea.com.vn/wp-content/uploads/2025/11/Anh-chinh-to-V002-PL-do.png"
+        },
+        {
+          "name": "Đen nhám mới",
+          "hex": "#000000",
+          "imageUrl": "https://www.yadea.com.vn/wp-content/uploads/2025/11/Anh-chinh-to-V002-PL-den.png"
+        },
+        {
+          "name": "Xám ngọc trai",
+          "hex": "#a5a5a5",
+          "imageUrl": "https://www.yadea.com.vn/wp-content/uploads/2025/11/Anh-chinh-to-V002-PL.png"
+        }
+      ]
+    },
+    {
+      "slug": "yadea-oris-h",
+      "name": "YADEA ORIS H",
+      "tagline": null,
+      "price": 27490000,
+      "compareAtPrice": null,
+      "sourceUrl": "https://www.yadea.com.vn/thong-tin-san-pham/yadea-oris-h/",
+      "badge": "HOT",
+      "heroImage": "https://www.yadea.com.vn/wp-content/uploads/2025/11/Anh-ngang-1280x880-1.png",
+      "gallery": [
+        "https://www.yadea.com.vn/wp-content/uploads/2025/11/Anh-ngang-1280x880-1.png",
+        "https://www.yadea.com.vn/wp-content/uploads/2025/11/Oris-H-xanh-180-co-bong.png",
+        "https://www.yadea.com.vn/wp-content/uploads/2025/11/Oris-H-xam-180-co-bong.png",
+        "https://www.yadea.com.vn/wp-content/uploads/2025/11/Oris-H-be-180-co-bong.png"
+      ],
+      "highlights": [],
+      "specSections": [],
+      "category": "xe-may-dien",
+      "syncedAt": "2026-06-01T19:43:23.448Z",
+      "pageLayout": "configurator",
+      "purchaseUrl": "https://www.yadea.com.vn/san-pham/yadea-oris-h/",
+      "configuratorSidebar": [
+        {
+          "yadeaSlug": "yadea-vigor-nang-cap",
+          "label": "Vigor"
+        },
+        {
+          "yadeaSlug": "yadea-xbull",
+          "label": "XBULL"
+        },
+        {
+          "yadeaSlug": "yadea-odora-h",
+          "label": "Odora H"
+        },
+        {
+          "yadeaSlug": "yadea-flit",
+          "label": "FLIT"
+        },
+        {
+          "yadeaSlug": "yadea-vito",
+          "label": "VITO"
+        },
+        {
+          "yadeaSlug": "yadea-odora-s2",
+          "catalogSlug": "yadea-odora-s2",
+          "label": "Odora S2"
+        },
+        {
+          "yadeaSlug": "ifun",
+          "label": "iFUN"
+        },
+        {
+          "yadeaSlug": "x-sky",
+          "label": "X-Sky"
+        },
+        {
+          "yadeaSlug": "yadea-icute",
+          "label": "iCute"
+        },
+        {
+          "yadeaSlug": "yadea-vekoo-h",
+          "label": "VEKOO H"
+        },
+        {
+          "yadeaSlug": "yadea-i8",
+          "label": "i8"
+        },
+        {
+          "yadeaSlug": "yadea-i8-h",
+          "label": "i8 H"
+        },
+        {
+          "yadeaSlug": "yadea-ocean",
+          "label": "Ocean"
+        },
+        {
+          "yadeaSlug": "yadea-orla-gau-dau",
+          "catalogSlug": "yadea-orla-2024",
+          "label": "Orla Gấu Dâu"
+        },
+        {
+          "yadeaSlug": "ossy",
+          "label": "Ossy"
+        },
+        {
+          "yadeaSlug": "yadea-oris-h",
+          "label": "ORIS H"
+        },
+        {
+          "yadeaSlug": "yadea-voltguard-u80",
+          "catalogSlug": "yadea-voltguard-u80-2pin",
+          "label": "Voltguard U80"
+        },
+        {
+          "yadeaSlug": "yadea-ova",
+          "label": "OVA"
+        },
+        {
+          "yadeaSlug": "yadea-velax-h-plus",
+          "label": "Velax H+"
+        },
+        {
+          "yadeaSlug": "yadea-icute-h",
+          "label": "iCute H"
+        },
+        {
+          "yadeaSlug": "yadea-osta",
+          "label": "Osta"
+        },
+        {
+          "yadeaSlug": "vekoo",
+          "label": "VeKoo"
+        },
+        {
+          "yadeaSlug": "yadea-xbull-h",
+          "label": "XBULL H"
+        },
+        {
+          "yadeaSlug": "yadea-velax-u",
+          "label": "Velax U"
+        },
+        {
+          "yadeaSlug": "yadea-voltguad-p-l",
+          "label": "Voltguard P-L"
+        },
+        {
+          "yadeaSlug": "yadea-i8-vintage",
+          "label": "i8 Vintage"
+        },
+        {
+          "yadeaSlug": "yadea-voltguard-u50",
+          "label": "Voltguard U50"
+        },
+        {
+          "yadeaSlug": "yadea-velax",
+          "catalogSlug": "yadea-velax",
+          "label": "Velax"
+        }
+      ],
+      "outOfStock": false,
+      "colorVariants": [
+        {
+          "name": "Đen nhám",
+          "hex": "#000000",
+          "imageUrl": "https://www.yadea.com.vn/wp-content/uploads/2025/11/Anh-ngang-1280x880-1.png"
+        },
+        {
+          "name": "Xanh",
+          "hex": "#c4bc9d",
+          "imageUrl": "https://www.yadea.com.vn/wp-content/uploads/2025/11/Oris-H-xanh-180-co-bong.png"
+        },
+        {
+          "name": "Xám",
+          "hex": "#8f8179",
+          "imageUrl": "https://www.yadea.com.vn/wp-content/uploads/2025/11/Oris-H-xam-180-co-bong.png"
+        },
+        {
+          "name": "Be",
+          "hex": "#cec4b3",
+          "imageUrl": "https://www.yadea.com.vn/wp-content/uploads/2025/11/Oris-H-be-180-co-bong.png"
+        }
+      ],
+      "keySpecs": [
+        {
+          "label": "Tốc độ tối đa",
+          "value": "50 Km/h"
+        },
+        {
+          "label": "Quãng đường",
+          "value": "120 Km",
+          "description": "Trong 1 lần sạc"
+        }
+      ],
+      "colors": [
+        {
+          "name": "Đen nhám",
+          "hex": "#000000",
+          "imageUrl": "https://www.yadea.com.vn/wp-content/uploads/2025/11/Anh-ngang-1280x880-1.png"
+        },
+        {
+          "name": "Xanh",
+          "hex": "#c4bc9d",
+          "imageUrl": "https://www.yadea.com.vn/wp-content/uploads/2025/11/Oris-H-xanh-180-co-bong.png"
+        },
+        {
+          "name": "Xám",
+          "hex": "#8f8179",
+          "imageUrl": "https://www.yadea.com.vn/wp-content/uploads/2025/11/Oris-H-xam-180-co-bong.png"
+        },
+        {
+          "name": "Be",
+          "hex": "#cec4b3",
+          "imageUrl": "https://www.yadea.com.vn/wp-content/uploads/2025/11/Oris-H-be-180-co-bong.png"
+        }
+      ]
+    },
+    {
+      "slug": "yadea-orla-2024",
+      "name": "YADEA Orla Gấu Dâu",
+      "tagline": null,
+      "price": 21690000,
+      "compareAtPrice": null,
+      "sourceUrl": "https://www.yadea.com.vn/thong-tin-san-pham/yadea-orla-2024/",
+      "badge": "HOT",
+      "heroImage": "https://www.yadea.com.vn/wp-content/uploads/2023/12/orla-beige-1.png",
+      "gallery": [
+        "https://www.yadea.com.vn/wp-content/uploads/2023/12/orla-beige-1.png",
+        "https://www.yadea.com.vn/wp-content/uploads/2024/06/Orla-P-45-co-bong.png"
+      ],
+      "highlights": [],
+      "specSections": [],
+      "category": "xe-may-dien",
+      "syncedAt": "2026-06-01T19:43:23.047Z",
+      "pageLayout": "configurator",
+      "purchaseUrl": "https://www.yadea.com.vn/san-pham/yadea-orla-gau-dau/",
+      "configuratorSidebar": [
+        {
+          "yadeaSlug": "yadea-vigor-nang-cap",
+          "label": "Vigor"
+        },
+        {
+          "yadeaSlug": "yadea-xbull",
+          "label": "XBULL"
+        },
+        {
+          "yadeaSlug": "yadea-odora-h",
+          "label": "Odora H"
+        },
+        {
+          "yadeaSlug": "yadea-flit",
+          "label": "FLIT"
+        },
+        {
+          "yadeaSlug": "yadea-vito",
+          "label": "VITO"
+        },
+        {
+          "yadeaSlug": "yadea-odora-s2",
+          "catalogSlug": "yadea-odora-s2",
+          "label": "Odora S2"
+        },
+        {
+          "yadeaSlug": "ifun",
+          "label": "iFUN"
+        },
+        {
+          "yadeaSlug": "x-sky",
+          "label": "X-Sky"
+        },
+        {
+          "yadeaSlug": "yadea-icute",
+          "label": "iCute"
+        },
+        {
+          "yadeaSlug": "yadea-vekoo-h",
+          "label": "VEKOO H"
+        },
+        {
+          "yadeaSlug": "yadea-i8",
+          "label": "i8"
+        },
+        {
+          "yadeaSlug": "yadea-i8-h",
+          "label": "i8 H"
+        },
+        {
+          "yadeaSlug": "yadea-ocean",
+          "label": "Ocean"
+        },
+        {
+          "yadeaSlug": "yadea-orla-gau-dau",
+          "catalogSlug": "yadea-orla-2024",
+          "label": "Orla Gấu Dâu"
+        },
+        {
+          "yadeaSlug": "ossy",
+          "label": "Ossy"
+        },
+        {
+          "yadeaSlug": "yadea-oris-h",
+          "label": "ORIS H"
+        },
+        {
+          "yadeaSlug": "yadea-voltguard-u80",
+          "catalogSlug": "yadea-voltguard-u80-2pin",
+          "label": "Voltguard U80"
+        },
+        {
+          "yadeaSlug": "yadea-ova",
+          "label": "OVA"
+        },
+        {
+          "yadeaSlug": "yadea-velax-h-plus",
+          "label": "Velax H+"
+        },
+        {
+          "yadeaSlug": "yadea-icute-h",
+          "label": "iCute H"
+        },
+        {
+          "yadeaSlug": "yadea-osta",
+          "label": "Osta"
+        },
+        {
+          "yadeaSlug": "vekoo",
+          "label": "VeKoo"
+        },
+        {
+          "yadeaSlug": "yadea-xbull-h",
+          "label": "XBULL H"
+        },
+        {
+          "yadeaSlug": "yadea-velax-u",
+          "label": "Velax U"
+        },
+        {
+          "yadeaSlug": "yadea-voltguad-p-l",
+          "label": "Voltguard P-L"
+        },
+        {
+          "yadeaSlug": "yadea-i8-vintage",
+          "label": "i8 Vintage"
+        },
+        {
+          "yadeaSlug": "yadea-voltguard-u50",
+          "label": "Voltguard U50"
+        },
+        {
+          "yadeaSlug": "yadea-velax",
+          "catalogSlug": "yadea-velax",
+          "label": "Velax"
+        }
+      ],
+      "outOfStock": false,
+      "keySpecs": [
+        {
+          "label": "Tốc độ tối đa",
+          "value": "48 Km/h"
+        },
+        {
+          "label": "Quãng đường",
+          "value": "65 Km",
+          "description": "1 lần sạc"
+        },
+        {
+          "label": "Phiên bản",
+          "value": "Giới hạn"
+        }
+      ],
+      "colorVariants": [
+        {
+          "name": "Hồng đậm",
+          "hex": "#f73375",
+          "imageUrl": "https://www.yadea.com.vn/wp-content/uploads/2023/12/orla-beige-1.png"
+        },
+        {
+          "name": "Hồng nhạt",
+          "hex": "#ffffff",
+          "imageUrl": "https://www.yadea.com.vn/wp-content/uploads/2024/06/Orla-P-45-co-bong.png"
+        }
+      ],
+      "colors": [
+        {
+          "name": "Hồng đậm",
+          "hex": "#f73375",
+          "imageUrl": "https://www.yadea.com.vn/wp-content/uploads/2023/12/orla-beige-1.png"
+        },
+        {
+          "name": "Hồng nhạt",
+          "hex": "#ffffff",
+          "imageUrl": "https://www.yadea.com.vn/wp-content/uploads/2024/06/Orla-P-45-co-bong.png"
+        }
+      ]
+    },
+    {
+      "slug": "yadea-vekoo-h",
+      "name": "YADEA VEKOO H",
+      "tagline": null,
+      "price": 18990000,
+      "compareAtPrice": null,
+      "sourceUrl": "https://www.yadea.com.vn/thong-tin-san-pham/yadea-vekoo-h/",
+      "badge": "HOT",
+      "heroImage": "https://www.yadea.com.vn/wp-content/uploads/2026/04/anh-ngang-cac-mau-1.png",
+      "gallery": [
+        "https://www.yadea.com.vn/wp-content/uploads/2026/04/anh-ngang-cac-mau-1.png",
+        "https://www.yadea.com.vn/wp-content/uploads/2026/04/anh-ngang-cac-mau-2.png",
+        "https://www.yadea.com.vn/wp-content/uploads/2026/04/anh-ngang-cac-mau-3.png"
+      ],
+      "highlights": [],
+      "specSections": [],
+      "category": "xe-may-dien",
+      "syncedAt": "2026-06-01T19:43:22.241Z",
+      "pageLayout": "configurator",
+      "purchaseUrl": "https://www.yadea.com.vn/san-pham/yadea-vekoo-h/",
+      "configuratorSidebar": [
+        {
+          "yadeaSlug": "yadea-vigor-nang-cap",
+          "label": "Vigor"
+        },
+        {
+          "yadeaSlug": "yadea-xbull",
+          "label": "XBULL"
+        },
+        {
+          "yadeaSlug": "yadea-odora-h",
+          "label": "Odora H"
+        },
+        {
+          "yadeaSlug": "yadea-flit",
+          "label": "FLIT"
+        },
+        {
+          "yadeaSlug": "yadea-vito",
+          "label": "VITO"
+        },
+        {
+          "yadeaSlug": "yadea-odora-s2",
+          "catalogSlug": "yadea-odora-s2",
+          "label": "Odora S2"
+        },
+        {
+          "yadeaSlug": "ifun",
+          "label": "iFUN"
+        },
+        {
+          "yadeaSlug": "x-sky",
+          "label": "X-Sky"
+        },
+        {
+          "yadeaSlug": "yadea-icute",
+          "label": "iCute"
+        },
+        {
+          "yadeaSlug": "yadea-vekoo-h",
+          "label": "VEKOO H"
+        },
+        {
+          "yadeaSlug": "yadea-i8",
+          "label": "i8"
+        },
+        {
+          "yadeaSlug": "yadea-i8-h",
+          "label": "i8 H"
+        },
+        {
+          "yadeaSlug": "yadea-ocean",
+          "label": "Ocean"
+        },
+        {
+          "yadeaSlug": "yadea-orla-gau-dau",
+          "catalogSlug": "yadea-orla-2024",
+          "label": "Orla Gấu Dâu"
+        },
+        {
+          "yadeaSlug": "ossy",
+          "label": "Ossy"
+        },
+        {
+          "yadeaSlug": "yadea-oris-h",
+          "label": "ORIS H"
+        },
+        {
+          "yadeaSlug": "yadea-voltguard-u80",
+          "catalogSlug": "yadea-voltguard-u80-2pin",
+          "label": "Voltguard U80"
+        },
+        {
+          "yadeaSlug": "yadea-ova",
+          "label": "OVA"
+        },
+        {
+          "yadeaSlug": "yadea-velax-h-plus",
+          "label": "Velax H+"
+        },
+        {
+          "yadeaSlug": "yadea-icute-h",
+          "label": "iCute H"
+        },
+        {
+          "yadeaSlug": "yadea-osta",
+          "label": "Osta"
+        },
+        {
+          "yadeaSlug": "vekoo",
+          "label": "VeKoo"
+        },
+        {
+          "yadeaSlug": "yadea-xbull-h",
+          "label": "XBULL H"
+        },
+        {
+          "yadeaSlug": "yadea-velax-u",
+          "label": "Velax U"
+        },
+        {
+          "yadeaSlug": "yadea-voltguad-p-l",
+          "label": "Voltguard P-L"
+        },
+        {
+          "yadeaSlug": "yadea-i8-vintage",
+          "label": "i8 Vintage"
+        },
+        {
+          "yadeaSlug": "yadea-voltguard-u50",
+          "label": "Voltguard U50"
+        },
+        {
+          "yadeaSlug": "yadea-velax",
+          "catalogSlug": "yadea-velax",
+          "label": "Velax"
+        }
+      ],
+      "outOfStock": false,
+      "keySpecs": [
+        {
+          "label": "Tốc độ tối đa",
+          "value": "47 km/h"
+        },
+        {
+          "label": "Quãng đường",
+          "value": "70 km",
+          "description": "Trong 1 lần sạc"
+        },
+        {
+          "label": "Trang bị",
+          "value": "AIGO"
+        }
+      ],
+      "colorVariants": [
+        {
+          "name": "Xám ngọc trai",
+          "hex": "#b0b6b8",
+          "imageUrl": "https://www.yadea.com.vn/wp-content/uploads/2026/04/anh-ngang-cac-mau-1.png"
+        },
+        {
+          "name": "Trắng mặt trăng",
+          "hex": "#ffffff",
+          "imageUrl": "https://www.yadea.com.vn/wp-content/uploads/2026/04/anh-ngang-cac-mau-2.png"
+        },
+        {
+          "name": "Đen kim loại",
+          "hex": "#292d35",
+          "imageUrl": "https://www.yadea.com.vn/wp-content/uploads/2026/04/anh-ngang-cac-mau-3.png"
+        }
+      ],
+      "colors": [
+        {
+          "name": "Xám ngọc trai",
+          "hex": "#b0b6b8",
+          "imageUrl": "https://www.yadea.com.vn/wp-content/uploads/2026/04/anh-ngang-cac-mau-1.png"
+        },
+        {
+          "name": "Trắng mặt trăng",
+          "hex": "#ffffff",
+          "imageUrl": "https://www.yadea.com.vn/wp-content/uploads/2026/04/anh-ngang-cac-mau-2.png"
+        },
+        {
+          "name": "Đen kim loại",
+          "hex": "#292d35",
+          "imageUrl": "https://www.yadea.com.vn/wp-content/uploads/2026/04/anh-ngang-cac-mau-3.png"
+        }
+      ]
+    },
+    {
+      "slug": "yadea-ova",
+      "name": "YADEA OVA",
+      "tagline": null,
+      "price": 18190000,
+      "compareAtPrice": null,
+      "sourceUrl": "https://www.yadea.com.vn/thong-tin-san-pham/yadea-ova/",
+      "badge": "HOT",
+      "heroImage": "https://www.yadea.com.vn/wp-content/uploads/2026/03/Ova-Anh-ngang-cac-mau-1-1.png",
+      "gallery": [
+        "https://www.yadea.com.vn/wp-content/uploads/2026/03/Ova-Anh-ngang-cac-mau-1-1.png",
+        "https://www.yadea.com.vn/wp-content/uploads/2026/03/Ova-Anh-ngang-cac-mau-2-2.png",
+        "https://www.yadea.com.vn/wp-content/uploads/2026/03/Ova-Anh-ngang-cac-mau-3-2.png",
+        "https://www.yadea.com.vn/wp-content/uploads/2026/03/Ova-Anh-ngang-cac-mau-4-2.png",
+        "https://www.yadea.com.vn/wp-content/uploads/2026/03/Ova-Anh-ngang-cac-mau-5-2.png"
+      ],
+      "highlights": [],
+      "specSections": [],
+      "category": "xe-may-dien",
+      "syncedAt": "2026-06-01T19:43:21.430Z",
+      "pageLayout": "configurator",
+      "purchaseUrl": "https://www.yadea.com.vn/san-pham/yadea-ova/",
+      "configuratorSidebar": [
+        {
+          "yadeaSlug": "yadea-vigor-nang-cap",
+          "label": "Vigor"
+        },
+        {
+          "yadeaSlug": "yadea-xbull",
+          "label": "XBULL"
+        },
+        {
+          "yadeaSlug": "yadea-odora-h",
+          "label": "Odora H"
+        },
+        {
+          "yadeaSlug": "yadea-flit",
+          "label": "FLIT"
+        },
+        {
+          "yadeaSlug": "yadea-vito",
+          "label": "VITO"
+        },
+        {
+          "yadeaSlug": "yadea-odora-s2",
+          "catalogSlug": "yadea-odora-s2",
+          "label": "Odora S2"
+        },
+        {
+          "yadeaSlug": "ifun",
+          "label": "iFUN"
+        },
+        {
+          "yadeaSlug": "x-sky",
+          "label": "X-Sky"
+        },
+        {
+          "yadeaSlug": "yadea-icute",
+          "label": "iCute"
+        },
+        {
+          "yadeaSlug": "yadea-vekoo-h",
+          "label": "VEKOO H"
+        },
+        {
+          "yadeaSlug": "yadea-i8",
+          "label": "i8"
+        },
+        {
+          "yadeaSlug": "yadea-i8-h",
+          "label": "i8 H"
+        },
+        {
+          "yadeaSlug": "yadea-ocean",
+          "label": "Ocean"
+        },
+        {
+          "yadeaSlug": "yadea-orla-gau-dau",
+          "catalogSlug": "yadea-orla-2024",
+          "label": "Orla Gấu Dâu"
+        },
+        {
+          "yadeaSlug": "ossy",
+          "label": "Ossy"
+        },
+        {
+          "yadeaSlug": "yadea-oris-h",
+          "label": "ORIS H"
+        },
+        {
+          "yadeaSlug": "yadea-voltguard-u80",
+          "catalogSlug": "yadea-voltguard-u80-2pin",
+          "label": "Voltguard U80"
+        },
+        {
+          "yadeaSlug": "yadea-ova",
+          "label": "OVA"
+        },
+        {
+          "yadeaSlug": "yadea-velax-h-plus",
+          "label": "Velax H+"
+        },
+        {
+          "yadeaSlug": "yadea-icute-h",
+          "label": "iCute H"
+        },
+        {
+          "yadeaSlug": "yadea-osta",
+          "label": "Osta"
+        },
+        {
+          "yadeaSlug": "vekoo",
+          "label": "VeKoo"
+        },
+        {
+          "yadeaSlug": "yadea-xbull-h",
+          "label": "XBULL H"
+        },
+        {
+          "yadeaSlug": "yadea-velax-u",
+          "label": "Velax U"
+        },
+        {
+          "yadeaSlug": "yadea-voltguad-p-l",
+          "label": "Voltguard P-L"
+        },
+        {
+          "yadeaSlug": "yadea-i8-vintage",
+          "label": "i8 Vintage"
+        },
+        {
+          "yadeaSlug": "yadea-voltguard-u50",
+          "label": "Voltguard U50"
+        },
+        {
+          "yadeaSlug": "yadea-velax",
+          "catalogSlug": "yadea-velax",
+          "label": "Velax"
+        }
+      ],
+      "outOfStock": false,
+      "keySpecs": [
+        {
+          "label": "Tốc độ tối đa",
+          "value": "44 Km/h"
+        },
+        {
+          "label": "Quãng đường",
+          "value": "80 Km",
+          "description": "Trong 1 lần sạc"
+        },
+        {
+          "label": "Nền tảng",
+          "value": "AIGO PRO"
+        }
+      ],
+      "colorVariants": [
+        {
+          "name": "Xanh rêu",
+          "hex": "#556038",
+          "imageUrl": "https://www.yadea.com.vn/wp-content/uploads/2026/03/Ova-Anh-ngang-cac-mau-1-1.png"
+        },
+        {
+          "name": "Đỏ Chili",
+          "hex": "#9b0b09",
+          "imageUrl": "https://www.yadea.com.vn/wp-content/uploads/2026/03/Ova-Anh-ngang-cac-mau-2-2.png"
+        },
+        {
+          "name": "Vàng cam đất",
+          "hex": "#cec9c5",
+          "imageUrl": "https://www.yadea.com.vn/wp-content/uploads/2026/03/Ova-Anh-ngang-cac-mau-3-2.png"
+        },
+        {
+          "name": "Xanh thủy hạ",
+          "hex": "#a8bdc2",
+          "imageUrl": "https://www.yadea.com.vn/wp-content/uploads/2026/03/Ova-Anh-ngang-cac-mau-4-2.png"
+        },
+        {
+          "name": "Hồng anh đào",
+          "hex": "#efdbdd",
+          "imageUrl": "https://www.yadea.com.vn/wp-content/uploads/2026/03/Ova-Anh-ngang-cac-mau-5-2.png"
+        }
+      ],
+      "colors": [
+        {
+          "name": "Xanh rêu",
+          "hex": "#556038",
+          "imageUrl": "https://www.yadea.com.vn/wp-content/uploads/2026/03/Ova-Anh-ngang-cac-mau-1-1.png"
+        },
+        {
+          "name": "Đỏ Chili",
+          "hex": "#9b0b09",
+          "imageUrl": "https://www.yadea.com.vn/wp-content/uploads/2026/03/Ova-Anh-ngang-cac-mau-2-2.png"
+        },
+        {
+          "name": "Vàng cam đất",
+          "hex": "#cec9c5",
+          "imageUrl": "https://www.yadea.com.vn/wp-content/uploads/2026/03/Ova-Anh-ngang-cac-mau-3-2.png"
+        },
+        {
+          "name": "Xanh thủy hạ",
+          "hex": "#a8bdc2",
+          "imageUrl": "https://www.yadea.com.vn/wp-content/uploads/2026/03/Ova-Anh-ngang-cac-mau-4-2.png"
+        },
+        {
+          "name": "Hồng anh đào",
+          "hex": "#efdbdd",
+          "imageUrl": "https://www.yadea.com.vn/wp-content/uploads/2026/03/Ova-Anh-ngang-cac-mau-5-2.png"
+        }
+      ]
+    },
+    {
+      "slug": "yadea-ocean",
+      "name": "YADEA OCEAN",
+      "tagline": null,
+      "price": 18190000,
+      "compareAtPrice": null,
+      "sourceUrl": "https://www.yadea.com.vn/thong-tin-san-pham/yadea-ocean/",
+      "badge": "HOT",
+      "heroImage": "https://www.yadea.com.vn/wp-content/uploads/2023/11/ocean-cyan-002.png",
+      "gallery": [
+        "https://www.yadea.com.vn/wp-content/uploads/2023/11/ocean-cyan-002.png",
+        "https://www.yadea.com.vn/wp-content/uploads/2023/11/ocean-cyan-01.png",
+        "https://www.yadea.com.vn/wp-content/uploads/2023/10/ocean-pink.png",
+        "https://www.yadea.com.vn/wp-content/uploads/2023/10/ocean-beige.png"
+      ],
+      "highlights": [],
+      "specSections": [],
+      "category": "xe-may-dien",
+      "syncedAt": "2026-06-01T19:43:24.269Z",
+      "pageLayout": "configurator",
+      "purchaseUrl": "https://www.yadea.com.vn/san-pham/yadea-ocean/",
+      "configuratorSidebar": [
+        {
+          "yadeaSlug": "yadea-vigor-nang-cap",
+          "label": "Vigor"
+        },
+        {
+          "yadeaSlug": "yadea-xbull",
+          "label": "XBULL"
+        },
+        {
+          "yadeaSlug": "yadea-odora-h",
+          "label": "Odora H"
+        },
+        {
+          "yadeaSlug": "yadea-flit",
+          "label": "FLIT"
+        },
+        {
+          "yadeaSlug": "yadea-vito",
+          "label": "VITO"
+        },
+        {
+          "yadeaSlug": "yadea-odora-s2",
+          "catalogSlug": "yadea-odora-s2",
+          "label": "Odora S2"
+        },
+        {
+          "yadeaSlug": "ifun",
+          "label": "iFUN"
+        },
+        {
+          "yadeaSlug": "x-sky",
+          "label": "X-Sky"
+        },
+        {
+          "yadeaSlug": "yadea-icute",
+          "label": "iCute"
+        },
+        {
+          "yadeaSlug": "yadea-vekoo-h",
+          "label": "VEKOO H"
+        },
+        {
+          "yadeaSlug": "yadea-i8",
+          "label": "i8"
+        },
+        {
+          "yadeaSlug": "yadea-i8-h",
+          "label": "i8 H"
+        },
+        {
+          "yadeaSlug": "yadea-ocean",
+          "label": "Ocean"
+        },
+        {
+          "yadeaSlug": "yadea-orla-gau-dau",
+          "catalogSlug": "yadea-orla-2024",
+          "label": "Orla Gấu Dâu"
+        },
+        {
+          "yadeaSlug": "ossy",
+          "label": "Ossy"
+        },
+        {
+          "yadeaSlug": "yadea-oris-h",
+          "label": "ORIS H"
+        },
+        {
+          "yadeaSlug": "yadea-voltguard-u80",
+          "catalogSlug": "yadea-voltguard-u80-2pin",
+          "label": "Voltguard U80"
+        },
+        {
+          "yadeaSlug": "yadea-ova",
+          "label": "OVA"
+        },
+        {
+          "yadeaSlug": "yadea-velax-h-plus",
+          "label": "Velax H+"
+        },
+        {
+          "yadeaSlug": "yadea-icute-h",
+          "label": "iCute H"
+        },
+        {
+          "yadeaSlug": "yadea-osta",
+          "label": "Osta"
+        },
+        {
+          "yadeaSlug": "vekoo",
+          "label": "VeKoo"
+        },
+        {
+          "yadeaSlug": "yadea-xbull-h",
+          "label": "XBULL H"
+        },
+        {
+          "yadeaSlug": "yadea-velax-u",
+          "label": "Velax U"
+        },
+        {
+          "yadeaSlug": "yadea-voltguad-p-l",
+          "label": "Voltguard P-L"
+        },
+        {
+          "yadeaSlug": "yadea-i8-vintage",
+          "label": "i8 Vintage"
+        },
+        {
+          "yadeaSlug": "yadea-voltguard-u50",
+          "label": "Voltguard U50"
+        },
+        {
+          "yadeaSlug": "yadea-velax",
+          "catalogSlug": "yadea-velax",
+          "label": "Velax"
+        }
+      ],
+      "outOfStock": false,
+      "keySpecs": [
+        {
+          "label": "Tốc độ tối đa",
+          "value": "46 Km/h"
+        },
+        {
+          "label": "Quãng đường",
+          "value": "76 Km",
+          "description": "Trong 1 lần sạc"
+        },
+        {
+          "label": "Hệ thống",
+          "value": "TTFAR"
+        }
+      ],
+      "colorVariants": [
+        {
+          "name": "Xanh",
+          "hex": "#55c1b3",
+          "imageUrl": "https://www.yadea.com.vn/wp-content/uploads/2023/11/ocean-cyan-002.png"
+        },
+        {
+          "name": "Hồng",
+          "hex": "#ef97e9",
+          "imageUrl": "https://www.yadea.com.vn/wp-content/uploads/2023/11/ocean-cyan-01.png"
+        },
+        {
+          "name": "Kem",
+          "hex": "#ede6e6",
+          "imageUrl": "https://www.yadea.com.vn/wp-content/uploads/2023/10/ocean-pink.png"
+        },
+        {
+          "name": "Tím",
+          "hex": "#be9ae2",
+          "imageUrl": "https://www.yadea.com.vn/wp-content/uploads/2023/10/ocean-beige.png"
+        }
+      ],
+      "colors": [
+        {
+          "name": "Xanh",
+          "hex": "#55c1b3",
+          "imageUrl": "https://www.yadea.com.vn/wp-content/uploads/2023/11/ocean-cyan-002.png"
+        },
+        {
+          "name": "Hồng",
+          "hex": "#ef97e9",
+          "imageUrl": "https://www.yadea.com.vn/wp-content/uploads/2023/11/ocean-cyan-01.png"
+        },
+        {
+          "name": "Kem",
+          "hex": "#ede6e6",
+          "imageUrl": "https://www.yadea.com.vn/wp-content/uploads/2023/10/ocean-pink.png"
+        },
+        {
+          "name": "Tím",
+          "hex": "#be9ae2",
+          "imageUrl": "https://www.yadea.com.vn/wp-content/uploads/2023/10/ocean-beige.png"
+        }
+      ]
+    },
+    {
+      "slug": "yadea-odora-h",
+      "name": "YADEA ODORA H",
+      "tagline": null,
+      "price": 16690000,
+      "compareAtPrice": null,
+      "sourceUrl": "https://www.yadea.com.vn/thong-tin-san-pham/yadea-odora-h/",
+      "badge": "HOT",
+      "heroImage": "https://www.yadea.com.vn/wp-content/uploads/2026/01/Anh-chinh-to-1280x880-3.png",
+      "gallery": [
+        "https://www.yadea.com.vn/wp-content/uploads/2026/01/Anh-chinh-to-1280x880-3.png",
+        "https://www.yadea.com.vn/wp-content/uploads/2026/01/Anh-chinh-to-1280x880-2.png",
+        "https://www.yadea.com.vn/wp-content/uploads/2026/01/Anh-chinh-to-1280x880-1.png",
+        "https://www.yadea.com.vn/wp-content/uploads/2026/01/Anh-chinh-to-1280x880-4.png"
+      ],
+      "highlights": [],
+      "specSections": [],
+      "category": "xe-may-dien",
+      "syncedAt": "2026-06-01T19:43:25.465Z",
+      "pageLayout": "configurator",
+      "purchaseUrl": "https://www.yadea.com.vn/san-pham/yadea-odora-h/",
+      "configuratorSidebar": [
+        {
+          "yadeaSlug": "yadea-vigor-nang-cap",
+          "label": "Vigor"
+        },
+        {
+          "yadeaSlug": "yadea-xbull",
+          "label": "XBULL"
+        },
+        {
+          "yadeaSlug": "yadea-odora-h",
+          "label": "Odora H"
+        },
+        {
+          "yadeaSlug": "yadea-flit",
+          "label": "FLIT"
+        },
+        {
+          "yadeaSlug": "yadea-vito",
+          "label": "VITO"
+        },
+        {
+          "yadeaSlug": "yadea-odora-s2",
+          "catalogSlug": "yadea-odora-s2",
+          "label": "Odora S2"
+        },
+        {
+          "yadeaSlug": "ifun",
+          "label": "iFUN"
+        },
+        {
+          "yadeaSlug": "x-sky",
+          "label": "X-Sky"
+        },
+        {
+          "yadeaSlug": "yadea-icute",
+          "label": "iCute"
+        },
+        {
+          "yadeaSlug": "yadea-vekoo-h",
+          "label": "VEKOO H"
+        },
+        {
+          "yadeaSlug": "yadea-i8",
+          "label": "i8"
+        },
+        {
+          "yadeaSlug": "yadea-i8-h",
+          "label": "i8 H"
+        },
+        {
+          "yadeaSlug": "yadea-ocean",
+          "label": "Ocean"
+        },
+        {
+          "yadeaSlug": "yadea-orla-gau-dau",
+          "catalogSlug": "yadea-orla-2024",
+          "label": "Orla Gấu Dâu"
+        },
+        {
+          "yadeaSlug": "ossy",
+          "label": "Ossy"
+        },
+        {
+          "yadeaSlug": "yadea-oris-h",
+          "label": "ORIS H"
+        },
+        {
+          "yadeaSlug": "yadea-voltguard-u80",
+          "catalogSlug": "yadea-voltguard-u80-2pin",
+          "label": "Voltguard U80"
+        },
+        {
+          "yadeaSlug": "yadea-ova",
+          "label": "OVA"
+        },
+        {
+          "yadeaSlug": "yadea-velax-h-plus",
+          "label": "Velax H+"
+        },
+        {
+          "yadeaSlug": "yadea-icute-h",
+          "label": "iCute H"
+        },
+        {
+          "yadeaSlug": "yadea-osta",
+          "label": "Osta"
+        },
+        {
+          "yadeaSlug": "vekoo",
+          "label": "VeKoo"
+        },
+        {
+          "yadeaSlug": "yadea-xbull-h",
+          "label": "XBULL H"
+        },
+        {
+          "yadeaSlug": "yadea-velax-u",
+          "label": "Velax U"
+        },
+        {
+          "yadeaSlug": "yadea-voltguad-p-l",
+          "label": "Voltguard P-L"
+        },
+        {
+          "yadeaSlug": "yadea-i8-vintage",
+          "label": "i8 Vintage"
+        },
+        {
+          "yadeaSlug": "yadea-voltguard-u50",
+          "label": "Voltguard U50"
+        },
+        {
+          "yadeaSlug": "yadea-velax",
+          "catalogSlug": "yadea-velax",
+          "label": "Velax"
+        }
+      ],
+      "outOfStock": false,
+      "colorVariants": [
+        {
+          "name": "Đen nhám mới",
+          "hex": "#3a3a3a",
+          "imageUrl": "https://www.yadea.com.vn/wp-content/uploads/2026/01/Anh-chinh-to-1280x880-3.png"
+        },
+        {
+          "name": "Xanh lá trúc",
+          "hex": "#b5c4c1",
+          "imageUrl": "https://www.yadea.com.vn/wp-content/uploads/2026/01/Anh-chinh-to-1280x880-2.png"
+        },
+        {
+          "name": "Xám kỳ lân",
+          "hex": "#b6b6b6",
+          "imageUrl": "https://www.yadea.com.vn/wp-content/uploads/2026/01/Anh-chinh-to-1280x880-1.png"
+        },
+        {
+          "name": "Trắng",
+          "hex": "#ffffff",
+          "imageUrl": "https://www.yadea.com.vn/wp-content/uploads/2026/01/Anh-chinh-to-1280x880-4.png"
+        }
+      ],
+      "keySpecs": [
+        {
+          "label": "Tốc độ tối đa",
+          "value": "49 Km/h"
+        },
+        {
+          "label": "Quãng đường",
+          "value": "85 Km",
+          "description": "Trong 1 lần sạc"
+        },
+        {
+          "label": "Ắc quy",
+          "value": "TTFAR/Thiên năng",
+          "description": "Tăng quãng đường"
+        }
+      ],
+      "colors": [
+        {
+          "name": "Đen nhám mới",
+          "hex": "#3a3a3a",
+          "imageUrl": "https://www.yadea.com.vn/wp-content/uploads/2026/01/Anh-chinh-to-1280x880-3.png"
+        },
+        {
+          "name": "Xanh lá trúc",
+          "hex": "#b5c4c1",
+          "imageUrl": "https://www.yadea.com.vn/wp-content/uploads/2026/01/Anh-chinh-to-1280x880-2.png"
+        },
+        {
+          "name": "Xám kỳ lân",
+          "hex": "#b6b6b6",
+          "imageUrl": "https://www.yadea.com.vn/wp-content/uploads/2026/01/Anh-chinh-to-1280x880-1.png"
+        },
+        {
+          "name": "Trắng",
+          "hex": "#ffffff",
+          "imageUrl": "https://www.yadea.com.vn/wp-content/uploads/2026/01/Anh-chinh-to-1280x880-4.png"
+        }
+      ]
+    },
+    {
+      "slug": "yadea-odora-s2",
+      "name": "YADEA ODORA S2",
+      "tagline": null,
+      "price": null,
+      "compareAtPrice": null,
+      "sourceUrl": "https://www.yadea.com.vn/thong-tin-san-pham/yadea-odora-s2/",
+      "purchaseUrl": "https://www.yadea.com.vn/san-pham/yadea-odora-s2/",
+      "badge": "HOT",
+      "pageLayout": "configurator",
+      "outOfStock": true,
+      "heroImage": "https://www.yadea.com.vn/wp-content/uploads/2025/09/Anh-ngang-to-1280x880px-1.png",
+      "gallery": [
+        "https://www.yadea.com.vn/wp-content/uploads/2025/09/Anh-ngang-to-1280x880px-1.png",
+        "https://www.yadea.com.vn/wp-content/uploads/2025/09/Anh-ngang-to-1280x880px-copy-1.png",
+        "https://www.yadea.com.vn/wp-content/uploads/2025/09/Anh-ngang-to-1280x880px-copy-2-1.png",
+        "https://www.yadea.com.vn/wp-content/uploads/2025/09/Anh-ngang-to-1280x880px-copy-3-1.png",
+        "https://www.yadea.com.vn/wp-content/uploads/2025/09/mau-xanh-moi-1280x880px.png"
+      ],
+      "keySpecs": [
+        {
+          "label": "Tốc độ tối đa",
+          "value": "46 Km/h"
+        },
+        {
+          "label": "Quãng đường",
+          "value": "80 Km",
+          "description": "Trong 1 lần sạc"
+        },
+        {
+          "label": "Hệ thống",
+          "value": "TTFAR",
+          "description": "tăng quãng đường"
+        }
+      ],
+      "colorVariants": [
+        {
+          "name": "Đen nhám mới",
+          "hex": "#3a3a3a",
+          "imageUrl": "https://www.yadea.com.vn/wp-content/uploads/2025/09/Anh-ngang-to-1280x880px-1.png"
+        },
+        {
+          "name": "Trắng ngà",
+          "hex": "#ffffff",
+          "imageUrl": "https://www.yadea.com.vn/wp-content/uploads/2025/09/Anh-ngang-to-1280x880px-copy-1.png"
+        },
+        {
+          "name": "Xám kỳ lân",
+          "hex": "#e0e0e0",
+          "imageUrl": "https://www.yadea.com.vn/wp-content/uploads/2025/09/Anh-ngang-to-1280x880px-copy-2-1.png"
+        },
+        {
+          "name": "Xám than",
+          "hex": "#828282",
+          "imageUrl": "https://www.yadea.com.vn/wp-content/uploads/2025/09/Anh-ngang-to-1280x880px-copy-3-1.png"
+        },
+        {
+          "name": "Xanh thủy hạ",
+          "hex": "#c2d6d5",
+          "imageUrl": "https://www.yadea.com.vn/wp-content/uploads/2025/09/mau-xanh-moi-1280x880px.png"
+        }
+      ],
+      "configuratorSidebar": [
+        {
+          "yadeaSlug": "yadea-vigor-nang-cap",
+          "label": "Vigor"
+        },
+        {
+          "yadeaSlug": "yadea-xbull",
+          "label": "XBULL"
+        },
+        {
+          "yadeaSlug": "yadea-odora-h",
+          "label": "Odora H"
+        },
+        {
+          "yadeaSlug": "yadea-flit",
+          "label": "FLIT"
+        },
+        {
+          "yadeaSlug": "yadea-vito",
+          "label": "VITO"
+        },
+        {
+          "yadeaSlug": "yadea-odora-s2",
+          "catalogSlug": "yadea-odora-s2",
+          "label": "Odora S2"
+        },
+        {
+          "yadeaSlug": "ifun",
+          "label": "iFUN"
+        },
+        {
+          "yadeaSlug": "x-sky",
+          "label": "X-Sky"
+        },
+        {
+          "yadeaSlug": "yadea-icute",
+          "label": "iCute"
+        },
+        {
+          "yadeaSlug": "yadea-vekoo-h",
+          "label": "VEKOO H"
+        },
+        {
+          "yadeaSlug": "yadea-i8",
+          "label": "i8"
+        },
+        {
+          "yadeaSlug": "yadea-i8-h",
+          "label": "i8 H"
+        },
+        {
+          "yadeaSlug": "yadea-ocean",
+          "label": "Ocean"
+        },
+        {
+          "yadeaSlug": "yadea-orla-gau-dau",
+          "catalogSlug": "yadea-orla-2024",
+          "label": "Orla Gấu Dâu"
+        },
+        {
+          "yadeaSlug": "ossy",
+          "label": "Ossy"
+        },
+        {
+          "yadeaSlug": "yadea-oris-h",
+          "label": "ORIS H"
+        },
+        {
+          "yadeaSlug": "yadea-voltguard-u80",
+          "catalogSlug": "yadea-voltguard-u80-2pin",
+          "label": "Voltguard U80"
+        },
+        {
+          "yadeaSlug": "yadea-ova",
+          "label": "OVA"
+        },
+        {
+          "yadeaSlug": "yadea-velax-h-plus",
+          "label": "Velax H+"
+        },
+        {
+          "yadeaSlug": "yadea-icute-h",
+          "label": "iCute H"
+        },
+        {
+          "yadeaSlug": "yadea-osta",
+          "label": "Osta"
+        },
+        {
+          "yadeaSlug": "vekoo",
+          "label": "VeKoo"
+        },
+        {
+          "yadeaSlug": "yadea-xbull-h",
+          "label": "XBULL H"
+        },
+        {
+          "yadeaSlug": "yadea-velax-u",
+          "label": "Velax U"
+        },
+        {
+          "yadeaSlug": "yadea-voltguad-p-l",
+          "label": "Voltguard P-L"
+        },
+        {
+          "yadeaSlug": "yadea-i8-vintage",
+          "label": "i8 Vintage"
+        },
+        {
+          "yadeaSlug": "yadea-voltguard-u50",
+          "label": "Voltguard U50"
+        },
+        {
+          "yadeaSlug": "yadea-velax",
+          "catalogSlug": "yadea-velax",
+          "label": "Velax"
+        }
+      ],
+      "highlights": [],
+      "specSections": [],
+      "category": "xe-may-dien",
+      "syncedAt": "2026-06-02T03:00:00.000Z",
+      "colors": [
+        {
+          "name": "Đen nhám mới",
+          "hex": "#3a3a3a",
+          "imageUrl": "https://www.yadea.com.vn/wp-content/uploads/2025/09/Anh-ngang-to-1280x880px-1.png"
+        },
+        {
+          "name": "Trắng ngà",
+          "hex": "#ffffff",
+          "imageUrl": "https://www.yadea.com.vn/wp-content/uploads/2025/09/Anh-ngang-to-1280x880px-copy-1.png"
+        },
+        {
+          "name": "Xám kỳ lân",
+          "hex": "#e0e0e0",
+          "imageUrl": "https://www.yadea.com.vn/wp-content/uploads/2025/09/Anh-ngang-to-1280x880px-copy-2-1.png"
+        },
+        {
+          "name": "Xám than",
+          "hex": "#828282",
+          "imageUrl": "https://www.yadea.com.vn/wp-content/uploads/2025/09/Anh-ngang-to-1280x880px-copy-3-1.png"
+        },
+        {
+          "name": "Xanh thủy hạ",
+          "hex": "#c2d6d5",
+          "imageUrl": "https://www.yadea.com.vn/wp-content/uploads/2025/09/mau-xanh-moi-1280x880px.png"
+        }
+      ]
+    },
+    {
+      "slug": "yadea-vigor-2025",
+      "name": "YADEA VIGOR NÂNG CẤP",
+      "tagline": null,
+      "price": 16190000,
+      "compareAtPrice": null,
+      "sourceUrl": "https://www.yadea.com.vn/thong-tin-san-pham/yadea-vigor-2025/",
+      "badge": "HOT",
+      "heroImage": "https://www.yadea.com.vn/wp-content/uploads/2025/09/1410-Vigor-Nang-Cap-be.png",
+      "gallery": [
+        "https://www.yadea.com.vn/wp-content/uploads/2025/09/1410-Vigor-Nang-Cap-be.png",
+        "https://www.yadea.com.vn/wp-content/uploads/2025/09/1410-Vigor-Nang-Cap-den.png",
+        "https://www.yadea.com.vn/wp-content/uploads/2025/09/1410-Vigor-Nang-Cap-xam.png",
+        "https://www.yadea.com.vn/wp-content/uploads/2025/10/1410-Vigor-Nang-Cap-xam-den.png"
+      ],
+      "highlights": [],
+      "specSections": [],
+      "category": "xe-may-dien",
+      "syncedAt": "2026-06-01T19:43:25.867Z",
+      "pageLayout": "configurator",
+      "purchaseUrl": "https://www.yadea.com.vn/san-pham/yadea-vigor-nang-cap/",
+      "configuratorSidebar": [
+        {
+          "yadeaSlug": "yadea-vigor-nang-cap",
+          "label": "Vigor"
+        },
+        {
+          "yadeaSlug": "yadea-xbull",
+          "label": "XBULL"
+        },
+        {
+          "yadeaSlug": "yadea-odora-h",
+          "label": "Odora H"
+        },
+        {
+          "yadeaSlug": "yadea-flit",
+          "label": "FLIT"
+        },
+        {
+          "yadeaSlug": "yadea-vito",
+          "label": "VITO"
+        },
+        {
+          "yadeaSlug": "yadea-odora-s2",
+          "catalogSlug": "yadea-odora-s2",
+          "label": "Odora S2"
+        },
+        {
+          "yadeaSlug": "ifun",
+          "label": "iFUN"
+        },
+        {
+          "yadeaSlug": "x-sky",
+          "label": "X-Sky"
+        },
+        {
+          "yadeaSlug": "yadea-icute",
+          "label": "iCute"
+        },
+        {
+          "yadeaSlug": "yadea-vekoo-h",
+          "label": "VEKOO H"
+        },
+        {
+          "yadeaSlug": "yadea-i8",
+          "label": "i8"
+        },
+        {
+          "yadeaSlug": "yadea-i8-h",
+          "label": "i8 H"
+        },
+        {
+          "yadeaSlug": "yadea-ocean",
+          "label": "Ocean"
+        },
+        {
+          "yadeaSlug": "yadea-orla-gau-dau",
+          "catalogSlug": "yadea-orla-2024",
+          "label": "Orla Gấu Dâu"
+        },
+        {
+          "yadeaSlug": "ossy",
+          "label": "Ossy"
+        },
+        {
+          "yadeaSlug": "yadea-oris-h",
+          "label": "ORIS H"
+        },
+        {
+          "yadeaSlug": "yadea-voltguard-u80",
+          "catalogSlug": "yadea-voltguard-u80-2pin",
+          "label": "Voltguard U80"
+        },
+        {
+          "yadeaSlug": "yadea-ova",
+          "label": "OVA"
+        },
+        {
+          "yadeaSlug": "yadea-velax-h-plus",
+          "label": "Velax H+"
+        },
+        {
+          "yadeaSlug": "yadea-icute-h",
+          "label": "iCute H"
+        },
+        {
+          "yadeaSlug": "yadea-osta",
+          "label": "Osta"
+        },
+        {
+          "yadeaSlug": "vekoo",
+          "label": "VeKoo"
+        },
+        {
+          "yadeaSlug": "yadea-xbull-h",
+          "label": "XBULL H"
+        },
+        {
+          "yadeaSlug": "yadea-velax-u",
+          "label": "Velax U"
+        },
+        {
+          "yadeaSlug": "yadea-voltguad-p-l",
+          "label": "Voltguard P-L"
+        },
+        {
+          "yadeaSlug": "yadea-i8-vintage",
+          "label": "i8 Vintage"
+        },
+        {
+          "yadeaSlug": "yadea-voltguard-u50",
+          "label": "Voltguard U50"
+        },
+        {
+          "yadeaSlug": "yadea-velax",
+          "catalogSlug": "yadea-velax",
+          "label": "Velax"
+        }
+      ],
+      "outOfStock": false,
+      "keySpecs": [
+        {
+          "label": "Tốc độ tối đa",
+          "value": "46 Km/h"
+        },
+        {
+          "label": "Quãng đường",
+          "value": "70 Km",
+          "description": "Trong 1 lần sạc"
+        },
+        {
+          "label": "Ắc quy",
+          "value": "Thiên năng/TTFAR"
+        }
+      ],
+      "colorVariants": [
+        {
+          "name": "Cam đất",
+          "hex": "#c6bcb5",
+          "imageUrl": "https://www.yadea.com.vn/wp-content/uploads/2025/09/1410-Vigor-Nang-Cap-be.png"
+        },
+        {
+          "name": "Đen nhám",
+          "hex": "#000000",
+          "imageUrl": "https://www.yadea.com.vn/wp-content/uploads/2025/09/1410-Vigor-Nang-Cap-den.png"
+        },
+        {
+          "name": "Xám than",
+          "hex": "#afb0aa",
+          "imageUrl": "https://www.yadea.com.vn/wp-content/uploads/2025/09/1410-Vigor-Nang-Cap-xam.png"
+        },
+        {
+          "name": "Xám đen",
+          "hex": "#8c8c8c",
+          "imageUrl": "https://www.yadea.com.vn/wp-content/uploads/2025/10/1410-Vigor-Nang-Cap-xam-den.png"
+        }
+      ],
+      "colors": [
+        {
+          "name": "Cam đất",
+          "hex": "#c6bcb5",
+          "imageUrl": "https://www.yadea.com.vn/wp-content/uploads/2025/09/1410-Vigor-Nang-Cap-be.png"
+        },
+        {
+          "name": "Đen nhám",
+          "hex": "#000000",
+          "imageUrl": "https://www.yadea.com.vn/wp-content/uploads/2025/09/1410-Vigor-Nang-Cap-den.png"
+        },
+        {
+          "name": "Xám than",
+          "hex": "#afb0aa",
+          "imageUrl": "https://www.yadea.com.vn/wp-content/uploads/2025/09/1410-Vigor-Nang-Cap-xam.png"
+        },
+        {
+          "name": "Xám đen",
+          "hex": "#8c8c8c",
+          "imageUrl": "https://www.yadea.com.vn/wp-content/uploads/2025/10/1410-Vigor-Nang-Cap-xam-den.png"
+        }
+      ]
+    },
+    {
+      "slug": "yadea-flit",
+      "name": "YADEA FLIT",
+      "tagline": null,
+      "price": 15990000,
+      "compareAtPrice": null,
+      "sourceUrl": "https://www.yadea.com.vn/thong-tin-san-pham/yadea-flit/",
+      "badge": "HOT",
+      "heroImage": "https://www.yadea.com.vn/wp-content/uploads/2025/09/avt-yadea-flit.png",
+      "gallery": [],
+      "highlights": [],
+      "specSections": [],
+      "category": "xe-gan-may-dien",
+      "syncedAt": "2026-06-01T19:43:29.886Z",
+      "pageLayout": "configurator",
+      "purchaseUrl": "https://www.yadea.com.vn/san-pham/yadea-flit/",
+      "configuratorSidebar": [
+        {
+          "yadeaSlug": "yadea-vigor-nang-cap",
+          "label": "Vigor"
+        },
+        {
+          "yadeaSlug": "yadea-xbull",
+          "label": "XBULL"
+        },
+        {
+          "yadeaSlug": "yadea-odora-h",
+          "label": "Odora H"
+        },
+        {
+          "yadeaSlug": "yadea-flit",
+          "label": "FLIT"
+        },
+        {
+          "yadeaSlug": "yadea-vito",
+          "label": "VITO"
+        },
+        {
+          "yadeaSlug": "yadea-odora-s2",
+          "catalogSlug": "yadea-odora-s2",
+          "label": "Odora S2"
+        },
+        {
+          "yadeaSlug": "ifun",
+          "label": "iFUN"
+        },
+        {
+          "yadeaSlug": "x-sky",
+          "label": "X-Sky"
+        },
+        {
+          "yadeaSlug": "yadea-icute",
+          "label": "iCute"
+        },
+        {
+          "yadeaSlug": "yadea-vekoo-h",
+          "label": "VEKOO H"
+        },
+        {
+          "yadeaSlug": "yadea-i8",
+          "label": "i8"
+        },
+        {
+          "yadeaSlug": "yadea-i8-h",
+          "label": "i8 H"
+        },
+        {
+          "yadeaSlug": "yadea-ocean",
+          "label": "Ocean"
+        },
+        {
+          "yadeaSlug": "yadea-orla-gau-dau",
+          "catalogSlug": "yadea-orla-2024",
+          "label": "Orla Gấu Dâu"
+        },
+        {
+          "yadeaSlug": "ossy",
+          "label": "Ossy"
+        },
+        {
+          "yadeaSlug": "yadea-oris-h",
+          "label": "ORIS H"
+        },
+        {
+          "yadeaSlug": "yadea-voltguard-u80",
+          "catalogSlug": "yadea-voltguard-u80-2pin",
+          "label": "Voltguard U80"
+        },
+        {
+          "yadeaSlug": "yadea-ova",
+          "label": "OVA"
+        },
+        {
+          "yadeaSlug": "yadea-velax-h-plus",
+          "label": "Velax H+"
+        },
+        {
+          "yadeaSlug": "yadea-icute-h",
+          "label": "iCute H"
+        },
+        {
+          "yadeaSlug": "yadea-osta",
+          "label": "Osta"
+        },
+        {
+          "yadeaSlug": "vekoo",
+          "label": "VeKoo"
+        },
+        {
+          "yadeaSlug": "yadea-xbull-h",
+          "label": "XBULL H"
+        },
+        {
+          "yadeaSlug": "yadea-velax-u",
+          "label": "Velax U"
+        },
+        {
+          "yadeaSlug": "yadea-voltguad-p-l",
+          "label": "Voltguard P-L"
+        },
+        {
+          "yadeaSlug": "yadea-i8-vintage",
+          "label": "i8 Vintage"
+        },
+        {
+          "yadeaSlug": "yadea-voltguard-u50",
+          "label": "Voltguard U50"
+        },
+        {
+          "yadeaSlug": "yadea-velax",
+          "catalogSlug": "yadea-velax",
+          "label": "Velax"
+        }
+      ],
+      "outOfStock": false,
+      "keySpecs": [
+        {
+          "label": "Tốc độ tối đa",
+          "value": "25 Km/h"
+        },
+        {
+          "label": "Quãng đường",
+          "value": "50 Km"
+        },
+        {
+          "label": "Động cơ",
+          "value": "250W"
+        }
+      ],
+      "colorVariants": [
+        {
+          "name": "Trắng Bầu Trời",
+          "hex": "#ffffff",
+          "imageUrl": "https://www.yadea.com.vn/wp-content/uploads/2025/09/avt-yadea-flit.png"
+        }
+      ]
+    },
+    {
+      "slug": "yadea-icute-h",
+      "name": "YADEA iCUTE H",
+      "tagline": null,
+      "price": 15490000,
+      "compareAtPrice": null,
+      "sourceUrl": "https://www.yadea.com.vn/thong-tin-san-pham/yadea-icute-h/",
+      "badge": "HOT",
+      "heroImage": "https://www.yadea.com.vn/wp-content/uploads/2026/03/anh-ngang-cac-mau-1-2.png",
+      "gallery": [
+        "https://www.yadea.com.vn/wp-content/uploads/2026/03/anh-ngang-cac-mau-1-2.png",
+        "https://www.yadea.com.vn/wp-content/uploads/2026/03/anh-ngang-cac-mau-2-1.png",
+        "https://www.yadea.com.vn/wp-content/uploads/2026/03/anh-ngang-cac-mau-3-1.png",
+        "https://www.yadea.com.vn/wp-content/uploads/2026/03/anh-ngang-cac-mau-4-1.png"
+      ],
+      "highlights": [],
+      "specSections": [],
+      "category": "xe-may-dien",
+      "syncedAt": "2026-06-01T19:43:20.626Z",
+      "pageLayout": "configurator",
+      "purchaseUrl": "https://www.yadea.com.vn/san-pham/yadea-icute-h/",
+      "configuratorSidebar": [
+        {
+          "yadeaSlug": "yadea-vigor-nang-cap",
+          "label": "Vigor"
+        },
+        {
+          "yadeaSlug": "yadea-xbull",
+          "label": "XBULL"
+        },
+        {
+          "yadeaSlug": "yadea-odora-h",
+          "label": "Odora H"
+        },
+        {
+          "yadeaSlug": "yadea-flit",
+          "label": "FLIT"
+        },
+        {
+          "yadeaSlug": "yadea-vito",
+          "label": "VITO"
+        },
+        {
+          "yadeaSlug": "yadea-odora-s2",
+          "catalogSlug": "yadea-odora-s2",
+          "label": "Odora S2"
+        },
+        {
+          "yadeaSlug": "ifun",
+          "label": "iFUN"
+        },
+        {
+          "yadeaSlug": "x-sky",
+          "label": "X-Sky"
+        },
+        {
+          "yadeaSlug": "yadea-icute",
+          "label": "iCute"
+        },
+        {
+          "yadeaSlug": "yadea-vekoo-h",
+          "label": "VEKOO H"
+        },
+        {
+          "yadeaSlug": "yadea-i8",
+          "label": "i8"
+        },
+        {
+          "yadeaSlug": "yadea-i8-h",
+          "label": "i8 H"
+        },
+        {
+          "yadeaSlug": "yadea-ocean",
+          "label": "Ocean"
+        },
+        {
+          "yadeaSlug": "yadea-orla-gau-dau",
+          "catalogSlug": "yadea-orla-2024",
+          "label": "Orla Gấu Dâu"
+        },
+        {
+          "yadeaSlug": "ossy",
+          "label": "Ossy"
+        },
+        {
+          "yadeaSlug": "yadea-oris-h",
+          "label": "ORIS H"
+        },
+        {
+          "yadeaSlug": "yadea-voltguard-u80",
+          "catalogSlug": "yadea-voltguard-u80-2pin",
+          "label": "Voltguard U80"
+        },
+        {
+          "yadeaSlug": "yadea-ova",
+          "label": "OVA"
+        },
+        {
+          "yadeaSlug": "yadea-velax-h-plus",
+          "label": "Velax H+"
+        },
+        {
+          "yadeaSlug": "yadea-icute-h",
+          "label": "iCute H"
+        },
+        {
+          "yadeaSlug": "yadea-osta",
+          "label": "Osta"
+        },
+        {
+          "yadeaSlug": "vekoo",
+          "label": "VeKoo"
+        },
+        {
+          "yadeaSlug": "yadea-xbull-h",
+          "label": "XBULL H"
+        },
+        {
+          "yadeaSlug": "yadea-velax-u",
+          "label": "Velax U"
+        },
+        {
+          "yadeaSlug": "yadea-voltguad-p-l",
+          "label": "Voltguard P-L"
+        },
+        {
+          "yadeaSlug": "yadea-i8-vintage",
+          "label": "i8 Vintage"
+        },
+        {
+          "yadeaSlug": "yadea-voltguard-u50",
+          "label": "Voltguard U50"
+        },
+        {
+          "yadeaSlug": "yadea-velax",
+          "catalogSlug": "yadea-velax",
+          "label": "Velax"
+        }
+      ],
+      "outOfStock": false,
+      "keySpecs": [
+        {
+          "label": "Tốc độ tối đa",
+          "value": "38 Km/h"
+        },
+        {
+          "label": "Quãng đường",
+          "value": "70 Km*",
+          "description": "Trong 1 lần sạc"
+        }
+      ],
+      "colorVariants": [
+        {
+          "name": "Đỏ Chili",
+          "hex": "#771d14",
+          "imageUrl": "https://www.yadea.com.vn/wp-content/uploads/2026/03/anh-ngang-cac-mau-1-2.png"
+        },
+        {
+          "name": "Vàng cam đất",
+          "hex": "#e5d4bb",
+          "imageUrl": "https://www.yadea.com.vn/wp-content/uploads/2026/03/anh-ngang-cac-mau-2-1.png"
+        },
+        {
+          "name": "Xanh crom",
+          "hex": "#636352",
+          "imageUrl": "https://www.yadea.com.vn/wp-content/uploads/2026/03/anh-ngang-cac-mau-3-1.png"
+        },
+        {
+          "name": "Xám tinh vân",
+          "hex": "#ddc0db",
+          "imageUrl": "https://www.yadea.com.vn/wp-content/uploads/2026/03/anh-ngang-cac-mau-4-1.png"
+        }
+      ],
+      "colors": [
+        {
+          "name": "Đỏ Chili",
+          "hex": "#771d14",
+          "imageUrl": "https://www.yadea.com.vn/wp-content/uploads/2026/03/anh-ngang-cac-mau-1-2.png"
+        },
+        {
+          "name": "Vàng cam đất",
+          "hex": "#e5d4bb",
+          "imageUrl": "https://www.yadea.com.vn/wp-content/uploads/2026/03/anh-ngang-cac-mau-2-1.png"
+        },
+        {
+          "name": "Xanh crom",
+          "hex": "#636352",
+          "imageUrl": "https://www.yadea.com.vn/wp-content/uploads/2026/03/anh-ngang-cac-mau-3-1.png"
+        },
+        {
+          "name": "Xám tinh vân",
+          "hex": "#ddc0db",
+          "imageUrl": "https://www.yadea.com.vn/wp-content/uploads/2026/03/anh-ngang-cac-mau-4-1.png"
+        }
+      ]
+    },
+    {
+      "slug": "yadea-icute",
+      "name": "YADEA iCUTE",
+      "tagline": null,
+      "price": 15490000,
+      "compareAtPrice": null,
+      "sourceUrl": "https://www.yadea.com.vn/thong-tin-san-pham/yadea-icute/",
+      "badge": "HOT",
+      "heroImage": "https://www.yadea.com.vn/wp-content/uploads/2023/11/icute-1.png",
+      "gallery": [
+        "https://www.yadea.com.vn/wp-content/uploads/2023/11/icute-1.png",
+        "https://www.yadea.com.vn/wp-content/uploads/2023/11/icute-1p2pink-1.png",
+        "https://www.yadea.com.vn/wp-content/uploads/2023/11/icute-cyan-1.png",
+        "https://www.yadea.com.vn/wp-content/uploads/2023/11/icute-pink-1.png"
+      ],
+      "highlights": [],
+      "specSections": [],
+      "category": "xe-may-dien",
+      "syncedAt": "2026-06-01T19:43:24.666Z",
+      "pageLayout": "configurator",
+      "purchaseUrl": "https://www.yadea.com.vn/san-pham/yadea-icute/",
+      "configuratorSidebar": [
+        {
+          "yadeaSlug": "yadea-vigor-nang-cap",
+          "label": "Vigor"
+        },
+        {
+          "yadeaSlug": "yadea-xbull",
+          "label": "XBULL"
+        },
+        {
+          "yadeaSlug": "yadea-odora-h",
+          "label": "Odora H"
+        },
+        {
+          "yadeaSlug": "yadea-flit",
+          "label": "FLIT"
+        },
+        {
+          "yadeaSlug": "yadea-vito",
+          "label": "VITO"
+        },
+        {
+          "yadeaSlug": "yadea-odora-s2",
+          "catalogSlug": "yadea-odora-s2",
+          "label": "Odora S2"
+        },
+        {
+          "yadeaSlug": "ifun",
+          "label": "iFUN"
+        },
+        {
+          "yadeaSlug": "x-sky",
+          "label": "X-Sky"
+        },
+        {
+          "yadeaSlug": "yadea-icute",
+          "label": "iCute"
+        },
+        {
+          "yadeaSlug": "yadea-vekoo-h",
+          "label": "VEKOO H"
+        },
+        {
+          "yadeaSlug": "yadea-i8",
+          "label": "i8"
+        },
+        {
+          "yadeaSlug": "yadea-i8-h",
+          "label": "i8 H"
+        },
+        {
+          "yadeaSlug": "yadea-ocean",
+          "label": "Ocean"
+        },
+        {
+          "yadeaSlug": "yadea-orla-gau-dau",
+          "catalogSlug": "yadea-orla-2024",
+          "label": "Orla Gấu Dâu"
+        },
+        {
+          "yadeaSlug": "ossy",
+          "label": "Ossy"
+        },
+        {
+          "yadeaSlug": "yadea-oris-h",
+          "label": "ORIS H"
+        },
+        {
+          "yadeaSlug": "yadea-voltguard-u80",
+          "catalogSlug": "yadea-voltguard-u80-2pin",
+          "label": "Voltguard U80"
+        },
+        {
+          "yadeaSlug": "yadea-ova",
+          "label": "OVA"
+        },
+        {
+          "yadeaSlug": "yadea-velax-h-plus",
+          "label": "Velax H+"
+        },
+        {
+          "yadeaSlug": "yadea-icute-h",
+          "label": "iCute H"
+        },
+        {
+          "yadeaSlug": "yadea-osta",
+          "label": "Osta"
+        },
+        {
+          "yadeaSlug": "vekoo",
+          "label": "VeKoo"
+        },
+        {
+          "yadeaSlug": "yadea-xbull-h",
+          "label": "XBULL H"
+        },
+        {
+          "yadeaSlug": "yadea-velax-u",
+          "label": "Velax U"
+        },
+        {
+          "yadeaSlug": "yadea-voltguad-p-l",
+          "label": "Voltguard P-L"
+        },
+        {
+          "yadeaSlug": "yadea-i8-vintage",
+          "label": "i8 Vintage"
+        },
+        {
+          "yadeaSlug": "yadea-voltguard-u50",
+          "label": "Voltguard U50"
+        },
+        {
+          "yadeaSlug": "yadea-velax",
+          "catalogSlug": "yadea-velax",
+          "label": "Velax"
+        }
+      ],
+      "outOfStock": false,
+      "keySpecs": [
+        {
+          "label": "Tốc độ tối đa",
+          "value": "30 Km/h"
+        },
+        {
+          "label": "Quãng đường",
+          "value": "77 Km",
+          "description": "Trong 1 lần sạc"
+        },
+        {
+          "label": "Hệ thống",
+          "value": "TTFAR"
+        }
+      ],
+      "colorVariants": [
+        {
+          "name": "Tím/ Trắng",
+          "hex": "#f2c4ec",
+          "imageUrl": "https://www.yadea.com.vn/wp-content/uploads/2023/11/icute-1.png"
+        },
+        {
+          "name": "Xanh / Trắng",
+          "hex": "#6db4bf",
+          "imageUrl": "https://www.yadea.com.vn/wp-content/uploads/2023/11/icute-1p2pink-1.png"
+        },
+        {
+          "name": "Tím",
+          "hex": "#ef97e9",
+          "imageUrl": "https://www.yadea.com.vn/wp-content/uploads/2023/11/icute-cyan-1.png"
+        },
+        {
+          "name": "Trắng",
+          "hex": "#fcfcfc",
+          "imageUrl": "https://www.yadea.com.vn/wp-content/uploads/2023/11/icute-pink-1.png"
+        }
+      ],
+      "colors": [
+        {
+          "name": "Tím/ Trắng",
+          "hex": "#f2c4ec",
+          "imageUrl": "https://www.yadea.com.vn/wp-content/uploads/2023/11/icute-1.png"
+        },
+        {
+          "name": "Xanh / Trắng",
+          "hex": "#6db4bf",
+          "imageUrl": "https://www.yadea.com.vn/wp-content/uploads/2023/11/icute-1p2pink-1.png"
+        },
+        {
+          "name": "Tím",
+          "hex": "#ef97e9",
+          "imageUrl": "https://www.yadea.com.vn/wp-content/uploads/2023/11/icute-cyan-1.png"
+        },
+        {
+          "name": "Trắng",
+          "hex": "#fcfcfc",
+          "imageUrl": "https://www.yadea.com.vn/wp-content/uploads/2023/11/icute-pink-1.png"
+        }
+      ]
+    },
+    {
+      "slug": "yadea-vito",
+      "name": "YADEA VITO",
+      "tagline": null,
+      "price": 14990000,
+      "compareAtPrice": null,
+      "sourceUrl": "https://www.yadea.com.vn/thong-tin-san-pham/yadea-vito/",
+      "badge": "HOT",
+      "heroImage": "https://www.yadea.com.vn/wp-content/uploads/2025/09/avt-yadea-vito.png",
+      "gallery": [],
+      "highlights": [],
+      "specSections": [],
+      "category": "xe-gan-may-dien",
+      "syncedAt": "2026-06-01T19:43:29.489Z",
+      "pageLayout": "configurator",
+      "purchaseUrl": "https://www.yadea.com.vn/san-pham/yadea-vito/",
+      "configuratorSidebar": [
+        {
+          "yadeaSlug": "yadea-vigor-nang-cap",
+          "label": "Vigor"
+        },
+        {
+          "yadeaSlug": "yadea-xbull",
+          "label": "XBULL"
+        },
+        {
+          "yadeaSlug": "yadea-odora-h",
+          "label": "Odora H"
+        },
+        {
+          "yadeaSlug": "yadea-flit",
+          "label": "FLIT"
+        },
+        {
+          "yadeaSlug": "yadea-vito",
+          "label": "VITO"
+        },
+        {
+          "yadeaSlug": "yadea-odora-s2",
+          "catalogSlug": "yadea-odora-s2",
+          "label": "Odora S2"
+        },
+        {
+          "yadeaSlug": "ifun",
+          "label": "iFUN"
+        },
+        {
+          "yadeaSlug": "x-sky",
+          "label": "X-Sky"
+        },
+        {
+          "yadeaSlug": "yadea-icute",
+          "label": "iCute"
+        },
+        {
+          "yadeaSlug": "yadea-vekoo-h",
+          "label": "VEKOO H"
+        },
+        {
+          "yadeaSlug": "yadea-i8",
+          "label": "i8"
+        },
+        {
+          "yadeaSlug": "yadea-i8-h",
+          "label": "i8 H"
+        },
+        {
+          "yadeaSlug": "yadea-ocean",
+          "label": "Ocean"
+        },
+        {
+          "yadeaSlug": "yadea-orla-gau-dau",
+          "catalogSlug": "yadea-orla-2024",
+          "label": "Orla Gấu Dâu"
+        },
+        {
+          "yadeaSlug": "ossy",
+          "label": "Ossy"
+        },
+        {
+          "yadeaSlug": "yadea-oris-h",
+          "label": "ORIS H"
+        },
+        {
+          "yadeaSlug": "yadea-voltguard-u80",
+          "catalogSlug": "yadea-voltguard-u80-2pin",
+          "label": "Voltguard U80"
+        },
+        {
+          "yadeaSlug": "yadea-ova",
+          "label": "OVA"
+        },
+        {
+          "yadeaSlug": "yadea-velax-h-plus",
+          "label": "Velax H+"
+        },
+        {
+          "yadeaSlug": "yadea-icute-h",
+          "label": "iCute H"
+        },
+        {
+          "yadeaSlug": "yadea-osta",
+          "label": "Osta"
+        },
+        {
+          "yadeaSlug": "vekoo",
+          "label": "VeKoo"
+        },
+        {
+          "yadeaSlug": "yadea-xbull-h",
+          "label": "XBULL H"
+        },
+        {
+          "yadeaSlug": "yadea-velax-u",
+          "label": "Velax U"
+        },
+        {
+          "yadeaSlug": "yadea-voltguad-p-l",
+          "label": "Voltguard P-L"
+        },
+        {
+          "yadeaSlug": "yadea-i8-vintage",
+          "label": "i8 Vintage"
+        },
+        {
+          "yadeaSlug": "yadea-voltguard-u50",
+          "label": "Voltguard U50"
+        },
+        {
+          "yadeaSlug": "yadea-velax",
+          "catalogSlug": "yadea-velax",
+          "label": "Velax"
+        }
+      ],
+      "outOfStock": false,
+      "keySpecs": [
+        {
+          "label": "Tốc độ tối đa",
+          "value": "25 Km/h"
+        },
+        {
+          "label": "Quãng đường",
+          "value": "60 Km"
+        },
+        {
+          "label": "Động cơ",
+          "value": "250W"
+        }
+      ],
+      "colorVariants": [
+        {
+          "name": "Xám Bạc",
+          "hex": "#efefef",
+          "imageUrl": "https://www.yadea.com.vn/wp-content/uploads/2025/09/avt-yadea-vito.png"
+        }
+      ]
+    },
+    {
+      "slug": "yadea-i8-h",
+      "name": "YADEA i8 H",
+      "tagline": null,
+      "price": 14490000,
+      "compareAtPrice": null,
+      "sourceUrl": "https://www.yadea.com.vn/thong-tin-san-pham/yadea-i8-h/",
+      "badge": "HOT",
+      "heroImage": "https://www.yadea.com.vn/wp-content/uploads/2026/03/Anh-ngang-cac-mau-1-5.png",
+      "gallery": [
+        "https://www.yadea.com.vn/wp-content/uploads/2026/03/Anh-ngang-cac-mau-1-5.png",
+        "https://www.yadea.com.vn/wp-content/uploads/2026/03/Anh-ngang-cac-mau-1-copy-2-2.png",
+        "https://www.yadea.com.vn/wp-content/uploads/2026/03/Anh-ngang-cac-mau-1-copy-3-3.png",
+        "https://www.yadea.com.vn/wp-content/uploads/2026/03/Anh-ngang-cac-mau-1-copy-1.png"
+      ],
+      "highlights": [],
+      "specSections": [],
+      "category": "xe-gan-may-dien",
+      "syncedAt": "2026-06-01T19:43:28.690Z",
+      "pageLayout": "configurator",
+      "purchaseUrl": "https://www.yadea.com.vn/san-pham/yadea-i8-h/",
+      "configuratorSidebar": [
+        {
+          "yadeaSlug": "yadea-vigor-nang-cap",
+          "label": "Vigor"
+        },
+        {
+          "yadeaSlug": "yadea-xbull",
+          "label": "XBULL"
+        },
+        {
+          "yadeaSlug": "yadea-odora-h",
+          "label": "Odora H"
+        },
+        {
+          "yadeaSlug": "yadea-flit",
+          "label": "FLIT"
+        },
+        {
+          "yadeaSlug": "yadea-vito",
+          "label": "VITO"
+        },
+        {
+          "yadeaSlug": "yadea-odora-s2",
+          "catalogSlug": "yadea-odora-s2",
+          "label": "Odora S2"
+        },
+        {
+          "yadeaSlug": "ifun",
+          "label": "iFUN"
+        },
+        {
+          "yadeaSlug": "x-sky",
+          "label": "X-Sky"
+        },
+        {
+          "yadeaSlug": "yadea-icute",
+          "label": "iCute"
+        },
+        {
+          "yadeaSlug": "yadea-vekoo-h",
+          "label": "VEKOO H"
+        },
+        {
+          "yadeaSlug": "yadea-i8",
+          "label": "i8"
+        },
+        {
+          "yadeaSlug": "yadea-i8-h",
+          "label": "i8 H"
+        },
+        {
+          "yadeaSlug": "yadea-ocean",
+          "label": "Ocean"
+        },
+        {
+          "yadeaSlug": "yadea-orla-gau-dau",
+          "catalogSlug": "yadea-orla-2024",
+          "label": "Orla Gấu Dâu"
+        },
+        {
+          "yadeaSlug": "ossy",
+          "label": "Ossy"
+        },
+        {
+          "yadeaSlug": "yadea-oris-h",
+          "label": "ORIS H"
+        },
+        {
+          "yadeaSlug": "yadea-voltguard-u80",
+          "catalogSlug": "yadea-voltguard-u80-2pin",
+          "label": "Voltguard U80"
+        },
+        {
+          "yadeaSlug": "yadea-ova",
+          "label": "OVA"
+        },
+        {
+          "yadeaSlug": "yadea-velax-h-plus",
+          "label": "Velax H+"
+        },
+        {
+          "yadeaSlug": "yadea-icute-h",
+          "label": "iCute H"
+        },
+        {
+          "yadeaSlug": "yadea-osta",
+          "label": "Osta"
+        },
+        {
+          "yadeaSlug": "vekoo",
+          "label": "VeKoo"
+        },
+        {
+          "yadeaSlug": "yadea-xbull-h",
+          "label": "XBULL H"
+        },
+        {
+          "yadeaSlug": "yadea-velax-u",
+          "label": "Velax U"
+        },
+        {
+          "yadeaSlug": "yadea-voltguad-p-l",
+          "label": "Voltguard P-L"
+        },
+        {
+          "yadeaSlug": "yadea-i8-vintage",
+          "label": "i8 Vintage"
+        },
+        {
+          "yadeaSlug": "yadea-voltguard-u50",
+          "label": "Voltguard U50"
+        },
+        {
+          "yadeaSlug": "yadea-velax",
+          "catalogSlug": "yadea-velax",
+          "label": "Velax"
+        }
+      ],
+      "outOfStock": false,
+      "keySpecs": [
+        {
+          "label": "Tốc độ tối đa",
+          "value": "38 Km/h"
+        },
+        {
+          "label": "Quãng đường",
+          "value": "70 Km",
+          "description": "Trong 1 lần sạc"
+        },
+        {
+          "label": "Trang bị",
+          "value": "AIGO AIR"
+        }
+      ],
+      "colorVariants": [
+        {
+          "name": "Vàng cam đất",
+          "hex": "#c9beb1",
+          "imageUrl": "https://www.yadea.com.vn/wp-content/uploads/2026/03/Anh-ngang-cac-mau-1-5.png"
+        },
+        {
+          "name": "Xám ngọc trai",
+          "hex": "#838882",
+          "imageUrl": "https://www.yadea.com.vn/wp-content/uploads/2026/03/Anh-ngang-cac-mau-1-copy-2-2.png"
+        },
+        {
+          "name": "Trắng ngà",
+          "hex": "#e2dccc",
+          "imageUrl": "https://www.yadea.com.vn/wp-content/uploads/2026/03/Anh-ngang-cac-mau-1-copy-3-3.png"
+        },
+        {
+          "name": "Xanh lá trúc",
+          "hex": "#c5d1ce",
+          "imageUrl": "https://www.yadea.com.vn/wp-content/uploads/2026/03/Anh-ngang-cac-mau-1-copy-1.png"
+        }
+      ],
+      "colors": [
+        {
+          "name": "Vàng cam đất",
+          "hex": "#c9beb1",
+          "imageUrl": "https://www.yadea.com.vn/wp-content/uploads/2026/03/Anh-ngang-cac-mau-1-5.png"
+        },
+        {
+          "name": "Xám ngọc trai",
+          "hex": "#838882",
+          "imageUrl": "https://www.yadea.com.vn/wp-content/uploads/2026/03/Anh-ngang-cac-mau-1-copy-2-2.png"
+        },
+        {
+          "name": "Trắng ngà",
+          "hex": "#e2dccc",
+          "imageUrl": "https://www.yadea.com.vn/wp-content/uploads/2026/03/Anh-ngang-cac-mau-1-copy-3-3.png"
+        },
+        {
+          "name": "Xanh lá trúc",
+          "hex": "#c5d1ce",
+          "imageUrl": "https://www.yadea.com.vn/wp-content/uploads/2026/03/Anh-ngang-cac-mau-1-copy-1.png"
+        }
+      ]
+    },
+    {
+      "slug": "yadea-xbull-h",
+      "name": "YADEA XBULL H",
+      "tagline": null,
+      "price": 13990000,
+      "compareAtPrice": null,
+      "sourceUrl": "https://www.yadea.com.vn/thong-tin-san-pham/yadea-xbull-h/",
+      "badge": "HOT",
+      "heroImage": "https://www.yadea.com.vn/wp-content/uploads/2026/01/Anh-to-1280x880-1.png",
+      "gallery": [
+        "https://www.yadea.com.vn/wp-content/uploads/2026/01/Anh-to-1280x880-1.png",
+        "https://www.yadea.com.vn/wp-content/uploads/2026/01/Anh-to-1280x880-2.png",
+        "https://www.yadea.com.vn/wp-content/uploads/2026/01/Anh-to-1280x880-3.png",
+        "https://www.yadea.com.vn/wp-content/uploads/2026/01/Anh-to-1280x880-4.png"
+      ],
+      "highlights": [],
+      "specSections": [
+        {
+          "title": "Động cơ & Bình điện",
+          "rows": [
+            {
+              "label": "Cụm công tắc trái: Công tắc đèn ưu tiên, xi nhan, còi;",
+              "value": "Cụm công tắc phải: Nút Parking, nút chế độ lái, công tắc đèn;"
+            }
+          ]
+        }
+      ],
+      "category": "xe-may-dien",
+      "syncedAt": "2026-06-01T19:43:19.818Z",
+      "pageLayout": "configurator",
+      "purchaseUrl": "https://www.yadea.com.vn/san-pham/yadea-xbull-h/",
+      "configuratorSidebar": [
+        {
+          "yadeaSlug": "yadea-vigor-nang-cap",
+          "label": "Vigor"
+        },
+        {
+          "yadeaSlug": "yadea-xbull",
+          "label": "XBULL"
+        },
+        {
+          "yadeaSlug": "yadea-odora-h",
+          "label": "Odora H"
+        },
+        {
+          "yadeaSlug": "yadea-flit",
+          "label": "FLIT"
+        },
+        {
+          "yadeaSlug": "yadea-vito",
+          "label": "VITO"
+        },
+        {
+          "yadeaSlug": "yadea-odora-s2",
+          "catalogSlug": "yadea-odora-s2",
+          "label": "Odora S2"
+        },
+        {
+          "yadeaSlug": "ifun",
+          "label": "iFUN"
+        },
+        {
+          "yadeaSlug": "x-sky",
+          "label": "X-Sky"
+        },
+        {
+          "yadeaSlug": "yadea-icute",
+          "label": "iCute"
+        },
+        {
+          "yadeaSlug": "yadea-vekoo-h",
+          "label": "VEKOO H"
+        },
+        {
+          "yadeaSlug": "yadea-i8",
+          "label": "i8"
+        },
+        {
+          "yadeaSlug": "yadea-i8-h",
+          "label": "i8 H"
+        },
+        {
+          "yadeaSlug": "yadea-ocean",
+          "label": "Ocean"
+        },
+        {
+          "yadeaSlug": "yadea-orla-gau-dau",
+          "catalogSlug": "yadea-orla-2024",
+          "label": "Orla Gấu Dâu"
+        },
+        {
+          "yadeaSlug": "ossy",
+          "label": "Ossy"
+        },
+        {
+          "yadeaSlug": "yadea-oris-h",
+          "label": "ORIS H"
+        },
+        {
+          "yadeaSlug": "yadea-voltguard-u80",
+          "catalogSlug": "yadea-voltguard-u80-2pin",
+          "label": "Voltguard U80"
+        },
+        {
+          "yadeaSlug": "yadea-ova",
+          "label": "OVA"
+        },
+        {
+          "yadeaSlug": "yadea-velax-h-plus",
+          "label": "Velax H+"
+        },
+        {
+          "yadeaSlug": "yadea-icute-h",
+          "label": "iCute H"
+        },
+        {
+          "yadeaSlug": "yadea-osta",
+          "label": "Osta"
+        },
+        {
+          "yadeaSlug": "vekoo",
+          "label": "VeKoo"
+        },
+        {
+          "yadeaSlug": "yadea-xbull-h",
+          "label": "XBULL H"
+        },
+        {
+          "yadeaSlug": "yadea-velax-u",
+          "label": "Velax U"
+        },
+        {
+          "yadeaSlug": "yadea-voltguad-p-l",
+          "label": "Voltguard P-L"
+        },
+        {
+          "yadeaSlug": "yadea-i8-vintage",
+          "label": "i8 Vintage"
+        },
+        {
+          "yadeaSlug": "yadea-voltguard-u50",
+          "label": "Voltguard U50"
+        },
+        {
+          "yadeaSlug": "yadea-velax",
+          "catalogSlug": "yadea-velax",
+          "label": "Velax"
+        }
+      ],
+      "outOfStock": false,
+      "colorVariants": [
+        {
+          "name": "Xám Ngọc Trai",
+          "hex": "#4f5660",
+          "imageUrl": "https://www.yadea.com.vn/wp-content/uploads/2026/01/Anh-to-1280x880-1.png"
+        },
+        {
+          "name": "Đen Nhám",
+          "hex": "#000000",
+          "imageUrl": "https://www.yadea.com.vn/wp-content/uploads/2026/01/Anh-to-1280x880-2.png"
+        },
+        {
+          "name": "Xanh Ngọc",
+          "hex": "#a5ada4",
+          "imageUrl": "https://www.yadea.com.vn/wp-content/uploads/2026/01/Anh-to-1280x880-3.png"
+        },
+        {
+          "name": "Xanh Cực Quang",
+          "hex": "#4a6893",
+          "imageUrl": "https://www.yadea.com.vn/wp-content/uploads/2026/01/Anh-to-1280x880-4.png"
+        }
+      ],
+      "keySpecs": [
+        {
+          "label": "Tốc độ tối đa",
+          "value": "40 Km/h"
+        },
+        {
+          "label": "Quãng đường",
+          "value": "70 Km*",
+          "description": "Trong 1 lần sạc"
+        },
+        {
+          "label": "Thiết kế",
+          "value": "Thể thao"
+        }
+      ],
+      "colors": [
+        {
+          "name": "Xám Ngọc Trai",
+          "hex": "#4f5660",
+          "imageUrl": "https://www.yadea.com.vn/wp-content/uploads/2026/01/Anh-to-1280x880-1.png"
+        },
+        {
+          "name": "Đen Nhám",
+          "hex": "#000000",
+          "imageUrl": "https://www.yadea.com.vn/wp-content/uploads/2026/01/Anh-to-1280x880-2.png"
+        },
+        {
+          "name": "Xanh Ngọc",
+          "hex": "#a5ada4",
+          "imageUrl": "https://www.yadea.com.vn/wp-content/uploads/2026/01/Anh-to-1280x880-3.png"
+        },
+        {
+          "name": "Xanh Cực Quang",
+          "hex": "#4a6893",
+          "imageUrl": "https://www.yadea.com.vn/wp-content/uploads/2026/01/Anh-to-1280x880-4.png"
+        }
+      ]
+    },
+    {
+      "slug": "yadea-xbull",
+      "name": "YADEA XBULL",
+      "tagline": null,
+      "price": 13990000,
+      "compareAtPrice": null,
+      "sourceUrl": "https://www.yadea.com.vn/thong-tin-san-pham/yadea-xbull/",
+      "badge": "HOT",
+      "heroImage": "https://www.yadea.com.vn/wp-content/uploads/2023/09/xbull-1.png",
+      "gallery": [
+        "https://www.yadea.com.vn/wp-content/uploads/2023/09/xbull-1.png",
+        "https://www.yadea.com.vn/wp-content/uploads/2023/09/xbull-740x600-3.png",
+        "https://www.yadea.com.vn/wp-content/uploads/2023/09/xbull-740x600-2.png",
+        "https://www.yadea.com.vn/wp-content/uploads/2023/09/xbull-740x600-1.png"
+      ],
+      "highlights": [],
+      "specSections": [],
+      "category": "xe-may-dien",
+      "syncedAt": "2026-06-01T19:43:27.494Z",
+      "pageLayout": "configurator",
+      "purchaseUrl": "https://www.yadea.com.vn/san-pham/yadea-xbull/",
+      "configuratorSidebar": [
+        {
+          "yadeaSlug": "yadea-vigor-nang-cap",
+          "label": "Vigor"
+        },
+        {
+          "yadeaSlug": "yadea-xbull",
+          "label": "XBULL"
+        },
+        {
+          "yadeaSlug": "yadea-odora-h",
+          "label": "Odora H"
+        },
+        {
+          "yadeaSlug": "yadea-flit",
+          "label": "FLIT"
+        },
+        {
+          "yadeaSlug": "yadea-vito",
+          "label": "VITO"
+        },
+        {
+          "yadeaSlug": "yadea-odora-s2",
+          "catalogSlug": "yadea-odora-s2",
+          "label": "Odora S2"
+        },
+        {
+          "yadeaSlug": "ifun",
+          "label": "iFUN"
+        },
+        {
+          "yadeaSlug": "x-sky",
+          "label": "X-Sky"
+        },
+        {
+          "yadeaSlug": "yadea-icute",
+          "label": "iCute"
+        },
+        {
+          "yadeaSlug": "yadea-vekoo-h",
+          "label": "VEKOO H"
+        },
+        {
+          "yadeaSlug": "yadea-i8",
+          "label": "i8"
+        },
+        {
+          "yadeaSlug": "yadea-i8-h",
+          "label": "i8 H"
+        },
+        {
+          "yadeaSlug": "yadea-ocean",
+          "label": "Ocean"
+        },
+        {
+          "yadeaSlug": "yadea-orla-gau-dau",
+          "catalogSlug": "yadea-orla-2024",
+          "label": "Orla Gấu Dâu"
+        },
+        {
+          "yadeaSlug": "ossy",
+          "label": "Ossy"
+        },
+        {
+          "yadeaSlug": "yadea-oris-h",
+          "label": "ORIS H"
+        },
+        {
+          "yadeaSlug": "yadea-voltguard-u80",
+          "catalogSlug": "yadea-voltguard-u80-2pin",
+          "label": "Voltguard U80"
+        },
+        {
+          "yadeaSlug": "yadea-ova",
+          "label": "OVA"
+        },
+        {
+          "yadeaSlug": "yadea-velax-h-plus",
+          "label": "Velax H+"
+        },
+        {
+          "yadeaSlug": "yadea-icute-h",
+          "label": "iCute H"
+        },
+        {
+          "yadeaSlug": "yadea-osta",
+          "label": "Osta"
+        },
+        {
+          "yadeaSlug": "vekoo",
+          "label": "VeKoo"
+        },
+        {
+          "yadeaSlug": "yadea-xbull-h",
+          "label": "XBULL H"
+        },
+        {
+          "yadeaSlug": "yadea-velax-u",
+          "label": "Velax U"
+        },
+        {
+          "yadeaSlug": "yadea-voltguad-p-l",
+          "label": "Voltguard P-L"
+        },
+        {
+          "yadeaSlug": "yadea-i8-vintage",
+          "label": "i8 Vintage"
+        },
+        {
+          "yadeaSlug": "yadea-voltguard-u50",
+          "label": "Voltguard U50"
+        },
+        {
+          "yadeaSlug": "yadea-velax",
+          "catalogSlug": "yadea-velax",
+          "label": "Velax"
+        }
+      ],
+      "outOfStock": false,
+      "keySpecs": [
+        {
+          "label": "Tốc độ tối đa",
+          "value": "41 Km/h"
+        },
+        {
+          "label": "Quãng đường",
+          "value": "60 Km",
+          "description": "Trong 1 lần sạc"
+        },
+        {
+          "label": "Thiết kế",
+          "value": "Thể thao"
+        }
+      ],
+      "colorVariants": [
+        {
+          "name": "Xanh tinh vân",
+          "hex": "#7bb595",
+          "imageUrl": "https://www.yadea.com.vn/wp-content/uploads/2023/09/xbull-1.png"
+        },
+        {
+          "name": "Vàng trắng",
+          "hex": "#eeee22",
+          "imageUrl": "https://www.yadea.com.vn/wp-content/uploads/2023/09/xbull-740x600-3.png"
+        },
+        {
+          "name": "Xám",
+          "hex": "#9eafbf",
+          "imageUrl": "https://www.yadea.com.vn/wp-content/uploads/2023/09/xbull-740x600-2.png"
+        },
+        {
+          "name": "Đen",
+          "hex": "#000000",
+          "imageUrl": "https://www.yadea.com.vn/wp-content/uploads/2023/09/xbull-740x600-1.png"
+        }
+      ],
+      "colors": [
+        {
+          "name": "Xanh tinh vân",
+          "hex": "#7bb595",
+          "imageUrl": "https://www.yadea.com.vn/wp-content/uploads/2023/09/xbull-1.png"
+        },
+        {
+          "name": "Vàng trắng",
+          "hex": "#eeee22",
+          "imageUrl": "https://www.yadea.com.vn/wp-content/uploads/2023/09/xbull-740x600-3.png"
+        },
+        {
+          "name": "Xám",
+          "hex": "#9eafbf",
+          "imageUrl": "https://www.yadea.com.vn/wp-content/uploads/2023/09/xbull-740x600-2.png"
+        },
+        {
+          "name": "Đen",
+          "hex": "#000000",
+          "imageUrl": "https://www.yadea.com.vn/wp-content/uploads/2023/09/xbull-740x600-1.png"
+        }
+      ]
+    },
+    {
+      "slug": "i8-vintage",
+      "name": "YADEA i8 VINTAGE",
+      "tagline": null,
+      "price": 13990000,
+      "compareAtPrice": null,
+      "sourceUrl": "https://www.yadea.com.vn/thong-tin-san-pham/i8-vintage/",
+      "badge": "HOT",
+      "heroImage": "https://www.yadea.com.vn/wp-content/uploads/2024/08/YADEA-iFUN-anh-chinh.webp",
+      "gallery": [],
+      "highlights": [],
+      "specSections": [],
+      "category": "xe-gan-may-dien",
+      "syncedAt": "2026-06-01T19:43:27.893Z",
+      "pageLayout": "configurator",
+      "purchaseUrl": "https://www.yadea.com.vn/san-pham/yadea-i8-vintage/",
+      "configuratorSidebar": [
+        {
+          "yadeaSlug": "yadea-vigor-nang-cap",
+          "label": "Vigor"
+        },
+        {
+          "yadeaSlug": "yadea-xbull",
+          "label": "XBULL"
+        },
+        {
+          "yadeaSlug": "yadea-odora-h",
+          "label": "Odora H"
+        },
+        {
+          "yadeaSlug": "yadea-flit",
+          "label": "FLIT"
+        },
+        {
+          "yadeaSlug": "yadea-vito",
+          "label": "VITO"
+        },
+        {
+          "yadeaSlug": "yadea-odora-s2",
+          "catalogSlug": "yadea-odora-s2",
+          "label": "Odora S2"
+        },
+        {
+          "yadeaSlug": "ifun",
+          "label": "iFUN"
+        },
+        {
+          "yadeaSlug": "x-sky",
+          "label": "X-Sky"
+        },
+        {
+          "yadeaSlug": "yadea-icute",
+          "label": "iCute"
+        },
+        {
+          "yadeaSlug": "yadea-vekoo-h",
+          "label": "VEKOO H"
+        },
+        {
+          "yadeaSlug": "yadea-i8",
+          "label": "i8"
+        },
+        {
+          "yadeaSlug": "yadea-i8-h",
+          "label": "i8 H"
+        },
+        {
+          "yadeaSlug": "yadea-ocean",
+          "label": "Ocean"
+        },
+        {
+          "yadeaSlug": "yadea-orla-gau-dau",
+          "catalogSlug": "yadea-orla-2024",
+          "label": "Orla Gấu Dâu"
+        },
+        {
+          "yadeaSlug": "ossy",
+          "label": "Ossy"
+        },
+        {
+          "yadeaSlug": "yadea-oris-h",
+          "label": "ORIS H"
+        },
+        {
+          "yadeaSlug": "yadea-voltguard-u80",
+          "catalogSlug": "yadea-voltguard-u80-2pin",
+          "label": "Voltguard U80"
+        },
+        {
+          "yadeaSlug": "yadea-ova",
+          "label": "OVA"
+        },
+        {
+          "yadeaSlug": "yadea-velax-h-plus",
+          "label": "Velax H+"
+        },
+        {
+          "yadeaSlug": "yadea-icute-h",
+          "label": "iCute H"
+        },
+        {
+          "yadeaSlug": "yadea-osta",
+          "label": "Osta"
+        },
+        {
+          "yadeaSlug": "vekoo",
+          "label": "VeKoo"
+        },
+        {
+          "yadeaSlug": "yadea-xbull-h",
+          "label": "XBULL H"
+        },
+        {
+          "yadeaSlug": "yadea-velax-u",
+          "label": "Velax U"
+        },
+        {
+          "yadeaSlug": "yadea-voltguad-p-l",
+          "label": "Voltguard P-L"
+        },
+        {
+          "yadeaSlug": "yadea-i8-vintage",
+          "label": "i8 Vintage"
+        },
+        {
+          "yadeaSlug": "yadea-voltguard-u50",
+          "label": "Voltguard U50"
+        },
+        {
+          "yadeaSlug": "yadea-velax",
+          "catalogSlug": "yadea-velax",
+          "label": "Velax"
+        }
+      ],
+      "outOfStock": false,
+      "keySpecs": [
+        {
+          "label": "Tốc độ tối đa",
+          "value": "35 Km/h"
+        },
+        {
+          "label": "Quãng đường",
+          "value": "70 Km",
+          "description": "Trong 1 lần sạc"
+        },
+        {
+          "label": "Thiết kế",
+          "value": "Nhỏ gọn"
+        }
+      ],
+      "colorVariants": [
+        {
+          "name": "Xanh Lá - Nổi Bật",
+          "hex": "#004a3c",
+          "imageUrl": "https://www.yadea.com.vn/wp-content/uploads/2024/08/YADEA-iFUN-anh-chinh.webp"
+        }
+      ]
+    },
+    {
+      "slug": "yadea-i8",
+      "name": "YADEA i8",
+      "tagline": null,
+      "price": 13990000,
+      "compareAtPrice": null,
+      "sourceUrl": "https://www.yadea.com.vn/thong-tin-san-pham/yadea-i8/",
+      "badge": "HOT",
+      "heroImage": "https://www.yadea.com.vn/wp-content/uploads/2024/08/YADEA-iFUN-anh-chinh.webp",
+      "gallery": [],
+      "highlights": [],
+      "specSections": [],
+      "category": "xe-gan-may-dien",
+      "syncedAt": "2026-06-01T19:43:28.292Z",
+      "pageLayout": "configurator",
+      "purchaseUrl": "https://www.yadea.com.vn/san-pham/yadea-i8/",
+      "configuratorSidebar": [
+        {
+          "yadeaSlug": "yadea-vigor-nang-cap",
+          "label": "Vigor"
+        },
+        {
+          "yadeaSlug": "yadea-xbull",
+          "label": "XBULL"
+        },
+        {
+          "yadeaSlug": "yadea-odora-h",
+          "label": "Odora H"
+        },
+        {
+          "yadeaSlug": "yadea-flit",
+          "label": "FLIT"
+        },
+        {
+          "yadeaSlug": "yadea-vito",
+          "label": "VITO"
+        },
+        {
+          "yadeaSlug": "yadea-odora-s2",
+          "catalogSlug": "yadea-odora-s2",
+          "label": "Odora S2"
+        },
+        {
+          "yadeaSlug": "ifun",
+          "label": "iFUN"
+        },
+        {
+          "yadeaSlug": "x-sky",
+          "label": "X-Sky"
+        },
+        {
+          "yadeaSlug": "yadea-icute",
+          "label": "iCute"
+        },
+        {
+          "yadeaSlug": "yadea-vekoo-h",
+          "label": "VEKOO H"
+        },
+        {
+          "yadeaSlug": "yadea-i8",
+          "label": "i8"
+        },
+        {
+          "yadeaSlug": "yadea-i8-h",
+          "label": "i8 H"
+        },
+        {
+          "yadeaSlug": "yadea-ocean",
+          "label": "Ocean"
+        },
+        {
+          "yadeaSlug": "yadea-orla-gau-dau",
+          "catalogSlug": "yadea-orla-2024",
+          "label": "Orla Gấu Dâu"
+        },
+        {
+          "yadeaSlug": "ossy",
+          "label": "Ossy"
+        },
+        {
+          "yadeaSlug": "yadea-oris-h",
+          "label": "ORIS H"
+        },
+        {
+          "yadeaSlug": "yadea-voltguard-u80",
+          "catalogSlug": "yadea-voltguard-u80-2pin",
+          "label": "Voltguard U80"
+        },
+        {
+          "yadeaSlug": "yadea-ova",
+          "label": "OVA"
+        },
+        {
+          "yadeaSlug": "yadea-velax-h-plus",
+          "label": "Velax H+"
+        },
+        {
+          "yadeaSlug": "yadea-icute-h",
+          "label": "iCute H"
+        },
+        {
+          "yadeaSlug": "yadea-osta",
+          "label": "Osta"
+        },
+        {
+          "yadeaSlug": "vekoo",
+          "label": "VeKoo"
+        },
+        {
+          "yadeaSlug": "yadea-xbull-h",
+          "label": "XBULL H"
+        },
+        {
+          "yadeaSlug": "yadea-velax-u",
+          "label": "Velax U"
+        },
+        {
+          "yadeaSlug": "yadea-voltguad-p-l",
+          "label": "Voltguard P-L"
+        },
+        {
+          "yadeaSlug": "yadea-i8-vintage",
+          "label": "i8 Vintage"
+        },
+        {
+          "yadeaSlug": "yadea-voltguard-u50",
+          "label": "Voltguard U50"
+        },
+        {
+          "yadeaSlug": "yadea-velax",
+          "catalogSlug": "yadea-velax",
+          "label": "Velax"
+        }
+      ],
+      "outOfStock": false,
+      "keySpecs": [
+        {
+          "label": "Tốc độ tối đa",
+          "value": "35 Km/h"
+        },
+        {
+          "label": "Quãng đường",
+          "value": "70 Km",
+          "description": "Trong 1 lần sạc"
+        },
+        {
+          "label": "Thiết kế",
+          "value": "Nhỏ gọn"
+        }
+      ],
+      "colorVariants": [
+        {
+          "name": "Xanh",
+          "hex": "#daf1dd",
+          "imageUrl": "https://www.yadea.com.vn/wp-content/uploads/2024/08/YADEA-iFUN-anh-chinh.webp"
+        },
+        {
+          "name": "Vàng",
+          "hex": "#ffe5af",
+          "imageUrl": "https://www.yadea.com.vn/wp-content/uploads/2024/08/YADEA-iFUN-anh-chinh.webp"
+        },
+        {
+          "name": "Trắng",
+          "hex": "#ffffff",
+          "imageUrl": "https://www.yadea.com.vn/wp-content/uploads/2024/08/YADEA-iFUN-anh-chinh.webp"
+        },
+        {
+          "name": "Xanh dương",
+          "hex": "#82b0dd",
+          "imageUrl": "https://www.yadea.com.vn/wp-content/uploads/2024/08/YADEA-iFUN-anh-chinh.webp"
+        },
+        {
+          "name": "Ảnh nhỏ phía dưới 480&#215;330 xám",
+          "hex": "#9ea196",
+          "imageUrl": "https://www.yadea.com.vn/wp-content/uploads/2024/08/YADEA-iFUN-anh-chinh.webp"
+        }
+      ]
+    },
+    {
+      "slug": "x-sky",
+      "name": "YADEA X-SKY",
+      "tagline": null,
+      "price": 11990000,
+      "compareAtPrice": null,
+      "sourceUrl": "https://www.yadea.com.vn/thong-tin-san-pham/x-sky/",
+      "badge": "HOT",
+      "heroImage": "https://www.yadea.com.vn/wp-content/uploads/2025/02/X-Sky-mau-trang-do.png",
+      "gallery": [
+        "https://www.yadea.com.vn/wp-content/uploads/2025/02/X-Sky-mau-trang-do.png",
+        "https://www.yadea.com.vn/wp-content/uploads/2025/02/Mau-X-Sky-xam.png",
+        "https://www.yadea.com.vn/wp-content/uploads/2025/02/Mau-X-Sky-den.png",
+        "https://www.yadea.com.vn/wp-content/uploads/2025/02/Mau-X-Sky-xanh1.png",
+        "https://www.yadea.com.vn/wp-content/uploads/2025/02/Mau-X-Sky-xanh2.png"
+      ],
+      "highlights": [],
+      "specSections": [],
+      "category": "xe-may-dien",
+      "syncedAt": "2026-06-01T19:43:27.093Z",
+      "pageLayout": "configurator",
+      "purchaseUrl": "https://www.yadea.com.vn/san-pham/x-sky/",
+      "configuratorSidebar": [
+        {
+          "yadeaSlug": "yadea-vigor-nang-cap",
+          "label": "Vigor"
+        },
+        {
+          "yadeaSlug": "yadea-xbull",
+          "label": "XBULL"
+        },
+        {
+          "yadeaSlug": "yadea-odora-h",
+          "label": "Odora H"
+        },
+        {
+          "yadeaSlug": "yadea-flit",
+          "label": "FLIT"
+        },
+        {
+          "yadeaSlug": "yadea-vito",
+          "label": "VITO"
+        },
+        {
+          "yadeaSlug": "yadea-odora-s2",
+          "catalogSlug": "yadea-odora-s2",
+          "label": "Odora S2"
+        },
+        {
+          "yadeaSlug": "ifun",
+          "label": "iFUN"
+        },
+        {
+          "yadeaSlug": "x-sky",
+          "label": "X-Sky"
+        },
+        {
+          "yadeaSlug": "yadea-icute",
+          "label": "iCute"
+        },
+        {
+          "yadeaSlug": "yadea-vekoo-h",
+          "label": "VEKOO H"
+        },
+        {
+          "yadeaSlug": "yadea-i8",
+          "label": "i8"
+        },
+        {
+          "yadeaSlug": "yadea-i8-h",
+          "label": "i8 H"
+        },
+        {
+          "yadeaSlug": "yadea-ocean",
+          "label": "Ocean"
+        },
+        {
+          "yadeaSlug": "yadea-orla-gau-dau",
+          "catalogSlug": "yadea-orla-2024",
+          "label": "Orla Gấu Dâu"
+        },
+        {
+          "yadeaSlug": "ossy",
+          "label": "Ossy"
+        },
+        {
+          "yadeaSlug": "yadea-oris-h",
+          "label": "ORIS H"
+        },
+        {
+          "yadeaSlug": "yadea-voltguard-u80",
+          "catalogSlug": "yadea-voltguard-u80-2pin",
+          "label": "Voltguard U80"
+        },
+        {
+          "yadeaSlug": "yadea-ova",
+          "label": "OVA"
+        },
+        {
+          "yadeaSlug": "yadea-velax-h-plus",
+          "label": "Velax H+"
+        },
+        {
+          "yadeaSlug": "yadea-icute-h",
+          "label": "iCute H"
+        },
+        {
+          "yadeaSlug": "yadea-osta",
+          "label": "Osta"
+        },
+        {
+          "yadeaSlug": "vekoo",
+          "label": "VeKoo"
+        },
+        {
+          "yadeaSlug": "yadea-xbull-h",
+          "label": "XBULL H"
+        },
+        {
+          "yadeaSlug": "yadea-velax-u",
+          "label": "Velax U"
+        },
+        {
+          "yadeaSlug": "yadea-voltguad-p-l",
+          "label": "Voltguard P-L"
+        },
+        {
+          "yadeaSlug": "yadea-i8-vintage",
+          "label": "i8 Vintage"
+        },
+        {
+          "yadeaSlug": "yadea-voltguard-u50",
+          "label": "Voltguard U50"
+        },
+        {
+          "yadeaSlug": "yadea-velax",
+          "catalogSlug": "yadea-velax",
+          "label": "Velax"
+        }
+      ],
+      "outOfStock": false,
+      "keySpecs": [
+        {
+          "label": "Tốc độ tối đa",
+          "value": "35 Km/h"
+        },
+        {
+          "label": "Quãng đường",
+          "value": ">60 Km*",
+          "description": "Trong 1 lần sạc"
+        },
+        {
+          "label": "Ắc Quy",
+          "value": "TTFAR"
+        }
+      ],
+      "colorVariants": [
+        {
+          "name": "Trắng Mặt Trăng",
+          "hex": "#ffffff",
+          "imageUrl": "https://www.yadea.com.vn/wp-content/uploads/2025/02/X-Sky-mau-trang-do.png"
+        },
+        {
+          "name": "Xám Kaki",
+          "hex": "#bdb7aa",
+          "imageUrl": "https://www.yadea.com.vn/wp-content/uploads/2025/02/Mau-X-Sky-xam.png"
+        },
+        {
+          "name": "Đen Nhám",
+          "hex": "#000000",
+          "imageUrl": "https://www.yadea.com.vn/wp-content/uploads/2025/02/Mau-X-Sky-den.png"
+        },
+        {
+          "name": "Rêu Trầm",
+          "hex": "#78837a",
+          "imageUrl": "https://www.yadea.com.vn/wp-content/uploads/2025/02/Mau-X-Sky-xanh1.png"
+        },
+        {
+          "name": "Xám Hợp Kim",
+          "hex": "#737b7f",
+          "imageUrl": "https://www.yadea.com.vn/wp-content/uploads/2025/02/Mau-X-Sky-xanh2.png"
+        }
+      ],
+      "colors": [
+        {
+          "name": "Trắng Mặt Trăng",
+          "hex": "#ffffff",
+          "imageUrl": "https://www.yadea.com.vn/wp-content/uploads/2025/02/X-Sky-mau-trang-do.png"
+        },
+        {
+          "name": "Xám Kaki",
+          "hex": "#bdb7aa",
+          "imageUrl": "https://www.yadea.com.vn/wp-content/uploads/2025/02/Mau-X-Sky-xam.png"
+        },
+        {
+          "name": "Đen Nhám",
+          "hex": "#000000",
+          "imageUrl": "https://www.yadea.com.vn/wp-content/uploads/2025/02/Mau-X-Sky-den.png"
+        },
+        {
+          "name": "Rêu Trầm",
+          "hex": "#78837a",
+          "imageUrl": "https://www.yadea.com.vn/wp-content/uploads/2025/02/Mau-X-Sky-xanh1.png"
+        },
+        {
+          "name": "Xám Hợp Kim",
+          "hex": "#737b7f",
+          "imageUrl": "https://www.yadea.com.vn/wp-content/uploads/2025/02/Mau-X-Sky-xanh2.png"
+        }
+      ]
+    },
+    {
+      "slug": "ifun",
+      "name": "YADEA iFUN",
+      "tagline": null,
+      "price": 11990000,
+      "compareAtPrice": null,
+      "sourceUrl": "https://www.yadea.com.vn/thong-tin-san-pham/ifun/",
+      "badge": "HOT",
+      "heroImage": "https://www.yadea.com.vn/wp-content/uploads/2024/08/YADEA-iFUN-anh-chinh.webp",
+      "gallery": [
+        "https://www.yadea.com.vn/wp-content/uploads/2024/08/YADEA-iFUN-anh-chinh.webp",
+        "https://www.yadea.com.vn/wp-content/uploads/2024/08/mau-trang-e1752218396822.png"
+      ],
+      "highlights": [],
+      "specSections": [],
+      "category": "xe-gan-may-dien",
+      "syncedAt": "2026-06-01T19:43:29.091Z",
+      "pageLayout": "configurator",
+      "purchaseUrl": "https://www.yadea.com.vn/san-pham/ifun/",
+      "configuratorSidebar": [
+        {
+          "yadeaSlug": "yadea-vigor-nang-cap",
+          "label": "Vigor"
+        },
+        {
+          "yadeaSlug": "yadea-xbull",
+          "label": "XBULL"
+        },
+        {
+          "yadeaSlug": "yadea-odora-h",
+          "label": "Odora H"
+        },
+        {
+          "yadeaSlug": "yadea-flit",
+          "label": "FLIT"
+        },
+        {
+          "yadeaSlug": "yadea-vito",
+          "label": "VITO"
+        },
+        {
+          "yadeaSlug": "yadea-odora-s2",
+          "catalogSlug": "yadea-odora-s2",
+          "label": "Odora S2"
+        },
+        {
+          "yadeaSlug": "ifun",
+          "label": "iFUN"
+        },
+        {
+          "yadeaSlug": "x-sky",
+          "label": "X-Sky"
+        },
+        {
+          "yadeaSlug": "yadea-icute",
+          "label": "iCute"
+        },
+        {
+          "yadeaSlug": "yadea-vekoo-h",
+          "label": "VEKOO H"
+        },
+        {
+          "yadeaSlug": "yadea-i8",
+          "label": "i8"
+        },
+        {
+          "yadeaSlug": "yadea-i8-h",
+          "label": "i8 H"
+        },
+        {
+          "yadeaSlug": "yadea-ocean",
+          "label": "Ocean"
+        },
+        {
+          "yadeaSlug": "yadea-orla-gau-dau",
+          "catalogSlug": "yadea-orla-2024",
+          "label": "Orla Gấu Dâu"
+        },
+        {
+          "yadeaSlug": "ossy",
+          "label": "Ossy"
+        },
+        {
+          "yadeaSlug": "yadea-oris-h",
+          "label": "ORIS H"
+        },
+        {
+          "yadeaSlug": "yadea-voltguard-u80",
+          "catalogSlug": "yadea-voltguard-u80-2pin",
+          "label": "Voltguard U80"
+        },
+        {
+          "yadeaSlug": "yadea-ova",
+          "label": "OVA"
+        },
+        {
+          "yadeaSlug": "yadea-velax-h-plus",
+          "label": "Velax H+"
+        },
+        {
+          "yadeaSlug": "yadea-icute-h",
+          "label": "iCute H"
+        },
+        {
+          "yadeaSlug": "yadea-osta",
+          "label": "Osta"
+        },
+        {
+          "yadeaSlug": "vekoo",
+          "label": "VeKoo"
+        },
+        {
+          "yadeaSlug": "yadea-xbull-h",
+          "label": "XBULL H"
+        },
+        {
+          "yadeaSlug": "yadea-velax-u",
+          "label": "Velax U"
+        },
+        {
+          "yadeaSlug": "yadea-voltguad-p-l",
+          "label": "Voltguard P-L"
+        },
+        {
+          "yadeaSlug": "yadea-i8-vintage",
+          "label": "i8 Vintage"
+        },
+        {
+          "yadeaSlug": "yadea-voltguard-u50",
+          "label": "Voltguard U50"
+        },
+        {
+          "yadeaSlug": "yadea-velax",
+          "catalogSlug": "yadea-velax",
+          "label": "Velax"
+        }
+      ],
+      "outOfStock": false,
+      "keySpecs": [
+        {
+          "label": "Tốc độ tối đa",
+          "value": "24 Km/h"
+        },
+        {
+          "label": "Quãng đường",
+          "value": "45 Km",
+          "description": "Trong 1 lần sạc"
+        },
+        {
+          "label": "Hệ thống",
+          "value": "TTFAR"
+        }
+      ],
+      "colorVariants": [
+        {
+          "name": "Trắng Tinh Khôi",
+          "hex": "#ffffff",
+          "imageUrl": "https://www.yadea.com.vn/wp-content/uploads/2024/08/YADEA-iFUN-anh-chinh.webp"
+        },
+        {
+          "name": "Xanh Nhẹ Nhàng",
+          "hex": "#dbe0cc",
+          "imageUrl": "https://www.yadea.com.vn/wp-content/uploads/2024/08/mau-trang-e1752218396822.png"
+        }
+      ],
+      "colors": [
+        {
+          "name": "Trắng Tinh Khôi",
+          "hex": "#ffffff",
+          "imageUrl": "https://www.yadea.com.vn/wp-content/uploads/2024/08/YADEA-iFUN-anh-chinh.webp"
+        },
+        {
+          "name": "Xanh Nhẹ Nhàng",
+          "hex": "#dbe0cc",
+          "imageUrl": "https://www.yadea.com.vn/wp-content/uploads/2024/08/mau-trang-e1752218396822.png"
+        }
+      ]
+    },
+    {
+      "slug": "yadea-velax-u-2026",
+      "name": "YADEA VELAX U",
+      "tagline": null,
+      "price": null,
+      "compareAtPrice": null,
+      "sourceUrl": "https://www.yadea.com.vn/thong-tin-san-pham/yadea-velax-u-2026/",
+      "badge": "HOT",
+      "heroImage": "https://www.yadea.com.vn/wp-content/uploads/2025/12/anh-ngang-1280x880-den.png",
+      "gallery": [
+        "https://www.yadea.com.vn/wp-content/uploads/2025/12/anh-ngang-1280x880-den.png",
+        "https://www.yadea.com.vn/wp-content/uploads/2025/12/anh-ngang-1280x880-do.png",
+        "https://www.yadea.com.vn/wp-content/uploads/2025/12/anh-ngang-1280x880-trang.png",
+        "https://www.yadea.com.vn/wp-content/uploads/2025/12/anh-ngang-1280x880-xam.png"
+      ],
+      "highlights": [],
+      "specSections": [],
+      "category": "xe-may-dien",
+      "syncedAt": "2026-06-01T19:43:19.415Z",
+      "pageLayout": "configurator",
+      "purchaseUrl": "https://www.yadea.com.vn/san-pham/yadea-velax-u/",
+      "configuratorSidebar": [
+        {
+          "yadeaSlug": "yadea-vigor-nang-cap",
+          "label": "Vigor"
+        },
+        {
+          "yadeaSlug": "yadea-xbull",
+          "label": "XBULL"
+        },
+        {
+          "yadeaSlug": "yadea-odora-h",
+          "label": "Odora H"
+        },
+        {
+          "yadeaSlug": "yadea-flit",
+          "label": "FLIT"
+        },
+        {
+          "yadeaSlug": "yadea-vito",
+          "label": "VITO"
+        },
+        {
+          "yadeaSlug": "yadea-odora-s2",
+          "catalogSlug": "yadea-odora-s2",
+          "label": "Odora S2"
+        },
+        {
+          "yadeaSlug": "ifun",
+          "label": "iFUN"
+        },
+        {
+          "yadeaSlug": "x-sky",
+          "label": "X-Sky"
+        },
+        {
+          "yadeaSlug": "yadea-icute",
+          "label": "iCute"
+        },
+        {
+          "yadeaSlug": "yadea-vekoo-h",
+          "label": "VEKOO H"
+        },
+        {
+          "yadeaSlug": "yadea-i8",
+          "label": "i8"
+        },
+        {
+          "yadeaSlug": "yadea-i8-h",
+          "label": "i8 H"
+        },
+        {
+          "yadeaSlug": "yadea-ocean",
+          "label": "Ocean"
+        },
+        {
+          "yadeaSlug": "yadea-orla-gau-dau",
+          "catalogSlug": "yadea-orla-2024",
+          "label": "Orla Gấu Dâu"
+        },
+        {
+          "yadeaSlug": "ossy",
+          "label": "Ossy"
+        },
+        {
+          "yadeaSlug": "yadea-oris-h",
+          "label": "ORIS H"
+        },
+        {
+          "yadeaSlug": "yadea-voltguard-u80",
+          "catalogSlug": "yadea-voltguard-u80-2pin",
+          "label": "Voltguard U80"
+        },
+        {
+          "yadeaSlug": "yadea-ova",
+          "label": "OVA"
+        },
+        {
+          "yadeaSlug": "yadea-velax-h-plus",
+          "label": "Velax H+"
+        },
+        {
+          "yadeaSlug": "yadea-icute-h",
+          "label": "iCute H"
+        },
+        {
+          "yadeaSlug": "yadea-osta",
+          "label": "Osta"
+        },
+        {
+          "yadeaSlug": "vekoo",
+          "label": "VeKoo"
+        },
+        {
+          "yadeaSlug": "yadea-xbull-h",
+          "label": "XBULL H"
+        },
+        {
+          "yadeaSlug": "yadea-velax-u",
+          "label": "Velax U"
+        },
+        {
+          "yadeaSlug": "yadea-voltguad-p-l",
+          "label": "Voltguard P-L"
+        },
+        {
+          "yadeaSlug": "yadea-i8-vintage",
+          "label": "i8 Vintage"
+        },
+        {
+          "yadeaSlug": "yadea-voltguard-u50",
+          "label": "Voltguard U50"
+        },
+        {
+          "yadeaSlug": "yadea-velax",
+          "catalogSlug": "yadea-velax",
+          "label": "Velax"
+        }
+      ],
+      "outOfStock": false,
+      "colorVariants": [
+        {
+          "name": "Màu xám",
+          "hex": "#d8d8d8",
+          "imageUrl": "https://www.yadea.com.vn/wp-content/uploads/2025/12/anh-ngang-1280x880-den.png"
+        },
+        {
+          "name": "Màu đỏ",
+          "hex": "#dd3333",
+          "imageUrl": "https://www.yadea.com.vn/wp-content/uploads/2025/12/anh-ngang-1280x880-do.png"
+        },
+        {
+          "name": "Màu trắng",
+          "hex": "#ffffff",
+          "imageUrl": "https://www.yadea.com.vn/wp-content/uploads/2025/12/anh-ngang-1280x880-trang.png"
+        },
+        {
+          "name": "Màu đen",
+          "hex": "#000000",
+          "imageUrl": "https://www.yadea.com.vn/wp-content/uploads/2025/12/anh-ngang-1280x880-xam.png"
+        }
+      ],
+      "colors": [
+        {
+          "name": "Màu xám",
+          "hex": "#d8d8d8",
+          "imageUrl": "https://www.yadea.com.vn/wp-content/uploads/2025/12/anh-ngang-1280x880-den.png"
+        },
+        {
+          "name": "Màu đỏ",
+          "hex": "#dd3333",
+          "imageUrl": "https://www.yadea.com.vn/wp-content/uploads/2025/12/anh-ngang-1280x880-do.png"
+        },
+        {
+          "name": "Màu trắng",
+          "hex": "#ffffff",
+          "imageUrl": "https://www.yadea.com.vn/wp-content/uploads/2025/12/anh-ngang-1280x880-trang.png"
+        },
+        {
+          "name": "Màu đen",
+          "hex": "#000000",
+          "imageUrl": "https://www.yadea.com.vn/wp-content/uploads/2025/12/anh-ngang-1280x880-xam.png"
+        }
+      ]
+    },
+    {
+      "slug": "yadea-ossy",
+      "name": "YADEA OSSY",
+      "tagline": null,
+      "price": null,
+      "compareAtPrice": null,
+      "sourceUrl": "https://www.yadea.com.vn/thong-tin-san-pham/yadea-ossy/",
+      "badge": "HOT",
+      "heroImage": "https://www.yadea.com.vn/wp-content/uploads/2024/05/anh-sp-ossy1.png",
+      "gallery": [
+        "https://www.yadea.com.vn/wp-content/uploads/2024/05/anh-sp-ossy1.png"
+      ],
+      "highlights": [],
+      "specSections": [
+        {
+          "title": "Động cơ & Bình điện",
+          "rows": [
+            {
+              "label": "Thông Số Cơ Bản",
+              "value": ""
+            }
+          ]
+        }
+      ],
+      "category": "xe-may-dien",
+      "syncedAt": "2026-06-01T19:43:23.871Z",
+      "pageLayout": "configurator",
+      "purchaseUrl": "https://www.yadea.com.vn/san-pham/ossy/",
+      "configuratorSidebar": [
+        {
+          "yadeaSlug": "yadea-vigor-nang-cap",
+          "label": "Vigor"
+        },
+        {
+          "yadeaSlug": "yadea-xbull",
+          "label": "XBULL"
+        },
+        {
+          "yadeaSlug": "yadea-odora-h",
+          "label": "Odora H"
+        },
+        {
+          "yadeaSlug": "yadea-flit",
+          "label": "FLIT"
+        },
+        {
+          "yadeaSlug": "yadea-vito",
+          "label": "VITO"
+        },
+        {
+          "yadeaSlug": "yadea-odora-s2",
+          "catalogSlug": "yadea-odora-s2",
+          "label": "Odora S2"
+        },
+        {
+          "yadeaSlug": "ifun",
+          "label": "iFUN"
+        },
+        {
+          "yadeaSlug": "x-sky",
+          "label": "X-Sky"
+        },
+        {
+          "yadeaSlug": "yadea-icute",
+          "label": "iCute"
+        },
+        {
+          "yadeaSlug": "yadea-vekoo-h",
+          "label": "VEKOO H"
+        },
+        {
+          "yadeaSlug": "yadea-i8",
+          "label": "i8"
+        },
+        {
+          "yadeaSlug": "yadea-i8-h",
+          "label": "i8 H"
+        },
+        {
+          "yadeaSlug": "yadea-ocean",
+          "label": "Ocean"
+        },
+        {
+          "yadeaSlug": "yadea-orla-gau-dau",
+          "catalogSlug": "yadea-orla-2024",
+          "label": "Orla Gấu Dâu"
+        },
+        {
+          "yadeaSlug": "ossy",
+          "label": "Ossy"
+        },
+        {
+          "yadeaSlug": "yadea-oris-h",
+          "label": "ORIS H"
+        },
+        {
+          "yadeaSlug": "yadea-voltguard-u80",
+          "catalogSlug": "yadea-voltguard-u80-2pin",
+          "label": "Voltguard U80"
+        },
+        {
+          "yadeaSlug": "yadea-ova",
+          "label": "OVA"
+        },
+        {
+          "yadeaSlug": "yadea-velax-h-plus",
+          "label": "Velax H+"
+        },
+        {
+          "yadeaSlug": "yadea-icute-h",
+          "label": "iCute H"
+        },
+        {
+          "yadeaSlug": "yadea-osta",
+          "label": "Osta"
+        },
+        {
+          "yadeaSlug": "vekoo",
+          "label": "VeKoo"
+        },
+        {
+          "yadeaSlug": "yadea-xbull-h",
+          "label": "XBULL H"
+        },
+        {
+          "yadeaSlug": "yadea-velax-u",
+          "label": "Velax U"
+        },
+        {
+          "yadeaSlug": "yadea-voltguad-p-l",
+          "label": "Voltguard P-L"
+        },
+        {
+          "yadeaSlug": "yadea-i8-vintage",
+          "label": "i8 Vintage"
+        },
+        {
+          "yadeaSlug": "yadea-voltguard-u50",
+          "label": "Voltguard U50"
+        },
+        {
+          "yadeaSlug": "yadea-velax",
+          "catalogSlug": "yadea-velax",
+          "label": "Velax"
+        }
+      ],
+      "outOfStock": false,
+      "colorVariants": [
+        {
+          "name": "Màu trắng",
+          "hex": "#ffffff",
+          "imageUrl": "https://www.yadea.com.vn/wp-content/uploads/2024/05/anh-sp-ossy1.png"
+        }
+      ],
+      "colors": [
+        {
+          "name": "Màu trắng",
+          "hex": "#ffffff",
+          "imageUrl": "https://www.yadea.com.vn/wp-content/uploads/2024/05/anh-sp-ossy1.png"
+        }
+      ]
+    },
+    {
+      "slug": "vekoo",
+      "name": "YADEA VEKOO",
+      "tagline": null,
+      "price": null,
+      "compareAtPrice": null,
+      "sourceUrl": "https://www.yadea.com.vn/thong-tin-san-pham/vekoo/",
+      "badge": "HOT",
+      "heroImage": "https://www.yadea.com.vn/wp-content/uploads/2025/03/2-anh-cung-kich-thuoc-Vekoo-2.png",
+      "gallery": [
+        "https://www.yadea.com.vn/wp-content/uploads/2025/03/2-anh-cung-kich-thuoc-Vekoo-2.png",
+        "https://www.yadea.com.vn/wp-content/uploads/2025/03/Mau-xanh-la_vekoo.png"
+      ],
+      "highlights": [],
+      "specSections": [],
+      "category": "xe-may-dien",
+      "syncedAt": "2026-06-01T19:43:26.283Z",
+      "pageLayout": "configurator",
+      "purchaseUrl": "https://www.yadea.com.vn/san-pham/vekoo/",
+      "configuratorSidebar": [
+        {
+          "yadeaSlug": "yadea-vigor-nang-cap",
+          "label": "Vigor"
+        },
+        {
+          "yadeaSlug": "yadea-xbull",
+          "label": "XBULL"
+        },
+        {
+          "yadeaSlug": "yadea-odora-h",
+          "label": "Odora H"
+        },
+        {
+          "yadeaSlug": "yadea-flit",
+          "label": "FLIT"
+        },
+        {
+          "yadeaSlug": "yadea-vito",
+          "label": "VITO"
+        },
+        {
+          "yadeaSlug": "yadea-odora-s2",
+          "catalogSlug": "yadea-odora-s2",
+          "label": "Odora S2"
+        },
+        {
+          "yadeaSlug": "ifun",
+          "label": "iFUN"
+        },
+        {
+          "yadeaSlug": "x-sky",
+          "label": "X-Sky"
+        },
+        {
+          "yadeaSlug": "yadea-icute",
+          "label": "iCute"
+        },
+        {
+          "yadeaSlug": "yadea-vekoo-h",
+          "label": "VEKOO H"
+        },
+        {
+          "yadeaSlug": "yadea-i8",
+          "label": "i8"
+        },
+        {
+          "yadeaSlug": "yadea-i8-h",
+          "label": "i8 H"
+        },
+        {
+          "yadeaSlug": "yadea-ocean",
+          "label": "Ocean"
+        },
+        {
+          "yadeaSlug": "yadea-orla-gau-dau",
+          "catalogSlug": "yadea-orla-2024",
+          "label": "Orla Gấu Dâu"
+        },
+        {
+          "yadeaSlug": "ossy",
+          "label": "Ossy"
+        },
+        {
+          "yadeaSlug": "yadea-oris-h",
+          "label": "ORIS H"
+        },
+        {
+          "yadeaSlug": "yadea-voltguard-u80",
+          "catalogSlug": "yadea-voltguard-u80-2pin",
+          "label": "Voltguard U80"
+        },
+        {
+          "yadeaSlug": "yadea-ova",
+          "label": "OVA"
+        },
+        {
+          "yadeaSlug": "yadea-velax-h-plus",
+          "label": "Velax H+"
+        },
+        {
+          "yadeaSlug": "yadea-icute-h",
+          "label": "iCute H"
+        },
+        {
+          "yadeaSlug": "yadea-osta",
+          "label": "Osta"
+        },
+        {
+          "yadeaSlug": "vekoo",
+          "label": "VeKoo"
+        },
+        {
+          "yadeaSlug": "yadea-xbull-h",
+          "label": "XBULL H"
+        },
+        {
+          "yadeaSlug": "yadea-velax-u",
+          "label": "Velax U"
+        },
+        {
+          "yadeaSlug": "yadea-voltguad-p-l",
+          "label": "Voltguard P-L"
+        },
+        {
+          "yadeaSlug": "yadea-i8-vintage",
+          "label": "i8 Vintage"
+        },
+        {
+          "yadeaSlug": "yadea-voltguard-u50",
+          "label": "Voltguard U50"
+        },
+        {
+          "yadeaSlug": "yadea-velax",
+          "catalogSlug": "yadea-velax",
+          "label": "Velax"
+        }
+      ],
+      "outOfStock": false,
+      "colorVariants": [
+        {
+          "name": "Xanh Lá - Nổi Bật",
+          "hex": "#90e900",
+          "imageUrl": "https://www.yadea.com.vn/wp-content/uploads/2025/03/2-anh-cung-kich-thuoc-Vekoo-2.png"
+        },
+        {
+          "name": "Đỏ - Phá Cách",
+          "hex": "#c11313",
+          "imageUrl": "https://www.yadea.com.vn/wp-content/uploads/2025/03/Mau-xanh-la_vekoo.png"
+        }
+      ],
+      "colors": [
+        {
+          "name": "Xanh Lá - Nổi Bật",
+          "hex": "#90e900",
+          "imageUrl": "https://www.yadea.com.vn/wp-content/uploads/2025/03/2-anh-cung-kich-thuoc-Vekoo-2.png"
+        },
+        {
+          "name": "Đỏ - Phá Cách",
+          "hex": "#c11313",
+          "imageUrl": "https://www.yadea.com.vn/wp-content/uploads/2025/03/Mau-xanh-la_vekoo.png"
+        }
+      ]
+    },
+    {
+      "slug": "yadea-velax",
+      "name": "YADEA VELAX",
+      "tagline": null,
+      "price": null,
+      "compareAtPrice": null,
+      "sourceUrl": "https://www.yadea.com.vn/thong-tin-san-pham/yadea-velax/",
+      "badge": "HOT",
+      "heroImage": "https://www.yadea.com.vn/wp-content/uploads/2026/03/velax-H-plus-anh-nho.png",
+      "gallery": [
+        "https://www.yadea.com.vn/wp-content/uploads/2026/03/velax-H-plus-anh-nho.png",
+        "https://www.yadea.com.vn/wp-content/uploads/2025/12/Velax-U-anh-nho.png",
+        "https://www.yadea.com.vn/wp-content/uploads/2025/05/Velax-Anh-nho-ben-tren.png"
+      ],
+      "highlights": [],
+      "specSections": [],
+      "category": "xe-may-dien",
+      "syncedAt": "2026-06-01T19:43:26.691Z",
+      "pageLayout": "configurator",
+      "purchaseUrl": "https://www.yadea.com.vn/san-pham/yadea-velax/",
+      "configuratorSidebar": [
+        {
+          "yadeaSlug": "yadea-vigor-nang-cap",
+          "label": "Vigor"
+        },
+        {
+          "yadeaSlug": "yadea-xbull",
+          "label": "XBULL"
+        },
+        {
+          "yadeaSlug": "yadea-odora-h",
+          "label": "Odora H"
+        },
+        {
+          "yadeaSlug": "yadea-flit",
+          "label": "FLIT"
+        },
+        {
+          "yadeaSlug": "yadea-vito",
+          "label": "VITO"
+        },
+        {
+          "yadeaSlug": "yadea-odora-s2",
+          "catalogSlug": "yadea-odora-s2",
+          "label": "Odora S2"
+        },
+        {
+          "yadeaSlug": "ifun",
+          "label": "iFUN"
+        },
+        {
+          "yadeaSlug": "x-sky",
+          "label": "X-Sky"
+        },
+        {
+          "yadeaSlug": "yadea-icute",
+          "label": "iCute"
+        },
+        {
+          "yadeaSlug": "yadea-vekoo-h",
+          "label": "VEKOO H"
+        },
+        {
+          "yadeaSlug": "yadea-i8",
+          "label": "i8"
+        },
+        {
+          "yadeaSlug": "yadea-i8-h",
+          "label": "i8 H"
+        },
+        {
+          "yadeaSlug": "yadea-ocean",
+          "label": "Ocean"
+        },
+        {
+          "yadeaSlug": "yadea-orla-gau-dau",
+          "catalogSlug": "yadea-orla-2024",
+          "label": "Orla Gấu Dâu"
+        },
+        {
+          "yadeaSlug": "ossy",
+          "label": "Ossy"
+        },
+        {
+          "yadeaSlug": "yadea-oris-h",
+          "label": "ORIS H"
+        },
+        {
+          "yadeaSlug": "yadea-voltguard-u80",
+          "catalogSlug": "yadea-voltguard-u80-2pin",
+          "label": "Voltguard U80"
+        },
+        {
+          "yadeaSlug": "yadea-ova",
+          "label": "OVA"
+        },
+        {
+          "yadeaSlug": "yadea-velax-h-plus",
+          "label": "Velax H+"
+        },
+        {
+          "yadeaSlug": "yadea-icute-h",
+          "label": "iCute H"
+        },
+        {
+          "yadeaSlug": "yadea-osta",
+          "label": "Osta"
+        },
+        {
+          "yadeaSlug": "vekoo",
+          "label": "VeKoo"
+        },
+        {
+          "yadeaSlug": "yadea-xbull-h",
+          "label": "XBULL H"
+        },
+        {
+          "yadeaSlug": "yadea-velax-u",
+          "label": "Velax U"
+        },
+        {
+          "yadeaSlug": "yadea-voltguad-p-l",
+          "label": "Voltguard P-L"
+        },
+        {
+          "yadeaSlug": "yadea-i8-vintage",
+          "label": "i8 Vintage"
+        },
+        {
+          "yadeaSlug": "yadea-voltguard-u50",
+          "label": "Voltguard U50"
+        },
+        {
+          "yadeaSlug": "yadea-velax",
+          "catalogSlug": "yadea-velax",
+          "label": "Velax"
+        }
+      ],
+      "outOfStock": false,
+      "colorVariants": [
+        {
+          "name": "Màu trắng",
+          "hex": "#ffffff",
+          "imageUrl": "https://www.yadea.com.vn/wp-content/uploads/2026/03/velax-H-plus-anh-nho.png"
+        },
+        {
+          "name": "Màu đen",
+          "hex": "#000000",
+          "imageUrl": "https://www.yadea.com.vn/wp-content/uploads/2025/12/Velax-U-anh-nho.png"
+        },
+        {
+          "name": "Màu xám",
+          "hex": "#b2b2b2",
+          "imageUrl": "https://www.yadea.com.vn/wp-content/uploads/2025/05/Velax-Anh-nho-ben-tren.png"
+        }
+      ],
+      "colors": [
+        {
+          "name": "Màu trắng",
+          "hex": "#ffffff",
+          "imageUrl": "https://www.yadea.com.vn/wp-content/uploads/2026/03/velax-H-plus-anh-nho.png"
+        },
+        {
+          "name": "Màu đen",
+          "hex": "#000000",
+          "imageUrl": "https://www.yadea.com.vn/wp-content/uploads/2025/12/Velax-U-anh-nho.png"
+        },
+        {
+          "name": "Màu xám",
+          "hex": "#b2b2b2",
+          "imageUrl": "https://www.yadea.com.vn/wp-content/uploads/2025/05/Velax-Anh-nho-ben-tren.png"
+        }
+      ]
+    }
+  ]
+}

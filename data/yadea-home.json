@@ -1,0 +1,421 @@
+{
+  "syncedAt": "2026-06-01T20:20:13.965Z",
+  "source": "https://www.yadea.com.vn/",
+  "hero": {
+    "slides": [
+      {
+        "desktop": "https://www.yadea.com.vn/wp-content/uploads/2026/02/PC-Banner-2560x1120-1.jpg",
+        "mobile": "https://www.yadea.com.vn/wp-content/uploads/2025/12/banner-mobile.png",
+        "link": "https://www.yadea.com.vn/thong-tin-san-pham/yadea-osta-2026/"
+      }
+    ],
+    "title": "Osta",
+    "subtitle": "Enjoy the New Life",
+    "tagline": "Mẫu xe điện phong cách mới"
+  },
+  "newProducts": [
+    {
+      "name": "YADEA OSTA",
+      "href": "https://www.yadea.com.vn/thong-tin-san-pham/yadea-osta-2026/",
+      "imageUrl": "https://www.yadea.com.vn/wp-content/uploads/2026/03/Anh-giong-Soobin.png",
+      "slug": "yadea-osta-2026"
+    },
+    {
+      "name": "YADEA OVA",
+      "href": "https://www.yadea.com.vn/thong-tin-san-pham/yadea-ova/",
+      "imageUrl": "https://www.yadea.com.vn/wp-content/uploads/2026/05/2205-Ova-thay-xe-Soobin-1.png",
+      "slug": "yadea-ova"
+    }
+  ],
+  "allProducts": [
+    {
+      "name": "YADEA OSTA",
+      "price": null,
+      "imageUrl": "https://www.yadea.com.vn/wp-content/uploads/2026/02/768_624-480x390.png",
+      "href": "https://www.yadea.com.vn/thong-tin-san-pham/yadea-osta-2026/",
+      "slug": "yadea-osta-2026",
+      "badge": "HOT",
+      "colorSwatches": []
+    },
+    {
+      "name": "YADEA OVA",
+      "price": null,
+      "imageUrl": "https://www.yadea.com.vn/wp-content/uploads/2026/03/Ova-Anh-danh-muc-san-pham-480x422.png",
+      "href": "https://www.yadea.com.vn/thong-tin-san-pham/yadea-ova/",
+      "slug": "yadea-ova",
+      "badge": "HOT",
+      "colorSwatches": [
+        "https://www.yadea.com.vn/wp-content/uploads/2026/03/Ova-Anh-danh-muc-san-pham-480x422.png"
+      ]
+    },
+    {
+      "name": "YADEA VEKOO H",
+      "price": null,
+      "imageUrl": "https://www.yadea.com.vn/wp-content/uploads/2026/04/Anh-danh-muc-san-pham-480x422.png",
+      "href": "https://www.yadea.com.vn/thong-tin-san-pham/yadea-vekoo-h/",
+      "slug": "yadea-vekoo-h",
+      "badge": "NEW",
+      "colorSwatches": [
+        "https://www.yadea.com.vn/wp-content/uploads/2026/04/Anh-danh-muc-san-pham-480x422.png"
+      ]
+    },
+    {
+      "name": "YADEA VELAX U",
+      "price": null,
+      "imageUrl": "https://www.yadea.com.vn/wp-content/uploads/2025/12/Velax-U-anh-nho-480x390.png",
+      "href": "https://www.yadea.com.vn/thong-tin-san-pham/yadea-velax-u-2026/",
+      "slug": "yadea-velax-u-2026",
+      "badge": "HOT",
+      "colorSwatches": []
+    },
+    {
+      "name": "YADEA VOLTGUARD U80",
+      "price": null,
+      "imageUrl": "https://www.yadea.com.vn/wp-content/uploads/2026/03/Anh-nho-ben-tren-2-480x390.png",
+      "href": "https://www.yadea.com.vn/thong-tin-san-pham/yadea-voltguard-u80-2pin/",
+      "slug": "yadea-voltguard-u80-2pin",
+      "badge": "HOT",
+      "colorSwatches": []
+    },
+    {
+      "name": "YADEA VOLTGUARD U50",
+      "price": null,
+      "imageUrl": "https://www.yadea.com.vn/wp-content/uploads/2025/11/v002-U50-Anh-nho-tren-goc-480x361.png",
+      "href": "https://www.yadea.com.vn/thong-tin-san-pham/yadea-voltguard-u50/",
+      "slug": "yadea-voltguard-u50",
+      "badge": null,
+      "colorSwatches": []
+    },
+    {
+      "name": "YADEA VEKOO",
+      "price": null,
+      "imageUrl": "https://www.yadea.com.vn/wp-content/uploads/2025/03/2-anh-cung-kich-thuoc-Vekoo-2-480x390.png",
+      "href": "https://www.yadea.com.vn/thong-tin-san-pham/vekoo/",
+      "slug": "vekoo",
+      "badge": "HOT",
+      "colorSwatches": []
+    },
+    {
+      "name": "YADEA iCUTE H",
+      "price": null,
+      "imageUrl": "https://www.yadea.com.vn/wp-content/uploads/2026/03/Anh-danh-muc-san-pham-480x422.png",
+      "href": "https://www.yadea.com.vn/thong-tin-san-pham/yadea-icute-h/",
+      "slug": "yadea-icute-h",
+      "badge": "NEW",
+      "colorSwatches": [
+        "https://www.yadea.com.vn/wp-content/uploads/2026/03/Anh-danh-muc-san-pham-480x422.png"
+      ]
+    },
+    {
+      "name": "YADEA XBULL H",
+      "price": null,
+      "imageUrl": "https://www.yadea.com.vn/wp-content/uploads/2026/01/Anh-nho-768x624-1-480x390.png",
+      "href": "https://www.yadea.com.vn/thong-tin-san-pham/yadea-xbull-h/",
+      "slug": "yadea-xbull-h",
+      "badge": "HOT",
+      "colorSwatches": []
+    },
+    {
+      "name": "YADEA VOLTGUARD P-L",
+      "price": null,
+      "imageUrl": "https://www.yadea.com.vn/wp-content/uploads/2025/11/v002-PL-Anh-nho-tren-goc-480x361.png",
+      "href": "https://www.yadea.com.vn/thong-tin-san-pham/yadea-voltguard-p-l/",
+      "slug": "yadea-voltguard-p-l",
+      "badge": "HOT",
+      "colorSwatches": []
+    },
+    {
+      "name": "YADEA ORIS H",
+      "price": null,
+      "imageUrl": "https://www.yadea.com.vn/wp-content/uploads/2025/11/Oris-H-Anh-nho-ben-tren-480x360.png",
+      "href": "https://www.yadea.com.vn/thong-tin-san-pham/yadea-oris-h/",
+      "slug": "yadea-oris-h",
+      "badge": "NEW",
+      "colorSwatches": []
+    },
+    {
+      "name": "YADEA VELAX H PLUS",
+      "price": null,
+      "imageUrl": "https://www.yadea.com.vn/wp-content/uploads/2026/03/velax-H-plus-anh-nho-480x390.png",
+      "href": "https://www.yadea.com.vn/thong-tin-san-pham/yadea-velax-h-plus/",
+      "slug": "yadea-velax-h-plus",
+      "badge": "HOT",
+      "colorSwatches": []
+    },
+    {
+      "name": "YADEA ODORA H",
+      "price": null,
+      "imageUrl": "https://www.yadea.com.vn/wp-content/uploads/2026/01/Anh-nho-danh-muc-san-pham-740x600-1-480x389.png",
+      "href": "https://www.yadea.com.vn/thong-tin-san-pham/yadea-odora-h/",
+      "slug": "yadea-odora-h",
+      "badge": "HOT",
+      "colorSwatches": []
+    },
+    {
+      "name": "YADEA Orla Gấu Dâu",
+      "price": null,
+      "imageUrl": "https://www.yadea.com.vn/wp-content/uploads/2024/06/Orla-P-45-co-bong-480x389.png",
+      "href": "https://www.yadea.com.vn/thong-tin-san-pham/yadea-orla-2024/",
+      "slug": "yadea-orla-2024",
+      "badge": "HOT",
+      "colorSwatches": [
+        "https://www.yadea.com.vn/wp-content/uploads/2024/06/orla-beige-480x330.png"
+      ]
+    },
+    {
+      "name": "YADEA i8",
+      "price": null,
+      "imageUrl": "https://www.yadea.com.vn/wp-content/uploads/2023/11/Anh-nho-ben-tren-480x361-1-480x361.png",
+      "href": "https://www.yadea.com.vn/thong-tin-san-pham/yadea-i8/",
+      "slug": "yadea-i8",
+      "badge": "HOT",
+      "colorSwatches": []
+    },
+    {
+      "name": "YADEA iFUN",
+      "price": null,
+      "imageUrl": "https://www.yadea.com.vn/wp-content/uploads/2024/08/YADEA-iFUN-anh-chinh-480x389.webp",
+      "href": "https://www.yadea.com.vn/thong-tin-san-pham/ifun/",
+      "slug": "ifun",
+      "badge": "HOT",
+      "colorSwatches": []
+    },
+    {
+      "name": "YADEA i8 H",
+      "price": null,
+      "imageUrl": "https://www.yadea.com.vn/wp-content/uploads/2026/03/Anh-nho-ben-tren-3-480x390.png",
+      "href": "https://www.yadea.com.vn/thong-tin-san-pham/yadea-i8-h/",
+      "slug": "yadea-i8-h",
+      "badge": "HOT",
+      "colorSwatches": []
+    },
+    {
+      "name": "YADEA FLIT",
+      "price": null,
+      "imageUrl": "https://www.yadea.com.vn/wp-content/uploads/2025/09/avt-yadea-flit.png",
+      "href": "https://www.yadea.com.vn/thong-tin-san-pham/yadea-flit/",
+      "slug": "yadea-flit",
+      "badge": null,
+      "colorSwatches": []
+    },
+    {
+      "name": "YADEA VITO",
+      "price": null,
+      "imageUrl": "https://www.yadea.com.vn/wp-content/uploads/2025/09/avt-yadea-vito.png",
+      "href": "https://www.yadea.com.vn/thong-tin-san-pham/yadea-vito/",
+      "slug": "yadea-vito",
+      "badge": null,
+      "colorSwatches": []
+    }
+  ],
+  "xeMay": [
+    {
+      "name": "YADEA OSTA",
+      "price": null,
+      "imageUrl": "https://www.yadea.com.vn/wp-content/uploads/2026/02/768_624-480x390.png",
+      "href": "https://www.yadea.com.vn/thong-tin-san-pham/yadea-osta-2026/",
+      "slug": "yadea-osta-2026",
+      "badge": "HOT",
+      "colorSwatches": []
+    },
+    {
+      "name": "YADEA OVA",
+      "price": null,
+      "imageUrl": "https://www.yadea.com.vn/wp-content/uploads/2026/03/Ova-Anh-danh-muc-san-pham-480x422.png",
+      "href": "https://www.yadea.com.vn/thong-tin-san-pham/yadea-ova/",
+      "slug": "yadea-ova",
+      "badge": "HOT",
+      "colorSwatches": [
+        "https://www.yadea.com.vn/wp-content/uploads/2026/03/Ova-Anh-danh-muc-san-pham-480x422.png"
+      ]
+    },
+    {
+      "name": "YADEA VEKOO H",
+      "price": null,
+      "imageUrl": "https://www.yadea.com.vn/wp-content/uploads/2026/04/Anh-danh-muc-san-pham-480x422.png",
+      "href": "https://www.yadea.com.vn/thong-tin-san-pham/yadea-vekoo-h/",
+      "slug": "yadea-vekoo-h",
+      "badge": "NEW",
+      "colorSwatches": [
+        "https://www.yadea.com.vn/wp-content/uploads/2026/04/Anh-danh-muc-san-pham-480x422.png"
+      ]
+    },
+    {
+      "name": "YADEA VELAX U",
+      "price": null,
+      "imageUrl": "https://www.yadea.com.vn/wp-content/uploads/2025/12/Velax-U-anh-nho-480x390.png",
+      "href": "https://www.yadea.com.vn/thong-tin-san-pham/yadea-velax-u-2026/",
+      "slug": "yadea-velax-u-2026",
+      "badge": "HOT",
+      "colorSwatches": []
+    },
+    {
+      "name": "YADEA VOLTGUARD U80",
+      "price": null,
+      "imageUrl": "https://www.yadea.com.vn/wp-content/uploads/2026/03/Anh-nho-ben-tren-2-480x390.png",
+      "href": "https://www.yadea.com.vn/thong-tin-san-pham/yadea-voltguard-u80-2pin/",
+      "slug": "yadea-voltguard-u80-2pin",
+      "badge": "HOT",
+      "colorSwatches": []
+    },
+    {
+      "name": "YADEA VOLTGUARD U50",
+      "price": null,
+      "imageUrl": "https://www.yadea.com.vn/wp-content/uploads/2025/11/v002-U50-Anh-nho-tren-goc-480x361.png",
+      "href": "https://www.yadea.com.vn/thong-tin-san-pham/yadea-voltguard-u50/",
+      "slug": "yadea-voltguard-u50",
+      "badge": null,
+      "colorSwatches": []
+    },
+    {
+      "name": "YADEA VEKOO",
+      "price": null,
+      "imageUrl": "https://www.yadea.com.vn/wp-content/uploads/2025/03/2-anh-cung-kich-thuoc-Vekoo-2-480x390.png",
+      "href": "https://www.yadea.com.vn/thong-tin-san-pham/vekoo/",
+      "slug": "vekoo",
+      "badge": "HOT",
+      "colorSwatches": []
+    },
+    {
+      "name": "YADEA iCUTE H",
+      "price": null,
+      "imageUrl": "https://www.yadea.com.vn/wp-content/uploads/2026/03/Anh-danh-muc-san-pham-480x422.png",
+      "href": "https://www.yadea.com.vn/thong-tin-san-pham/yadea-icute-h/",
+      "slug": "yadea-icute-h",
+      "badge": "NEW",
+      "colorSwatches": [
+        "https://www.yadea.com.vn/wp-content/uploads/2026/03/Anh-danh-muc-san-pham-480x422.png"
+      ]
+    },
+    {
+      "name": "YADEA XBULL H",
+      "price": null,
+      "imageUrl": "https://www.yadea.com.vn/wp-content/uploads/2026/01/Anh-nho-768x624-1-480x390.png",
+      "href": "https://www.yadea.com.vn/thong-tin-san-pham/yadea-xbull-h/",
+      "slug": "yadea-xbull-h",
+      "badge": "HOT",
+      "colorSwatches": []
+    },
+    {
+      "name": "YADEA VOLTGUARD P-L",
+      "price": null,
+      "imageUrl": "https://www.yadea.com.vn/wp-content/uploads/2025/11/v002-PL-Anh-nho-tren-goc-480x361.png",
+      "href": "https://www.yadea.com.vn/thong-tin-san-pham/yadea-voltguard-p-l/",
+      "slug": "yadea-voltguard-p-l",
+      "badge": "HOT",
+      "colorSwatches": []
+    },
+    {
+      "name": "YADEA ORIS H",
+      "price": null,
+      "imageUrl": "https://www.yadea.com.vn/wp-content/uploads/2025/11/Oris-H-Anh-nho-ben-tren-480x360.png",
+      "href": "https://www.yadea.com.vn/thong-tin-san-pham/yadea-oris-h/",
+      "slug": "yadea-oris-h",
+      "badge": "NEW",
+      "colorSwatches": []
+    },
+    {
+      "name": "YADEA VELAX H PLUS",
+      "price": null,
+      "imageUrl": "https://www.yadea.com.vn/wp-content/uploads/2026/03/velax-H-plus-anh-nho-480x390.png",
+      "href": "https://www.yadea.com.vn/thong-tin-san-pham/yadea-velax-h-plus/",
+      "slug": "yadea-velax-h-plus",
+      "badge": "HOT",
+      "colorSwatches": []
+    },
+    {
+      "name": "YADEA ODORA H",
+      "price": null,
+      "imageUrl": "https://www.yadea.com.vn/wp-content/uploads/2026/01/Anh-nho-danh-muc-san-pham-740x600-1-480x389.png",
+      "href": "https://www.yadea.com.vn/thong-tin-san-pham/yadea-odora-h/",
+      "slug": "yadea-odora-h",
+      "badge": "HOT",
+      "colorSwatches": []
+    },
+    {
+      "name": "YADEA Orla Gấu Dâu",
+      "price": null,
+      "imageUrl": "https://www.yadea.com.vn/wp-content/uploads/2024/06/Orla-P-45-co-bong-480x389.png",
+      "href": "https://www.yadea.com.vn/thong-tin-san-pham/yadea-orla-2024/",
+      "slug": "yadea-orla-2024",
+      "badge": "HOT",
+      "colorSwatches": [
+        "https://www.yadea.com.vn/wp-content/uploads/2024/06/orla-beige-480x330.png"
+      ]
+    }
+  ],
+  "xeGan": [
+    {
+      "name": "YADEA i8",
+      "price": null,
+      "imageUrl": "https://www.yadea.com.vn/wp-content/uploads/2023/11/Anh-nho-ben-tren-480x361-1-480x361.png",
+      "href": "https://www.yadea.com.vn/thong-tin-san-pham/yadea-i8/",
+      "slug": "yadea-i8",
+      "badge": "HOT",
+      "colorSwatches": []
+    },
+    {
+      "name": "YADEA iFUN",
+      "price": null,
+      "imageUrl": "https://www.yadea.com.vn/wp-content/uploads/2024/08/YADEA-iFUN-anh-chinh-480x389.webp",
+      "href": "https://www.yadea.com.vn/thong-tin-san-pham/ifun/",
+      "slug": "ifun",
+      "badge": "HOT",
+      "colorSwatches": []
+    },
+    {
+      "name": "YADEA i8 H",
+      "price": null,
+      "imageUrl": "https://www.yadea.com.vn/wp-content/uploads/2026/03/Anh-nho-ben-tren-3-480x390.png",
+      "href": "https://www.yadea.com.vn/thong-tin-san-pham/yadea-i8-h/",
+      "slug": "yadea-i8-h",
+      "badge": "HOT",
+      "colorSwatches": []
+    },
+    {
+      "name": "YADEA FLIT",
+      "price": null,
+      "imageUrl": "https://www.yadea.com.vn/wp-content/uploads/2025/09/avt-yadea-flit.png",
+      "href": "https://www.yadea.com.vn/thong-tin-san-pham/yadea-flit/",
+      "slug": "yadea-flit",
+      "badge": null,
+      "colorSwatches": []
+    },
+    {
+      "name": "YADEA VITO",
+      "price": null,
+      "imageUrl": "https://www.yadea.com.vn/wp-content/uploads/2025/09/avt-yadea-vito.png",
+      "href": "https://www.yadea.com.vn/thong-tin-san-pham/yadea-vito/",
+      "slug": "yadea-vito",
+      "badge": null,
+      "colorSwatches": []
+    }
+  ],
+  "news": [],
+  "instagram": [
+    "https://www.yadea.com.vn/wp-content/uploads/2026/02/Osta-Lifestyle-Tin-bai-web-1280x853-1.png",
+    "https://www.yadea.com.vn/wp-content/uploads/2026/05/2205-Ova-thay-xe-Soobin-1.png",
+    "https://www.yadea.com.vn/wp-content/uploads/2026/03/Anh-giong-Soobin.png",
+    "https://www.yadea.com.vn/wp-content/uploads/2024/06/Orla-P-45-co-bong-1280x1038.png",
+    "https://www.yadea.com.vn/wp-content/uploads/2024/08/xzone-xam-ngang-1280x880-1.png",
+    "https://www.yadea.com.vn/wp-content/uploads/2024/05/anh-sp-ossy1-1280x1041.png"
+  ],
+  "topBar": [
+    {
+      "label": "Công Nghệ",
+      "href": "https://www.yadea.com.vn/cong-nghe/"
+    },
+    {
+      "label": "Hỗ Trợ & Bảo Hành",
+      "href": "https://www.yadea.com.vn/ho-tro-bao-hanh/"
+    },
+    {
+      "label": "Tin Tức",
+      "href": "https://www.yadea.com.vn/tin-tuc/"
+    },
+    {
+      "label": "Cơ Hội Hợp Tác",
+      "href": "https://www.yadea.com.vn/co-hoi-hop-tac/"
+    }
+  ]
+}

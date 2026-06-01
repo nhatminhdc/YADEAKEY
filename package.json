@@ -1,0 +1,30 @@
+{
+  "name": "tailg-saithanh",
+  "version": "0.1.0",
+  "private": true,
+  "scripts": {
+    "dev": "next dev -p 3002",
+    "dev:clean": "rm -rf .next && next dev -p 3002",
+    "build": "next build",
+    "start": "next start -p 3002",
+    "sync:yadea": "node scripts/sync-yadea.mjs",
+    "sync:yadea-home": "node scripts/sync-yadea-home.mjs",
+    "sync:configurator": "node scripts/sync-configurator-pages.mjs"
+  },
+  "dependencies": {
+    "@supabase/supabase-js": "^2.106.2",
+    "lucide-react": "^0.511.0",
+    "next": "^15.3.3",
+    "react": "^19.1.0",
+    "react-dom": "^19.1.0",
+    "zod": "^3.25.56"
+  },
+  "devDependencies": {
+    "@tailwindcss/postcss": "^4.1.8",
+    "@types/node": "^22.15.29",
+    "@types/react": "^19.1.6",
+    "@types/react-dom": "^19.1.5",
+    "tailwindcss": "^4.1.8",
+    "typescript": "^5.8.3"
+  }
+}
