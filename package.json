@@ -9,7 +9,8 @@
     "start": "next start -p 3002",
     "sync:yadea": "node scripts/sync-yadea.mjs",
     "sync:yadea-home": "node scripts/sync-yadea-home.mjs",
-    "sync:configurator": "node scripts/sync-configurator-pages.mjs"
+    "sync:configurator": "node scripts/sync-configurator-pages.mjs",
+    "admin:hash-password": "node scripts/hash-admin-password.mjs"
   },
   "dependencies": {
     "@supabase/supabase-js": "^2.106.2",

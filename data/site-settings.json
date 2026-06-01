@@ -1,0 +1,75 @@
+{
+  "updatedAt": "2026-06-02T00:00:00.000Z",
+  "header": {
+    "logoUrl": "https://www.yadea.com.vn/wp-content/uploads/2023/09/logo-yadea.svg",
+    "topBarHotline": "1900636803",
+    "topBar": [
+      { "label": "Công Nghệ", "href": "/dat-hang" },
+      { "label": "Hỗ Trợ & Bảo Hành", "href": "/dat-hang" },
+      { "label": "Tin Tức", "href": "/#tin-tuc" },
+      { "label": "Cơ Hội Hợp Tác", "href": "/dat-hang" }
+    ],
+    "mainNav": [
+      { "label": "Sản phẩm", "href": "/san-pham" },
+      { "label": "Đặt mua / Tư vấn", "href": "/dat-hang" },
+      { "label": "Tin tức", "href": "/#tin-tuc" }
+    ]
+  },
+  "footer": {
+    "logoUrl": "https://www.yadea.com.vn/wp-content/uploads/2023/09/white-logo.svg",
+    "companyName": "Công ty TNHH Khoa học Kỹ thuật YADEA (Việt Nam)",
+    "addressLines": [
+      "Lô CN-02, Khu công nghiệp Tân Hưng,",
+      "Xã Lạng Giang, Tỉnh Bắc Ninh, Việt Nam"
+    ],
+    "hotline": "02043886699",
+    "cskh": "1900636803",
+    "email": "market@yadea.com.vn",
+    "copyright": "© 2026 – Bản quyền thuộc về Công ty TNHH khoa học kỹ thuật Yadea (Việt Nam)",
+    "columns": [
+      {
+        "title": "Sản phẩm",
+        "links": [
+          { "label": "Xe máy điện", "href": "/san-pham?loai=xe-may-dien" },
+          { "label": "Xe gắn máy điện", "href": "/san-pham?loai=xe-gan-may-dien" },
+          { "label": "Sản phẩm mới", "href": "/san-pham" }
+        ]
+      },
+      {
+        "title": "Dịch vụ",
+        "links": [
+          { "label": "Đặt mua / Tư vấn", "href": "/dat-hang" },
+          { "label": "Hỗ trợ & Bảo hành", "href": "/dat-hang" },
+          { "label": "Liên hệ", "href": "/dat-hang" }
+        ]
+      },
+      {
+        "title": "Về YADEA",
+        "links": [
+          { "label": "Sản phẩm", "href": "/san-pham" },
+          { "label": "Tin tức", "href": "/#tin-tuc" },
+          { "label": "Đăng ký nhận tin", "href": "/dat-hang" }
+        ]
+      }
+    ],
+    "social": {
+      "facebook": "https://www.facebook.com/yadeabrand/",
+      "youtube": "https://www.youtube.com/channel/UCwNqzgb1QFon3ZP2jbI71Tg",
+      "instagram": "https://www.instagram.com/yadeavietnam/"
+    },
+    "bottomLinks": [
+      { "label": "Liên hệ / Đặt mua", "href": "/dat-hang" },
+      { "label": "Sản phẩm", "href": "/san-pham" }
+    ]
+  },
+  "categories": [
+    { "id": "xe-may-dien", "label": "Xe máy điện", "enabled": true },
+    { "id": "xe-gan-may-dien", "label": "Xe gắn máy điện", "enabled": true }
+  ],
+  "listingOrder": {
+    "all": [],
+    "xe-may-dien": [],
+    "xe-gan-may-dien": []
+  },
+  "productOverrides": {}
+}

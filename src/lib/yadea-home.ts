@@ -3,6 +3,7 @@ import { join } from "path";
 import { z } from "zod";
 import type { YadeaProduct } from "@/lib/yadea-types";
 import { getProductImage, loadCatalog } from "@/lib/yadea-catalog";
+import { loadSiteSettings } from "@/lib/site-settings";
 
 function pickHomeListingImage(product: YadeaProduct): string | undefined {
   return (
@@ -77,16 +78,29 @@ export function getHomepageProducts(): Array<
 > {
   const home = loadHome();
   const catalog = loadCatalog();
-  const order = home.homeProductOrder ?? catalog.products.map((p) => p.slug);
+  const settings = loadSiteSettings();
+  const order =
+    home.homeProductOrder?.length
+      ? home.homeProductOrder
+      : settings.listingOrder.all.length
+        ? settings.listingOrder.all
+        : catalog.products.map((p) => p.slug);
 
   return order
     .map((slug) => {
       const p = catalog.products.find((x) => x.slug === slug);
-      if (!p) return null;
+      if (!p || settings.productOverrides[slug]?.hidden) return null;
+      const o = settings.productOverrides[slug];
+      const merged = {
+        ...p,
+        ...(o?.name ? { name: o.name } : {}),
+        ...(o?.price !== undefined ? { price: o.price } : {}),
+        ...(o?.badge !== undefined ? { badge: o.badge } : {}),
+      };
       const override = home.allProducts?.find((h) => h.slug === slug);
       return {
-        ...p,
-        homeImageUrl: override?.imageUrl ?? pickHomeListingImage(p),
+        ...merged,
+        homeImageUrl: override?.imageUrl ?? pickHomeListingImage(merged),
         colorSwatchUrls: override?.colorSwatches,
       };
     })

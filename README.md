@@ -9,7 +9,7 @@ Website showroom clone layout [yadea.com.vn](https://www.yadea.com.vn/): trang c
 ```bash
 npm install
 cp .env.example .env   # điền Supabase + Telegram (tùy chọn cho form đặt mua)
-npm run dev:clean      # http://localhost:3002
+npm run dev:clean      # http://localhost:3002 (luôn dùng sau khi sửa code — tránh lỗi cache .next)
 ```
 
 ## Đồng bộ dữ liệu từ yadea.com.vn
@@ -28,6 +28,20 @@ npm run sync:configurator   # sidebar + màu + specs từng /san-pham/...
 | `/san-pham` | Danh sách sản phẩm |
 | `/san-pham/[slug]` | Cấu hình sản phẩm (gallery, màu, phiên bản, đặt mua) |
 | `/dat-hang` | Form đặt mua / tư vấn |
+| `/admin` | **Quản trị** — header, footer, giá, thứ tự nhóm, quét Yadea |
+
+### Admin
+
+1. Tạo secret admin (không lưu mật khẩu thuần trong `.env`):
+   ```bash
+   npm run admin:hash-password -- "MatKhauAdmin-ManH-2026!"
+   ```
+   Copy `ADMIN_PASSWORD_HASH` và `ADMIN_SESSION_SECRET` vào `.env`.
+2. Mở `http://localhost:3002/admin`
+3. Tab **Quét Yadea** — cập nhật giá, ảnh, sản phẩm mới & trang chủ tự động
+4. Các tab khác — chỉnh logo, menu, footer, giá, phân loại, thứ tự hiển thị
+
+Cấu hình site lưu tại `data/site-settings.json`.
 
 ## Cấu trúc thư mục
 

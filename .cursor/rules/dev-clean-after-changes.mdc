@@ -1,0 +1,16 @@
+---
+description: Sau khi sửa code, luôn chạy dev:clean để tránh lỗi cache .next
+alwaysApply: true
+---
+
+# Dev server — luôn `dev:clean` sau thay đổi
+
+Khi hoàn thành chỉnh sửa code trong project **Tailg SaiThanh** (hoặc trước khi báo user test xong):
+
+1. Chạy `npm run dev:clean` (xóa `.next` + `next dev -p 3002`).
+2. Nếu port 3002 đang bật: `lsof -ti:3002 | xargs kill -9` rồi mới `dev:clean`.
+3. Đợi log **Ready** trước khi kết thúc.
+
+Không chỉ `npm run dev` — cache webpack cũ gây lỗi kiểu `Cannot find module './611.js'`.
+
+Local: http://localhost:3002

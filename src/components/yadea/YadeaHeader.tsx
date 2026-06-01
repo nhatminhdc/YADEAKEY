@@ -5,20 +5,23 @@ import { Search, MapPin, Phone, Menu, X } from "lucide-react";
 import { useEffect, useState } from "react";
 import { ProxiedImage } from "./ProxiedImage";
 import type { YadeaHome } from "@/lib/yadea-home";
+import type { SiteSettings } from "@/lib/site-settings";
 import { opensInNewTab, resolveSiteHref } from "@/lib/site-links";
 
-const LOGO =
-  "https://www.yadea.com.vn/wp-content/uploads/2023/09/logo-yadea.svg";
-
-const MAIN_NAV = [
-  { label: "Sản phẩm", href: "/san-pham" },
-  { label: "Đặt mua / Tư vấn", href: "/dat-hang" },
-  { label: "Tin tức", href: "/#tin-tuc" },
-];
-
-export function YadeaHeader({ topBar }: { topBar: YadeaHome["topBar"] }) {
+export function YadeaHeader({
+  topBar,
+  settings,
+}: {
+  topBar: YadeaHome["topBar"];
+  settings: SiteSettings;
+}) {
   const [open, setOpen] = useState(false);
   const [scrolled, setScrolled] = useState(false);
+
+  const mainNav = settings.header.mainNav;
+  const logoUrl = settings.header.logoUrl;
+  const hotline = settings.header.topBarHotline;
+  const barLinks = settings.header.topBar.length ? settings.header.topBar : topBar;
 
   useEffect(() => {
     const onScroll = () => setScrolled(window.scrollY > 8);
@@ -29,16 +32,15 @@ export function YadeaHeader({ topBar }: { topBar: YadeaHome["topBar"] }) {
 
   return (
     <header className="sticky top-0 z-50">
-      {/* Top bar đen */}
       <div className="hidden bg-[#0a0a0a] text-[11px] text-gray-300 md:block">
         <div className="container-main flex h-9 items-center justify-between">
           <div className="flex items-center gap-6">
-            {topBar.map((item) => {
+            {barLinks.map((item) => {
               const href = resolveSiteHref(item.href);
               const external = opensInNewTab(href);
               return external ? (
                 <a
-                  key={item.href}
+                  key={`${item.href}-${item.label}`}
                   href={href}
                   target="_blank"
                   rel="noopener noreferrer"
@@ -47,16 +49,23 @@ export function YadeaHeader({ topBar }: { topBar: YadeaHome["topBar"] }) {
                   {item.label}
                 </a>
               ) : (
-                <Link key={item.href} href={href} className="yadea-top-link">
+                <Link
+                  key={`${item.href}-${item.label}`}
+                  href={href}
+                  className="yadea-top-link"
+                >
                   {item.label}
                 </Link>
               );
             })}
           </div>
           <div className="flex items-center gap-4">
-            <a href="tel:1900636803" className="yadea-top-link flex items-center gap-1">
+            <a
+              href={`tel:${hotline.replace(/\s/g, "")}`}
+              className="yadea-top-link flex items-center gap-1"
+            >
               <Phone className="h-3 w-3" />
-              1900 636 803
+              {hotline.replace(/(\d{4})(\d{3})(\d{3})/, "$1 $2 $3")}
             </a>
             <span className="text-gray-600">|</span>
             <button type="button" className="font-semibold text-white">
@@ -69,7 +78,6 @@ export function YadeaHeader({ topBar }: { topBar: YadeaHome["topBar"] }) {
         </div>
       </div>
 
-      {/* Nav trắng */}
       <div
         className={`border-b border-gray-100 bg-white transition-shadow duration-300 ${
           scrolled ? "yadea-header-scrolled" : "shadow-sm"
@@ -78,7 +86,7 @@ export function YadeaHeader({ topBar }: { topBar: YadeaHome["topBar"] }) {
         <div className="container-main flex h-[72px] items-center justify-between gap-6">
           <Link href="/" className="relative h-9 w-[120px] shrink-0 lg:w-[140px]">
             <ProxiedImage
-              src={LOGO}
+              src={logoUrl}
               alt="YADEA"
               fill
               className="object-contain object-left"
@@ -87,12 +95,8 @@ export function YadeaHeader({ topBar }: { topBar: YadeaHome["topBar"] }) {
           </Link>
 
           <nav className="hidden flex-1 items-center justify-center gap-10 lg:flex">
-            {MAIN_NAV.map((item) => (
-              <Link
-                key={item.href}
-                href={item.href}
-                className="yadea-nav-link"
-              >
+            {mainNav.map((item) => (
+              <Link key={item.href} href={item.href} className="yadea-nav-link">
                 {item.label}
               </Link>
             ))}
@@ -130,7 +134,7 @@ export function YadeaHeader({ topBar }: { topBar: YadeaHome["topBar"] }) {
 
       {open && (
         <nav className="border-b bg-white px-4 py-4 lg:hidden">
-          {MAIN_NAV.map((item) => (
+          {mainNav.map((item) => (
             <Link
               key={item.href}
               href={item.href}

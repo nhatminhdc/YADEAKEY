@@ -1,9 +1,14 @@
 import { notFound } from "next/navigation";
-import { loadCatalog, getProductBySlug, displayName } from "@/lib/yadea-catalog";
+import { displayName } from "@/lib/yadea-catalog";
+import {
+  getDisplayCatalog,
+  getDisplayProductBySlug,
+} from "@/lib/catalog-display";
+import { loadCatalog } from "@/lib/yadea-catalog";
 import { ProductConfiguratorView } from "@/components/yadea/ProductConfiguratorView";
 import { enrichProductForConfigurator } from "@/lib/yadea-configurator";
 
-export const revalidate = 3600;
+export const dynamic = "force-dynamic";
 
 export async function generateStaticParams() {
   const catalog = loadCatalog();
@@ -16,8 +21,7 @@ export async function generateMetadata({
   params: Promise<{ slug: string }>;
 }) {
   const { slug } = await params;
-  const catalog = loadCatalog();
-  const product = getProductBySlug(catalog, slug);
+  const product = getDisplayProductBySlug(slug);
   if (!product) return { title: "Sản phẩm" };
   return {
     title: `${displayName(product.name)} | YADEA Việt Nam`,
@@ -31,8 +35,8 @@ export default async function ProductPage({
   params: Promise<{ slug: string }>;
 }) {
   const { slug } = await params;
-  const catalog = loadCatalog();
-  const product = getProductBySlug(catalog, slug);
+  const catalog = getDisplayCatalog();
+  const product = getDisplayProductBySlug(slug);
   if (!product) notFound();
 
   const enriched = enrichProductForConfigurator(product, catalog);
