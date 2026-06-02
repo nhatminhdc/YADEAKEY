@@ -61,7 +61,7 @@ export function ProxiedImage({
     onError,
     decoding: "async" as const,
     loading: (priority ? "eager" : "lazy") as "eager" | "lazy",
-    fetchPriority: priority ? ("high" as const) : undefined,
+    fetchPriority: priority ? ("high" as const) : ("low" as const),
     sizes,
   };
 
