@@ -18,7 +18,11 @@ npm run dev:clean      # http://localhost:3002 (luôn dùng sau khi sửa code �
 npm run sync:yadea          # catalog sản phẩm → data/yadea-products.json
 npm run sync:yadea-home     # trang chủ → data/yadea-home.json
 npm run sync:configurator   # sidebar + màu + specs từng /san-pham/...
+npm run sync:media          # tải & nén WebP → public/media (nhanh hơn khi xem web)
+npm run sync:all            # chạy cả 4 bước trên
 ```
+
+**Tốc độ tải:** ảnh listing ~480px WebP qua `/api/proxy-image` hoặc file `/media/…` sau `sync:media`. Trang store dùng ISR (`revalidate` 1h).
 
 ## Routes
 

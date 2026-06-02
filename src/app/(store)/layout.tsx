@@ -3,7 +3,7 @@ import { loadSiteSettings } from "@/lib/site-settings";
 import { YadeaHeader } from "@/components/yadea/YadeaHeader";
 import { YadeaFooter } from "@/components/yadea/YadeaFooter";
 
-export const dynamic = "force-dynamic";
+export const revalidate = 3600;
 
 export default function StoreLayout({ children }: { children: React.ReactNode }) {
   const home = loadHome();

@@ -13,7 +13,7 @@ import {
 } from "@/lib/admin-login-limit";
 import { jsonError } from "@/lib/admin-api";
 
-const MIN_PASSWORD_LEN = 12;
+const MIN_PASSWORD_LEN = 8;
 
 export async function POST(req: Request) {
   if (!isAdminPasswordConfigured()) {

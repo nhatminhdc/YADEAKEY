@@ -5,8 +5,8 @@
 import { randomBytes, scryptSync } from "crypto";
 
 const password = process.argv[2];
-if (!password || password.length < 12) {
-  console.error("Dùng: node scripts/hash-admin-password.mjs \"mat-khau-it-nhat-12-ky-tu\"");
+if (!password || password.length < 8) {
+  console.error("Dùng: node scripts/hash-admin-password.mjs \"mat-khau-it-nhat-8-ky-tu\"");
   process.exit(1);
 }
 

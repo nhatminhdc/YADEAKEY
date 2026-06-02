@@ -87,6 +87,7 @@ export async function runFullYadeaSync(): Promise<SyncStep[]> {
     "sync-yadea.mjs",
     "sync-yadea-home.mjs",
     "sync-configurator-pages.mjs",
+    "sync-media.mjs",
   ];
   const results: SyncStep[] = [];
   for (const script of scripts) {

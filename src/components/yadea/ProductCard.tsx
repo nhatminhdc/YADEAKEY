@@ -40,6 +40,7 @@ export function ProductCard({ product }: { product: YadeaProduct }) {
               src={activeImage}
               alt={name}
               fill
+              preset="card"
               className="yadea-img-zoom object-contain p-2"
             />
           )}

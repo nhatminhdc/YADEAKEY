@@ -4,6 +4,7 @@ import { z } from "zod";
 import type { YadeaProduct } from "@/lib/yadea-types";
 import { getProductImage, loadCatalog } from "@/lib/yadea-catalog";
 import { loadSiteSettings } from "@/lib/site-settings";
+import { resolveImageUrl } from "@/lib/resolve-images.server";
 
 function pickHomeListingImage(product: YadeaProduct): string | undefined {
   return (
@@ -98,9 +99,13 @@ export function getHomepageProducts(): Array<
         ...(o?.badge !== undefined ? { badge: o.badge } : {}),
       };
       const override = home.allProducts?.find((h) => h.slug === slug);
+      const rawHome =
+        override?.imageUrl ?? pickHomeListingImage(merged);
       return {
         ...merged,
-        homeImageUrl: override?.imageUrl ?? pickHomeListingImage(merged),
+        homeImageUrl: rawHome
+          ? resolveImageUrl(rawHome, "card")
+          : undefined,
         colorSwatchUrls: override?.colorSwatches,
       };
     })

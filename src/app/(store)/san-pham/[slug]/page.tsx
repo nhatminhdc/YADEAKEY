@@ -6,9 +6,9 @@ import {
 } from "@/lib/catalog-display";
 import { loadCatalog } from "@/lib/yadea-catalog";
 import { ProductConfiguratorView } from "@/components/yadea/ProductConfiguratorView";
-import { enrichProductForConfigurator } from "@/lib/yadea-configurator";
+import { enrichProductForConfiguratorResolved } from "@/lib/enrich-product.server";
 
-export const dynamic = "force-dynamic";
+export const revalidate = 3600;
 
 export async function generateStaticParams() {
   const catalog = loadCatalog();
@@ -39,7 +39,7 @@ export default async function ProductPage({
   const product = getDisplayProductBySlug(slug);
   if (!product) notFound();
 
-  const enriched = enrichProductForConfigurator(product, catalog);
+  const enriched = enrichProductForConfiguratorResolved(product, catalog);
 
   return (
     <ProductConfiguratorView product={enriched} catalog={catalog} />

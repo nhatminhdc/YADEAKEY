@@ -10,6 +10,8 @@
     "sync:yadea": "node scripts/sync-yadea.mjs",
     "sync:yadea-home": "node scripts/sync-yadea-home.mjs",
     "sync:configurator": "node scripts/sync-configurator-pages.mjs",
+    "sync:media": "node scripts/sync-media.mjs",
+    "sync:all": "npm run sync:yadea && npm run sync:yadea-home && npm run sync:configurator && npm run sync:media",
     "admin:hash-password": "node scripts/hash-admin-password.mjs"
   },
   "dependencies": {
@@ -18,6 +20,7 @@
     "next": "^15.3.3",
     "react": "^19.1.0",
     "react-dom": "^19.1.0",
+    "sharp": "^0.34.5",
     "zod": "^3.25.56"
   },
   "devDependencies": {

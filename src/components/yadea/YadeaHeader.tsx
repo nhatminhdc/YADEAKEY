@@ -89,6 +89,7 @@ export function YadeaHeader({
               src={logoUrl}
               alt="YADEA"
               fill
+              preset="logo"
               className="object-contain object-left"
               priority
             />

@@ -1,7 +1,11 @@
 "use client";
 
 import { useEffect, useState } from "react";
-import { proxyImageUrl } from "@/lib/yadea-types";
+import {
+  imageSizesForPreset,
+  proxyImageUrl,
+  type ImageSizePreset,
+} from "@/lib/image-url";
 
 type Props = {
   src: string;
@@ -11,9 +15,13 @@ type Props = {
   width?: number;
   height?: number;
   priority?: boolean;
+  /** Preset kích thước — tự chọn w + sizes */
+  preset?: ImageSizePreset;
+  /** Ghi đè width proxy (ưu tiên hơn preset) */
+  proxyWidth?: number;
+  quality?: number;
 };
 
-/** Ảnh qua proxy — dùng thẻ img native để ổn định với yadea.com.vn */
 export function ProxiedImage({
   src,
   alt,
@@ -22,28 +30,47 @@ export function ProxiedImage({
   width,
   height,
   priority,
+  preset,
+  proxyWidth,
+  quality,
 }: Props) {
-  const proxied = proxyImageUrl(src);
-  const [imgSrc, setImgSrc] = useState(proxied);
+  const resolved = proxyImageUrl(src, {
+    preset,
+    w: proxyWidth,
+    q: quality,
+  });
+  const [imgSrc, setImgSrc] = useState(resolved);
+  const sizes = imageSizesForPreset(preset);
 
   useEffect(() => {
-    setImgSrc(proxied);
-  }, [proxied]);
+    setImgSrc(resolved);
+  }, [resolved]);
 
   const onError = () => {
-    if (imgSrc !== src) setImgSrc(src);
+    if (!src.startsWith("/") && imgSrc !== src) {
+      setImgSrc(src);
+      return;
+    }
+    const fallback = proxyImageUrl(src, { w: proxyWidth ?? 1200, q: quality });
+    if (imgSrc !== fallback) setImgSrc(fallback);
+  };
+
+  const shared = {
+    src: imgSrc,
+    alt,
+    onError,
+    decoding: "async" as const,
+    loading: (priority ? "eager" : "lazy") as "eager" | "lazy",
+    fetchPriority: priority ? ("high" as const) : undefined,
+    sizes,
   };
 
   if (fill) {
     return (
       // eslint-disable-next-line @next/next/no-img-element
       <img
-        src={imgSrc}
-        alt={alt}
-        onError={onError}
+        {...shared}
         className={`absolute inset-0 h-full w-full ${className}`}
-        loading={priority ? "eager" : "lazy"}
-        decoding="async"
       />
     );
   }
@@ -51,14 +78,10 @@ export function ProxiedImage({
   return (
     // eslint-disable-next-line @next/next/no-img-element
     <img
-      src={imgSrc}
-      alt={alt}
-      onError={onError}
+      {...shared}
       width={width ?? 800}
       height={height ?? 600}
       className={className}
-      loading={priority ? "eager" : "lazy"}
-      decoding="async"
     />
   );
 }

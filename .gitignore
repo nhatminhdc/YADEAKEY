@@ -15,3 +15,7 @@ Thumbs.db
 
 # Local tooling (bundled Node, not for repo)
 .tools/
+
+# Ảnh đã sync (manifest vẫn commit; file .webp tạo bằng npm run sync:media)
+public/media/*
+!public/media/.gitkeep

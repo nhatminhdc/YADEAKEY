@@ -45,6 +45,8 @@ export function NewsCarousel({ news }: { news: YadeaHome["news"] }) {
                       src={item.imageUrl}
                       alt={item.title}
                       fill
+                      preset="banner"
+                      proxyWidth={640}
                       className="object-cover"
                     />
                   ) : (

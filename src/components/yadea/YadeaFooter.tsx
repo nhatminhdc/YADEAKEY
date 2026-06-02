@@ -17,6 +17,7 @@ export function YadeaFooter({ settings }: { settings: SiteSettings }) {
               src={f.logoUrl}
               alt="YADEA"
               fill
+              preset="logo"
               className="object-contain object-left"
             />
           </div>

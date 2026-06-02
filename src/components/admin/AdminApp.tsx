@@ -380,8 +380,8 @@ export function AdminApp() {
                 Quét & cập nhật tự động từ yadea.com.vn
               </h2>
               <p className="mt-2 text-sm text-gray-600">
-                Chạy lần lượt: catalog (giá, ảnh sản phẩm) → trang chủ (banner,
-                sản phẩm mới, nhóm xe) → trang cấu hình (màu, specs).
+                Chạy lần lượt: catalog → trang chủ → configurator → tải & nén
+                ảnh WebP vào <code className="text-xs">public/media</code>.
               </p>
               <button
                 type="button"

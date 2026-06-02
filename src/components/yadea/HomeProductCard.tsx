@@ -50,6 +50,7 @@ export function HomeProductCard({ product }: Props) {
               src={activeImage}
               alt={name}
               fill
+              preset="card"
               className="yadea-img-zoom object-contain p-4"
             />
           )}

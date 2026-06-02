@@ -115,6 +115,8 @@ export function ProductConfiguratorView({ product, catalog }: Props) {
                   src={item.thumb}
                   alt={item.label}
                   fill
+                  preset="card"
+                  proxyWidth={120}
                   className="object-contain p-0.5"
                 />
               ) : (
@@ -167,6 +169,7 @@ export function ProductConfiguratorView({ product, catalog }: Props) {
                       src={activeImage}
                       alt={`${name} — ${activeColor?.name ?? ""}`}
                       fill
+                      preset="gallery"
                       className="yadea-config-image"
                       priority
                     />

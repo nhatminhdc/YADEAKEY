@@ -12,8 +12,8 @@ export {
   getColorSwatches,
   getProductBySlug,
   getProductImage,
-  proxyImageUrl,
 } from "@/lib/yadea-types";
+export { proxyImageUrl } from "@/lib/image-url";
 
 const catalogPath = () => join(process.cwd(), "data", "yadea-products.json");
 

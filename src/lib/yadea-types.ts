@@ -99,9 +99,7 @@ export type YadeaCatalog = z.infer<typeof yadeaCatalogSchema>;
 const SKIP_IMAGE =
   /logo|favicon|banner-mobile|banner-web|background|white-logo|circle-shape|aigo-logo/i;
 
-export function proxyImageUrl(url: string): string {
-  return `/api/proxy-image?url=${encodeURIComponent(url)}`;
-}
+export { proxyImageUrl } from "@/lib/image-url";
 
 export function getProductImage(product: YadeaProduct): string | null {
   const key = product.slug.replace(/^yadea-/, "").replace(/-/g, "");

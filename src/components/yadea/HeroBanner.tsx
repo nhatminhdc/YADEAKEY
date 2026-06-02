@@ -56,6 +56,7 @@ export function HeroBanner({ hero }: { hero: YadeaHome["hero"] }) {
                       src={src}
                       alt="YADEA"
                       fill
+                      preset="hero"
                       className="yadea-img-zoom-hero object-cover"
                       priority={i === 0}
                     />

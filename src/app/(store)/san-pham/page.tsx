@@ -1,8 +1,11 @@
 import { getDisplayProducts, getEnabledCategories } from "@/lib/catalog-display";
+import { getProductImage } from "@/lib/yadea-catalog";
 import { getCategoryLabel, loadSiteSettings } from "@/lib/site-settings";
+import { resolveImageUrl } from "@/lib/resolve-images.server";
 import { ProductCard } from "@/components/yadea/ProductCard";
+import type { YadeaProduct } from "@/lib/yadea-types";
 
-export const dynamic = "force-dynamic";
+export const revalidate = 3600;
 
 export const metadata = {
   title: "Sản phẩm | YADEA Việt Nam",
@@ -15,7 +18,11 @@ export default async function ProductsPage({
 }) {
   const { loai } = await searchParams;
   const settings = loadSiteSettings();
-  const products = getDisplayProducts(loai);
+  const products = getDisplayProducts(loai).map((p): YadeaProduct => {
+    const img = getProductImage(p);
+    if (!img) return p;
+    return { ...p, heroImage: resolveImageUrl(img, "card") };
+  });
   const categories = getEnabledCategories(settings);
 
   const title =

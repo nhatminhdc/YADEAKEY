@@ -37,6 +37,7 @@ export function InstagramGallery({ images }: { images: YadeaHome["instagram"] })
                 src={src}
                 alt={`Instagram YADEA ${i + 1}`}
                 fill
+                preset="card"
                 className="object-cover"
               />
             </a>
